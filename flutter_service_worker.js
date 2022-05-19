@@ -65,10 +65,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "a2ef224adb4987a4fa0541458cb8ddb5",
-"/": "a2ef224adb4987a4fa0541458cb8ddb5",
+"index.html": "0b4b7eebdf4156ae0e76cc032a9ba8eb",
+"/": "0b4b7eebdf4156ae0e76cc032a9ba8eb",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "4838db588de9533c106c60ede99b7e98",
+"main.dart.js": "63f8ddab82bba60dd7dcbc7619ab123c",
 "manifest.json": "6e37734c79d834751e39742d5d3517e3",
 "SyncToy_8171bd1e-c97f-4f4f-b58e-0739c1638d7e.dat": "68ba4e34487265322ccca6df0add4635",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
