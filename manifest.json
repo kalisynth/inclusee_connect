@@ -1,22 +1,22 @@
 {
-    "name": "aurouschatweb",
-    "short_name": "aurouschatweb",
+    "name": "incluseeweb",
+    "short_name": "incluseeweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Aurous Plus for the Web",
-    "orientation": "portrait-primary",
+    "description": "Inclusee Connect",
+    "orientation": "landscape-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
+            "src": "icons/ms-icon-144x144.png",
+            "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
+            "src": "icons/ms-icon-310x310.png",
+            "sizes": "310x310",
             "type": "image/png"
         }
     ]
