@@ -24,7 +24,7 @@ const RESOURCES = {
 "assets/assets/img/icons/sq/trivia.png": "cfb1b2f266e0a98487c41dc3120284d6",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "ca19aa3ae3bdbf104f7b8b204b1013c9",
+"assets/NOTICES": "dab1f2acc21d4a13e016f62f77317be2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "canvaskit/canvaskit.js": "3725a0811e16affbef87d783520e61d4",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -59,10 +59,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "69af4a101f81b1cc0d597da433d83ff0",
-"/": "69af4a101f81b1cc0d597da433d83ff0",
+"index.html": "6af31ebe4326e1573646b85b115cf2f7",
+"/": "6af31ebe4326e1573646b85b115cf2f7",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "5a2cc82e5406187dca8d649c0142feb9",
+"main.dart.js": "cc955d54416d2e466ce3a0ecae2d5e39",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "4162556d16194ef737c3d9b78eb06ca9"
 };
