@@ -38921,7 +38921,7 @@ A.ai_.prototype={
 $0(){},
 $S:1}
 A.ahZ.prototype={
-$0(){return this.a.of("https://inclusee.org.au/app/uploads/2022/10/GOW-Timetable-35-%C3%97-23-cm-2.jpg")},
+$0(){return this.a.of("https://inclusee.org.au/events-get-online-week/")},
 $S:0}
 A.nJ.prototype={
 ah(){var s,r,q,p=new A.jT()
