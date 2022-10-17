@@ -38884,19 +38884,19 @@ A.Q()
 a1=A.eV(b9,new A.aX(a2,!1),"assets/img/icons/goweek/split/bmtSplit.png",new A.aX(a1,!1),"Biggest Morning Tea","https://us06web.zoom.us/j/86709093611?pwd=RXZFSmdYWjRycnRUMG1CdUpJZEhsUT09")
 a2=A.bS(b4,10,20,11,0,0,0,!1)
 if(!A.b4(a2))A.A(A.aB(a2))
-a3=A.bS(b4,10,18,12,0,0,0,!1)
+a3=A.bS(b4,10,18,13,0,0,0,!1)
 if(!A.b4(a3))A.A(A.aB(a3))
 A.Q()
 a2=A.eV(b9,new A.aX(a3,!1),"assets/img/icons/goweek/In2Trivia.png",new A.aX(a2,!1),"In2Trivia","https://us06web.zoom.us/j/89696318591?pwd=MjgzSlprRU1LZUhiaWhsQXlzcUtzUT09")
-a3=A.bS(b4,10,20,14,0,0,0,!1)
+a3=A.bS(b4,10,20,15,0,0,0,!1)
 if(!A.b4(a3))A.A(A.aB(a3))
-a4=A.bS(b4,10,18,15,0,0,0,!1)
+a4=A.bS(b4,10,18,16,0,0,0,!1)
 if(!A.b4(a4))A.A(A.aB(a4))
 A.Q()
 a3=A.eV(b9,new A.aX(a4,!1),"assets/img/icons/goweek/In2Bingo.png",new A.aX(a3,!1),"In2Bingo","https://us06web.zoom.us/j/89465541121?pwd=bC9wRWttOFcrUXdrZWJPTGVWeWZtZz09")
-a4=A.bS(b4,10,20,15,30,0,0,!1)
+a4=A.bS(b4,10,20,16,30,0,0,!1)
 if(!A.b4(a4))A.A(A.aB(a4))
-a5=A.bS(b4,10,18,16,30,0,0,!1)
+a5=A.bS(b4,10,18,17,30,0,0,!1)
 if(!A.b4(a5))A.A(A.aB(a5))
 A.Q()
 a4=A.eV(b9,new A.aX(a5,!1),"assets/img/icons/goweek/In2Books.png",new A.aX(a4,!1),"In2Books","https://us06web.zoom.us/j/88921117675?pwd=S1c4T3ptUFkxQXFyaGEyV2J4SUtBZz09")
@@ -38921,7 +38921,7 @@ A.ai_.prototype={
 $0(){},
 $S:1}
 A.ahZ.prototype={
-$0(){return this.a.of("https://inclusee.org.au/events-get-online-week/")},
+$0(){return this.a.of("https://inclusee.org.au/welcome-to-gow-2022/")},
 $S:0}
 A.nJ.prototype={
 ah(){var s,r,q,p=new A.jT()
