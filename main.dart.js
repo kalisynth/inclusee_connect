@@ -39683,10 +39683,9 @@ if(i)i=$.cT*5
 else{A.R()
 i=1.8}o=A.aH(e,A.bE(A.a([n,new A.ba(new A.a7(0,0,m,0),e,e),l,new A.ba(new A.a7(0,0,k,0),e,e),j,new A.ba(new A.a7(0,0,h,0),e,e),A.Y(g,e,e,e,A.aB(e,e,B.h,e,e,e,e,e,e,e,e,i,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],s),B.k,e,B.b7,B.l),p.a,e,e,o,e,e,e)
 p=A.d8(e,20,e)
-i=f.e
 if(f.w)n=$.cT*5
 else{A.R()
-n=1.8}return A.e0(A.bC(A.a([r,q,o,p,A.Y(i+"! did you know that Get Online Week is this week? \n It's not to late to join in ask your CSO for more information \n Or tap on the Get Online Week button",e,e,e,A.aB(e,e,B.h,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],s),B.k,B.n,B.l),e,e,e)},
+n=1.8}return A.e0(A.bC(A.a([r,q,o,p,A.Y(" ",e,e,e,A.aB(e,e,B.h,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],s),B.k,B.n,B.l),e,e,e)},
 zY(a){return A.eC(B.aA,A.a([new A.uy(a,null),this.Ky()],t.t),B.as,new A.kU())},
 K(a){var s=this
 if(!s.w){new A.ih().ej(a)
