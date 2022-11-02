@@ -40238,7 +40238,7 @@ r=A.aY(A.aU(new A.m(r,!1)),A.aK(new A.m(q,!1)),A.aN(p),14,0,0,0,!1)
 if(!A.au(r))A.y(A.ae(r))
 r=new A.m(r,!1)}Date.now()
 new A.m(Date.now(),!1).D(0,A.b8(0,1,0,0,0))
-return new A.eH("Lunch Club",s,r,u.r,"assets/img/icons/interests/LunchClub.png")},
+return new A.eH("In2Lunch",s,r,u.r,"assets/img/icons/interests/LunchClub.png")},
 OK(a,b){var s,r,q,p
 if(b){s=Date.now()
 r=Date.now()
