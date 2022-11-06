@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5fe912d3604621dbc5640c36cd7768d5",
+  "assets/AssetManifest.json": "938468d9e2c992a413df2b23957356c6",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -104,6 +104,7 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/In2Travel.png": "474dc56762b55c6f1120a36acb20ec39",
 "assets/assets/img/icons/interests/In2Trivia.png": "eaf179fbb0a8343b817a8d8e3044ced9",
 "assets/assets/img/icons/interests/In2Wellness.png": "eb3a0904a485de107c413cab4e448c68",
+"assets/assets/img/icons/interests/inclusee_tile.png": "834dfa6b3b7b9cd321152d1bbfc34e5c",
 "assets/assets/img/icons/interests/Learn2Cook.png": "92a5db3d33934795e1b9f1d8cec4f92f",
 "assets/assets/img/icons/interests/Learn2Paint.png": "a44c45df3578701dab8396c39be991a4",
 "assets/assets/img/icons/interests/LunchClub.png": "3cf34c296f96dac09204438ed3be58dc",
@@ -173,10 +174,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "6c33d3fb9b6158ffff04d8aa4c00e2c8",
-"/": "6c33d3fb9b6158ffff04d8aa4c00e2c8",
+"index.html": "fcf3186c2f5d37131f60a2483b76a6b6",
+"/": "fcf3186c2f5d37131f60a2483b76a6b6",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "08c32d37e5d8f3e8fa23a0506f7b8728",
+"main.dart.js": "59a9176494b45b5266b1aef3ad031b30",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
