@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0a4a853c754a4a9e755838f880b2c127",
+  "assets/AssetManifest.json": "527b6e54c5fcc084efd0988a7eef9677",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -87,6 +87,9 @@ const RESOURCES = {
 "assets/assets/img/gowslides/gowslide7.png": "780eec2fae250cb17036d1e153a9fb1a",
 "assets/assets/img/gowslides/gowslide8.png": "f0dae71f8be4b231448b1055b7ac2474",
 "assets/assets/img/gowslides/gowslide9.png": "2c4ea0cb5159859cc7786d42f196f3cf",
+"assets/assets/img/icons/event/Mission%2520Joy%2520Event%2520tile%25201-2.png": "50f7e1e081769f430d32aedb1145fb05",
+"assets/assets/img/icons/event/Mission%2520Joy%2520Event%2520tile%25201-3.png": "21bb810799333a026f35a06e5e2603ad",
+"assets/assets/img/icons/event/mjoyicon.png": "d1603bc65d69d002d8042d7d7516d4bb",
 "assets/assets/img/icons/inclusee/incluseeconnect.png": "3eaf56be1612a2da888b3c39f3d252ee",
 "assets/assets/img/icons/inclusee/incluseelogo.png": "f4b3f4f98541961f60f278a0565f491e",
 "assets/assets/img/icons/inclusee/incluseelogosmall.png": "778723bf1d02ccda24cb106349e82896",
@@ -175,10 +178,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "8637e44dbc5e2cfcd8a782416b7f5cbc",
-"/": "8637e44dbc5e2cfcd8a782416b7f5cbc",
+"index.html": "765d044a71c27782f079808e8acc309e",
+"/": "765d044a71c27782f079808e8acc309e",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "fac3ff0962f9d2d0c34154adad5e0e46",
+"main.dart.js": "b11378ba1980bd59bc2ac5cb844e51f4",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
