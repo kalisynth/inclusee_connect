@@ -40363,7 +40363,7 @@ i=1.8}o=A.aI(e,A.c7(A.a([n,new A.bq(new A.aa(0,0,m,0),e,e),l,new A.bq(new A.aa(0
 p=A.cL(e,20,e)
 if(f.w)n=$.cF*5
 else{A.Y()
-n=1.8}return A.e7(A.bH(A.a([r,q,o,p,A.a1("Inclusee will be closed on the public holidays 26th December, 27th December and the 2nd of January",e,e,e,A.aT(e,e,B.h,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],s),B.m,B.n,B.l),e,e,e)},
+n=1.8}return A.e7(A.bH(A.a([r,q,o,p,A.a1("Inclusee wishes you a Happy New Year, and we look forward to connecting with you this year",e,e,e,A.aT(e,e,B.h,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],s),B.m,B.n,B.l),e,e,e)},
 A7(a){return A.eL(B.aw,A.a([new A.uH(a,null),this.KN()],t.t),B.aq,new A.l3())},
 K(a){var s=this
 if(!s.w){new A.js().eA(a)
