@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "527b6e54c5fcc084efd0988a7eef9677",
+  "assets/AssetManifest.json": "66d791dd378561e58d2e29d62726aa8f",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -104,6 +104,7 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/In2Movies.png": "f4e1a0c8f4878201304246510560233f",
 "assets/assets/img/icons/interests/In2Sheds.png": "92237bc2733da35859a5d2f64b93558e",
 "assets/assets/img/icons/interests/In2Singing.png": "ee8473ba6377c3ed4394dda72a393883",
+"assets/assets/img/icons/interests/In2Sports.png": "24a38f00b79b34d4228dfd130dfd1da0",
 "assets/assets/img/icons/interests/In2Storytelling.png": "f85327fb7c38188efbae7bd1c4dbc58c",
 "assets/assets/img/icons/interests/In2Travel.png": "474dc56762b55c6f1120a36acb20ec39",
 "assets/assets/img/icons/interests/In2Trivia.png": "eaf179fbb0a8343b817a8d8e3044ced9",
@@ -178,10 +179,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "2432fa3812a03e6a6deec7cf7548652c",
-"/": "2432fa3812a03e6a6deec7cf7548652c",
+"index.html": "7862e8a9a04982ed1aef3b8106662c7a",
+"/": "7862e8a9a04982ed1aef3b8106662c7a",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "893c21f7e57a63e76d32dbbc3b09cf01",
+"main.dart.js": "26a8a0ef84f010a5cd7b084634a72ea5",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
