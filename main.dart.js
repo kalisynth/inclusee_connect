@@ -40705,7 +40705,7 @@ i=1.8}o=A.ax(e,A.c4(A.a([n,new A.bE(new A.af(0,0,m,0),e,e),l,new A.bE(new A.af(0
 p=A.bB(e,20,e)
 if(f.w)n=$.cU*5
 else{A.Y()
-n=1.8}return A.dS(A.bp(A.a([r,q,o,p,A.V("Thursday 26th is a Public Holiday, Inclusee offices will be closed and no Interest2Enjoy clubs will be running on this day",e,e,e,A.aw(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],s),B.m,B.n,B.k),e,e,e)},
+n=1.8}return A.dS(A.bp(A.a([r,q,o,p,A.V(" ",e,e,e,A.aw(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],s),B.m,B.n,B.k),e,e,e)},
 Ab(a){return A.ej(B.ap,A.a([new A.uK(a,null),this.KT()],t.t),B.al,new A.l4())},
 L(a){var s=this
 if(!s.w){new A.js().eC(a)
