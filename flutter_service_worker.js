@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "95c47305bfb1c12d166fa9d9507241eb",
+  "assets/AssetManifest.json": "1970afedbd29d1c38b531784d3bc500e",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -96,7 +96,6 @@ const RESOURCES = {
 "assets/assets/img/icons/inclusee/incluseeconnect.png": "3eaf56be1612a2da888b3c39f3d252ee",
 "assets/assets/img/icons/inclusee/incluseelogo.png": "f4b3f4f98541961f60f278a0565f491e",
 "assets/assets/img/icons/inclusee/incluseelogosmall.png": "778723bf1d02ccda24cb106349e82896",
-"assets/assets/img/icons/interests/Connect2You.png": "75385a03a2e20404f2bdc40cb686fd2c",
 "assets/assets/img/icons/interests/DigitalDropin.png": "9a7611dbca5d565b15f31ed6f252f47b",
 "assets/assets/img/icons/interests/HappyHour.png": "2f1cd8e55886635d936d393589951d78",
 "assets/assets/img/icons/interests/In2Bingo.png": "1b9e2a928e8222e571c3e529f379342b",
@@ -117,6 +116,9 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/Learn2Paint.png": "a44c45df3578701dab8396c39be991a4",
 "assets/assets/img/icons/interests/LunchClub.png": "3cf34c296f96dac09204438ed3be58dc",
 "assets/assets/img/icons/interests/pag.png": "d6ecb7fe9be0085e384f1de316eff3d1",
+"assets/assets/img/icons/interests/thirds/Connect2You.png": "75385a03a2e20404f2bdc40cb686fd2c",
+"assets/assets/img/icons/interests/thirds/In2Games.png": "71c2fc55164b2671a4e0aaeae731b140",
+"assets/assets/img/icons/interests/thirds/In2Pets.png": "02a8a19aaf0fa95cf6a9c18db2f74c93",
 "assets/assets/img/icons/rd/c2oapp.png": "8062094dfc68575f42cce7887bcd51cd",
 "assets/assets/img/icons/rd/c2yapp.png": "7e54aa05535cc5dcb0a636f60c51ba13",
 "assets/assets/img/icons/rd/gowrd.png": "28645ce0ad0241a7473db6fe206e601a",
@@ -188,10 +190,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "8b45998f2d961b12ec24a00275749d78",
-"/": "8b45998f2d961b12ec24a00275749d78",
+"index.html": "366084d063e45e0152d48169496f6851",
+"/": "366084d063e45e0152d48169496f6851",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "dd701a94087e7688657d98958369e52c",
+"main.dart.js": "c47db3a9c68a24a90af3005c1435f12a",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
