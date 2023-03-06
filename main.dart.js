@@ -39803,7 +39803,7 @@ else{o=d4.db
 o="MONDAY "+A.qr("d").hc(0,A.ka(o,1))+A.SN(A.bt(A.ka(o,1)))}A.ep()
 n=d4.dx?"Today":"On Monday"
 A.ep()
-n=d4.ou(o,n+" we have Digital Drop in at 10 AM, In2Lunch Club at 12 PM and Singing at 2 PM All times are in Australian Eastern Standard Time")
+n=d4.ou(o,n+" we have Digital Drop in, In2Lunch Club and Connect2You All times are in Australian Eastern Standard Time")
 o=d4.dx
 m=d4.c2
 m.e.C(0,A.ax(0,d4.k2,0,0,0))
@@ -40653,7 +40653,7 @@ s=new A.H0()
 s.LJ()
 r=s.f
 switch(r){case 1:A.ep()
-q.a="Today we have Digital Drop in at 10 AM, In2Lunch Club at 12 PM and Singing at 2 PM"
+q.a="Today we have Digital Drop in, In2Lunch Club and Connect2You"
 break
 case 2:A.ep()
 q.a=u.Q
