@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "035e09be3394d3c6e03aac4522442005",
+  "assets/AssetManifest.json": "dced9ba71e6a8664e4d1ca1f75d04bb3",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -97,6 +97,7 @@ const RESOURCES = {
 "assets/assets/img/icons/event/mjoyicon.png": "d1603bc65d69d002d8042d7d7516d4bb",
 "assets/assets/img/icons/event/NBNCollab.png": "d60c5b2236df41ad43d5a81e9491850e",
 "assets/assets/img/icons/event/omaicon.png": "ca0ff1eeb87117b606674b71683a27c5",
+"assets/assets/img/icons/event/robyn.png": "c13a52594dbdbb1e21332d2865a80c9c",
 "assets/assets/img/icons/inclusee/incluseeconnect.png": "3eaf56be1612a2da888b3c39f3d252ee",
 "assets/assets/img/icons/inclusee/incluseelogo.png": "f4b3f4f98541961f60f278a0565f491e",
 "assets/assets/img/icons/inclusee/incluseelogosmall.png": "778723bf1d02ccda24cb106349e82896",
@@ -194,10 +195,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "92091ef05d5201a5af7ed54ec301f171",
-"/": "92091ef05d5201a5af7ed54ec301f171",
+"index.html": "1d64deede521a40a09e0b964f6a42148",
+"/": "1d64deede521a40a09e0b964f6a42148",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "97a0c06440d07a6eb69becc39b00a1ee",
+"main.dart.js": "c16c5d4e38f2a0ae8563a8728a01d816",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
