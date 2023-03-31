@@ -39651,7 +39651,7 @@ q.a=A.a([],t.QB)
 s=A.amk("aurous_app")
 r=Date.now()
 $.bZ().toString
-return new A.NL(q,s,B.d0,new A.N(4278201408),new A.N(4281572235),new A.N(4285841220),new A.A(r,!1),0,0,0,0,0,A.ev().a,0,0,0,0,0,A.ev().b,0,A.ev().c,0,A.ev().d,0,A.ev().e,0,0,A.ev().f,0,A.ev().r,0,A.ev().w,0,A.ev().x,0,A.ev().y,0,A.ev().z,0,A.ev().Q,0,A.ev().as,0,A.ev().at,0,A.ev().ax,0,A.ev().ay,0,A.ev().ch,0,A.ny("h:mm a"),B.m)}}
+return new A.NL(q,s,B.d0,new A.N(4278201408),new A.N(4281572235),new A.N(4285841220),new A.A(r,!1),0,0,0,0,2,A.ev().a,0,0,0,0,2,A.ev().b,0,A.ev().c,0,A.ev().d,0,A.ev().e,0,0,A.ev().f,0,A.ev().r,0,A.ev().w,0,A.ev().x,0,A.ev().y,0,A.ev().z,0,A.ev().Q,0,A.ev().as,0,A.ev().at,0,A.ev().ax,2,A.ev().ay,2,A.ev().ch,0,A.ny("h:mm a"),B.m)}}
 A.l7.prototype={
 i(a){return"TtsState."+this.b}}
 A.NL.prototype={
@@ -39829,18 +39829,18 @@ p=A.aq(m,m,B.f,m,m,m,m,m,m,m,m,20,m,m,m,m,m,!0,m,m,m,m,m,m,m,m)
 o=n.c
 o.toString
 A.ea(!0,new A.aeD(n,k.a.b,l.a.a,q,s,p,r),o,t.z)},
-L(d9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4=this,d5=null,d6="TODAY",d7=" ",d8=t.w
-d9.I(d8).toString
-new A.jy().eF(d9)
+L(e0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4=this,d5=null,d6="TODAY",d7=" ",d8="EASTER HOLIDAYS",d9=t.w
+e0.I(d9).toString
+new A.jy().eF(e0)
 s=d4.CW
 r=A.eN(u.U,B.cs,62,d5)
 A.Y()
 q=t.t
 r=A.c_(A.a([r,new A.bF(new A.ad(0,0,40,0),d5,d5),A.S("Inclusee Enjoy",d5,d5,d5,d5,d5,d5),A.by(d5,d5,100),A.S("ALL TIMES ARE IN "+d4.ok,d5,d5,d5,A.aq(d5,d5,d5,d5,d5,d5,d5,d5,d5,d5,d5,20,d5,d5,d5,d5,d5,!0,d5,d5,d5,d5,d5,d5,d5,d5),B.b9,d5),A.by(d5,d5,100)],q),B.l,d5,B.n,B.k)
 A.Y()
-r=A.q0(A.a([new A.nT(1.8*$.bP).pR(d9)],q),!0,s,!0,r)
-p=d4.c.I(d8).f
-d8=d4.c.I(d8).f
+r=A.q0(A.a([new A.nT(1.8*$.bP).pR(e0)],q),!0,s,!0,r)
+p=d4.c.I(d9).f
+d9=d4.c.I(d9).f
 if(d4.db)o=d6
 else{o=d4.cy
 o="MONDAY "+A.ny("d").f0(0,A.ka(o,1))+A.SN(A.bt(A.ka(o,1)))}A.hb()
@@ -39996,7 +39996,7 @@ d0=Date.now()>d2.gbD()&&Date.now()<d3.gbD()}else d0=!1
 if(d0){$.bZ().toString
 d4.c4=3}d0=d4.c4
 d2=d4.t7()
-return A.oI(r,A.dT(A.bf(A.a([A.am(d5,A.am2(A.a([n,new A.cS(m,!1,o,d7,d5),new A.cS(l,!1,k,d7,d5),j,i,new A.cS(h,!0,g,d7,d5),f,new A.cS(e,!1,d,d7,d5),new A.cS(c,!1,b,d7,d5),new A.cS(a0,!1,a,"This week we have a guest speaker Lorum Ipsum!",d5),a1,new A.cS(a2,!0,a3,d7,d5),a4,new A.cS(a5,!1,d4.dG,d7,d5),new A.cS(a6,!1,a7,d7,d5),new A.cS(a9,!1,a8,"Due to a Public Holiday in2Singing will not be on this week",d5),new A.cS(b1,!1,b0,d7,d5),new A.cS(b2,!0,b3,d7,d5),b4,new A.cS(b6,!1,b5,d7,d5),new A.cS(b7,!1,b8,d7,d5),new A.cS(c0,!1,b9,d7,d5),new A.cS(c2,!1,c1,d7,d5),new A.cS(c4,!1,c3,d7,d5),c5,new A.cS(c7,!1,c6,d7,d5),new A.cS(c8,!1,c9,d7,d5),new A.cS(d1,!1,d0,d7,d5),d2,new A.cS(d4.um(5,d4.fx,16),!0,d4.to,d7,d5)],q),new A.zt(6,1),B.ec,!1),d5,d5,new A.bC(s,d5,d5,d5,d5,d5,B.D),d8.a.b-100,d5,d5,p.a.a)],q),B.l,B.n,B.k),d5,d5,d5),new A.vi(A.c_(A.a([A.fP(A.S("Tap here for Session Info",d5,d5,d5,A.aq(d5,d5,B.f,d5,d5,d5,d5,d5,d5,d5,d5,30,d5,d5,d5,d5,d5,!0,d5,d5,d5,d5,d5,d5,d5,d5),d5,d5),new A.aen(d4)),A.by(d5,d5,30),A.fP(A.S("Join Connect2You open from "+d4.x2+" to "+d4.xr,d5,d5,d5,A.aq(d5,d5,d5,d5,d5,d5,d5,d5,d5,d5,d5,30,d5,d5,d5,d5,d5,!0,d5,d5,d5,d5,d5,d5,d5,d5),d5,d5),new A.aeo(d4))],q),B.l,d5,B.a7,B.k),d5),d5,d5)}}
+return A.oI(r,A.dT(A.bf(A.a([A.am(d5,A.am2(A.a([n,new A.cS(m,!1,o,d7,d5),new A.cS(l,!1,k,d7,d5),j,i,new A.cS(h,!0,g,d7,d5),f,new A.cS(e,!1,d,d7,d5),new A.cS(c,!1,b,d7,d5),new A.cS(a0,!1,a,"This week we have a guest speaker Lorum Ipsum!",d5),a1,new A.cS(a2,!0,a3,d7,d5),a4,new A.cS(a5,!1,d4.dG,d7,d5),new A.cS(a6,!1,a7,d7,d5),new A.cS(a9,!1,a8,"Due to a Public Holiday in2Singing will not be on this week",d5),new A.cS(b1,!1,b0,d7,d5),new A.cS(b2,!0,b3,d7,d5),b4,new A.cS(b6,!1,b5,d7,d5),new A.cS(b7,!1,b8,d7,d5),new A.cS(c0,!1,b9,d7,d5),new A.cS(c2,!1,c1,d7,d5),new A.cS(c4,!1,c3,d7,d5),c5,new A.cS(c7,!1,c6,d8,d5),new A.cS(c8,!1,c9,"Easter Holiday",d5),new A.cS(d1,!1,d0,d8,d5),d2,new A.cS(d4.um(5,d4.fx,16),!0,d4.to,"EASTER HOLIDAY",d5)],q),new A.zt(6,1),B.ec,!1),d5,d5,new A.bC(s,d5,d5,d5,d5,d5,B.D),d9.a.b-100,d5,d5,p.a.a)],q),B.l,B.n,B.k),d5,d5,d5),new A.vi(A.c_(A.a([A.fP(A.S("Tap here for Session Info",d5,d5,d5,A.aq(d5,d5,B.f,d5,d5,d5,d5,d5,d5,d5,d5,30,d5,d5,d5,d5,d5,!0,d5,d5,d5,d5,d5,d5,d5,d5),d5,d5),new A.aen(d4)),A.by(d5,d5,30),A.fP(A.S("Join Connect2You open from "+d4.x2+" to "+d4.xr,d5,d5,d5,A.aq(d5,d5,d5,d5,d5,d5,d5,d5,d5,d5,d5,30,d5,d5,d5,d5,d5,!0,d5,d5,d5,d5,d5,d5,d5,d5),d5,d5),new A.aeo(d4))],q),B.l,d5,B.a7,B.k),d5),d5,d5)}}
 A.aeB.prototype={
 $0(){var s=this.b,r=this.c
 s.k1=r==null?0:r
