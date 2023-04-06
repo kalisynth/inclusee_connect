@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9cc8c44d0b5edbac30bc0f79f1c8d615",
+  "assets/AssetManifest.json": "867f6a7d8f67c85daa67e8b2c622a3f9",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -90,8 +90,10 @@ const RESOURCES = {
 "assets/assets/img/icons/event/bdmetile.png": "68acf273adf08fe17dc3aa96b4e0122e",
 "assets/assets/img/icons/event/bdzicon.png": "dc001d64b8d4fcce5e40723032060648",
 "assets/assets/img/icons/event/Black%2520Divaz%2520Banner.png": "942111e2646ee4bbb6d06db049b62f24",
+"assets/assets/img/icons/event/blackdivasad.png": "87121b849be00dc0f159d042991045fa",
 "assets/assets/img/icons/event/EO_KeyArt_FINAL.jpg": "bbf0718f887be825024317b24cfa5d91",
 "assets/assets/img/icons/event/everybodyoma.png": "e23581b3669b0cd2edcdfe0b417acdc5",
+"assets/assets/img/icons/event/EverybodysOmaad.png": "cd99217914405b673e6cb5152f7c2974",
 "assets/assets/img/icons/event/Mission%2520Joy%2520Event%2520tile%25201-2.png": "50f7e1e081769f430d32aedb1145fb05",
 "assets/assets/img/icons/event/Mission%2520Joy%2520Event%2520tile%25201-3.png": "21bb810799333a026f35a06e5e2603ad",
 "assets/assets/img/icons/event/mjoyicon.png": "d1603bc65d69d002d8042d7d7516d4bb",
@@ -121,6 +123,7 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/Learn2Cook.png": "92a5db3d33934795e1b9f1d8cec4f92f",
 "assets/assets/img/icons/interests/Learn2GetStarted.png": "53e6174c0f9b1d46e7bdbf530ab511f3",
 "assets/assets/img/icons/interests/Learn2Paint.png": "a44c45df3578701dab8396c39be991a4",
+"assets/assets/img/icons/interests/Learn2Storytell.png": "5433298aa7d745ee3edb9357850e1d6c",
 "assets/assets/img/icons/interests/LunchClub.png": "3cf34c296f96dac09204438ed3be58dc",
 "assets/assets/img/icons/interests/pag.png": "d6ecb7fe9be0085e384f1de316eff3d1",
 "assets/assets/img/icons/interests/thirds/Connect2You.png": "75385a03a2e20404f2bdc40cb686fd2c",
@@ -196,10 +199,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "f6764fee7c2fe4387b7ebb984c489485",
-"/": "f6764fee7c2fe4387b7ebb984c489485",
+"index.html": "810bf292f13804f29ab701e511dfd2bb",
+"/": "810bf292f13804f29ab701e511dfd2bb",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "8203198bde9653c1fc2af8d69764c17f",
+"main.dart.js": "19fa2073322dabb8ce4c82897e6ccc95",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
