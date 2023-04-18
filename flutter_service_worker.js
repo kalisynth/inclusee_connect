@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "867f6a7d8f67c85daa67e8b2c622a3f9",
+  "assets/AssetManifest.json": "49a5a9ee67c833ed02081500f703fff3",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -94,6 +94,8 @@ const RESOURCES = {
 "assets/assets/img/icons/event/EO_KeyArt_FINAL.jpg": "bbf0718f887be825024317b24cfa5d91",
 "assets/assets/img/icons/event/everybodyoma.png": "e23581b3669b0cd2edcdfe0b417acdc5",
 "assets/assets/img/icons/event/EverybodysOmaad.png": "cd99217914405b673e6cb5152f7c2974",
+"assets/assets/img/icons/event/In2Generations.png": "244b22231fc09b355dabf7c37f9dcc7a",
+"assets/assets/img/icons/event/in2petsrspca.png": "a53d6a024f40e15a9e7c3893491f9152",
 "assets/assets/img/icons/event/Mission%2520Joy%2520Event%2520tile%25201-2.png": "50f7e1e081769f430d32aedb1145fb05",
 "assets/assets/img/icons/event/Mission%2520Joy%2520Event%2520tile%25201-3.png": "21bb810799333a026f35a06e5e2603ad",
 "assets/assets/img/icons/event/mjoyicon.png": "d1603bc65d69d002d8042d7d7516d4bb",
@@ -199,10 +201,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "a75b9e3c0ae5dc5d3568ec79d2fc3815",
-"/": "a75b9e3c0ae5dc5d3568ec79d2fc3815",
+"index.html": "fdcf828547cbd42a57eb7719656b54fa",
+"/": "fdcf828547cbd42a57eb7719656b54fa",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "5fcda8f49d521c77952cc8a4f5e8afcc",
+"main.dart.js": "7ac273ffd3d9a7598cc47dcbbd1f78e2",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
