@@ -40145,7 +40145,7 @@ c=e4.p1
 if(e4.dx)b=e6
 else{b=e4.cy
 b="TUESDAY "+A.nK("d").f5(0,A.kc(b,2))+A.T9(A.br(A.kc(b,2)))}A.fO()
-b=e4.oE(b,"On Tuesday we have Travel at 10 AM, In2Lunch Club at 12 PM, Crafts is on at 2 PM and Gardening at 2 30 PM")
+b=e4.oE(b,"On Tuesday we have In2Travel, In2Generations, In2Craft and In2Singing")
 a=e4.Pe(2,e4.dx)
 a0=e4.cf
 a1=e4.qg(2,e4.dx)
@@ -41248,7 +41248,7 @@ i=1.8}s=A.ad(e,A.c0(A.a([n,new A.bH(new A.ae(0,0,m,0),e,e),l,new A.bH(new A.ae(0
 r=A.bB(e,20,e)
 if(f.w)n=$.cL*5
 else{A.Y()
-n=1.8}return A.dV(A.bg(A.a([p,q,s,r,A.S("Inclusee will be closed Labor(1st May) Public Holiday so no clubs will be run on that day",e,e,e,A.ap(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],o),B.l,B.n,B.k),e,e,e)},
+n=1.8}return A.dV(A.bg(A.a([p,q,s,r,A.S(" ",e,e,e,A.ap(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],o),B.l,B.n,B.k),e,e,e)},
 AF(a){return A.dt(B.ai,A.a([new A.vb(a,null),this.Ll()],t.t),B.a1,new A.le())},
 L(a){var s=this
 if(!s.w){new A.jz().eH(a)
