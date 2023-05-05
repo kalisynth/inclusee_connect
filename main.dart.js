@@ -39908,7 +39908,7 @@ q.a=A.a([],t.QB)
 s=A.an0("aurous_app")
 r=Date.now()
 $.bu().toString
-return new A.O4(q,s,B.d2,new A.P(4278201408),new A.P(4281572235),new A.P(4285841220),new A.z(r,!1),0,0,0,0,0,A.eg().a,0,0,0,0,0,A.eg().b,0,A.eg().c,0,A.eg().d,0,A.eg().e,0,0,A.eg().r,0,A.eg().w,0,A.eg().f,0,A.eg().x,0,A.eg().y,0,A.eg().z,0,A.eg().Q,0,A.eg().as,0,A.eg().at,0,A.eg().ax,0,A.eg().ay,0,A.eg().ch,0,A.eg().CW,0,A.nK("h:mm a"),B.m)}}
+return new A.O4(q,s,B.d2,new A.P(4278201408),new A.P(4281572235),new A.P(4285841220),new A.z(r,!1),0,0,0,0,0,A.eg().a,0,0,0,0,0,A.eg().b,0,A.eg().c,0,A.eg().d,0,A.eg().e,0,0,A.eg().r,0,A.eg().w,0,A.eg().f,0,A.eg().x,0,A.eg().y,0,A.eg().z,0,A.eg().Q,0,A.eg().as,2,A.eg().at,2,A.eg().ax,2,A.eg().ay,0,A.eg().ch,0,A.eg().CW,0,A.nK("h:mm a"),B.m)}}
 A.la.prototype={
 i(a){return"TtsState."+this.b}}
 A.O4.prototype={
@@ -40086,18 +40086,18 @@ p=A.ap(m,m,B.f,m,m,m,m,m,m,m,m,20,m,m,m,m,m,!0,m,m,m,m,m,m,m,m)
 o=n.c
 o.toString
 A.eb(!0,new A.afj(n,k.a.b,l.a.a,q,s,p,r),o,t.z)},
-L(f1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4=this,e5=null,e6="TODAY",e7=" ",e8="assets/img/icons/event/blackdivasad.png",e9="EASTER HOLIDAYS",f0=t.w
-f1.H(f0).toString
-new A.jz().eH(f1)
+L(f2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4=this,e5=null,e6="TODAY",e7=" ",e8="assets/img/icons/event/blackdivasad.png",e9="Closed due to Staff Training",f0="EASTER HOLIDAYS",f1=t.w
+f2.H(f1).toString
+new A.jz().eH(f2)
 s=e4.CW
 r=A.eO(u.U,B.bz,62,e5)
 A.Y()
 q=t.t
 r=A.c0(A.a([r,new A.bH(new A.ae(0,0,40,0),e5,e5),A.S("Inclusee Enjoy",e5,e5,e5,e5,e5,e5),A.bB(e5,e5,100),A.S("ALL TIMES ARE IN "+e4.ok,e5,e5,e5,A.ap(e5,e5,e5,e5,e5,e5,e5,e5,e5,e5,e5,20,e5,e5,e5,e5,e5,!0,e5,e5,e5,e5,e5,e5,e5,e5),B.aQ,e5),A.bB(e5,e5,100)],q),B.l,e5,B.n,B.k)
 A.Y()
-r=A.qf(A.a([new A.o3(1.8*$.bS).q4(f1)],q),!0,s,!0,r)
-p=e4.c.H(f0).f
-o=e4.c.H(f0).f
+r=A.qf(A.a([new A.o3(1.8*$.bS).q4(f2)],q),!0,s,!0,r)
+p=e4.c.H(f1).f
+o=e4.c.H(f1).f
 if(e4.db)n=e6
 else{n=e4.cy
 n="MONDAY "+A.nK("d").f5(0,A.kc(n,1))+A.T9(A.br(A.kc(n,1)))}A.fO()
@@ -40307,11 +40307,11 @@ e0.toString
 e0=Date.now()>e2.gb7()&&Date.now()<e3.gb7()}else e0=!1
 if(e0){$.bu().toString
 e4.pQ=3}e0=e4.pQ
-e2=e4.c.H(f0).f
-f0=e4.c.H(f0).f
-e2=A.ad(e5,A.k9(A.dt(B.ai,A.a([A.ad(e5,e5,e5,e5,new A.bx(e5,A.qF(B.ct,new A.hg("assets/img/icons/interests/inclusee_tile.png",e5,e5)),e5,e5,e5,e5,B.D),e5,e5,e5,e5),A.ad(e5,e5,e5,e5,new A.bx(e5,e5,e5,e5,e5,new A.eh(B.bU,B.cp,B.ar,A.a([B.H],t.R),e5,e5),B.D),e5,e5,e5,e5)],q),B.a1,e5),e5),e5,e5,e5,f0.a.b/5,e5,e5,e2.a.a/5)
-f0=e4.Ia(e8)
-return A.oU(r,A.dV(A.bg(A.a([A.ad(e5,A.amJ(A.a([m,new A.ca(l,!1,n,e7,e5),new A.ca(k,!1,j,e7,e5),new A.ca(h,!1,i,e7,e5),new A.ca(f,!1,g,e7,e5),e,new A.ca(d,!0,c,e7,e5),b,new A.ca(a,!1,a0,e7,e5),new A.ca(a1,!1,a2,e7,e5),new A.ca(a4,!1,e4.dX,e7,e5),new A.ca(a5,!1,a3,"This week we have a guest speaker Lorum Ipsum!",e5),new A.ca(a7,!1,a6,"Due to a Public Holiday in2Singing will not be on this week",e5),new A.ca(a8,!0,a9,e7,e5),b0,new A.ca(b1,!1,e4.dG,e7,e5),new A.ca(b2,!1,b3,e7,e5),new A.ca(b5,!1,b4,e7,e5),new A.ca(b7,!1,b6,e7,e5),new A.ca(b9,!1,b8,e7,e5),new A.ca(c0,!0,c1,e7,e5),c2,new A.ca(c4,!1,c3,e7,e5),new A.ca(c5,!1,c6,e7,e5),new A.ca(c8,!1,c7,e7,e5),new A.ca(d0,!1,c9,e7,e5),new A.ca(d2,!1,d1,e7,e5),new A.ca(d3,!0,d4,e7,e5),d5,new A.ca(d7,!0,d6,e9,e5),new A.ca(d8,!1,d9,"Easter Holiday",e5),new A.ca(e1,!1,e0,e9,e5),e2,f0,new A.ca(e4.pm(5,e4.fx,16),!0,e4.to,"EASTER HOLIDAY",e5)],q),new A.zH(7,1),B.ed,!1),e5,e5,new A.bx(s,e5,e5,e5,e5,e5,B.D),o.a.b-100,e5,e5,p.a.a)],q),B.l,B.n,B.k),e5,e5,e5),new A.vz(A.c0(A.a([A.fU(A.S("Tap here for Session Info",e5,e5,e5,A.ap(e5,e5,B.f,e5,e5,e5,e5,e5,e5,e5,e5,30,e5,e5,e5,e5,e5,!0,e5,e5,e5,e5,e5,e5,e5,e5),e5,e5),new A.af3(e4)),A.bB(e5,e5,30),A.fU(A.S("Join Connect2You open from "+e4.x2+" to "+e4.xr,e5,e5,e5,A.ap(e5,e5,e5,e5,e5,e5,e5,e5,e5,e5,e5,30,e5,e5,e5,e5,e5,!0,e5,e5,e5,e5,e5,e5,e5,e5),e5,e5),new A.af4(e4))],q),B.l,e5,B.a8,B.k),e5),e5,e5)}}
+e2=e4.c.H(f1).f
+f1=e4.c.H(f1).f
+e2=A.ad(e5,A.k9(A.dt(B.ai,A.a([A.ad(e5,e5,e5,e5,new A.bx(e5,A.qF(B.ct,new A.hg("assets/img/icons/interests/inclusee_tile.png",e5,e5)),e5,e5,e5,e5,B.D),e5,e5,e5,e5),A.ad(e5,e5,e5,e5,new A.bx(e5,e5,e5,e5,e5,new A.eh(B.bU,B.cp,B.ar,A.a([B.H],t.R),e5,e5),B.D),e5,e5,e5,e5)],q),B.a1,e5),e5),e5,e5,e5,f1.a.b/5,e5,e5,e2.a.a/5)
+f1=e4.Ia(e8)
+return A.oU(r,A.dV(A.bg(A.a([A.ad(e5,A.amJ(A.a([m,new A.ca(l,!1,n,e7,e5),new A.ca(k,!1,j,e7,e5),new A.ca(h,!1,i,e7,e5),new A.ca(f,!1,g,e7,e5),e,new A.ca(d,!0,c,e7,e5),b,new A.ca(a,!1,a0,e7,e5),new A.ca(a1,!1,a2,e7,e5),new A.ca(a4,!1,e4.dX,e7,e5),new A.ca(a5,!1,a3,"This week we have a guest speaker Lorum Ipsum!",e5),new A.ca(a7,!1,a6,"Due to a Public Holiday in2Singing will not be on this week",e5),new A.ca(a8,!0,a9,e7,e5),b0,new A.ca(b1,!1,e4.dG,e7,e5),new A.ca(b2,!1,b3,e7,e5),new A.ca(b5,!1,b4,e7,e5),new A.ca(b7,!1,b6,e7,e5),new A.ca(b9,!1,b8,e7,e5),new A.ca(c0,!0,c1,e7,e5),c2,new A.ca(c4,!1,c3,e7,e5),new A.ca(c5,!1,c6,e7,e5),new A.ca(c8,!1,c7,e9,e5),new A.ca(d0,!1,c9,e9,e5),new A.ca(d2,!1,d1,e9,e5),new A.ca(d3,!0,d4,"Staff Training Day",e5),d5,new A.ca(d7,!0,d6,f0,e5),new A.ca(d8,!1,d9,"Easter Holiday",e5),new A.ca(e1,!1,e0,f0,e5),e2,f1,new A.ca(e4.pm(5,e4.fx,16),!0,e4.to,"EASTER HOLIDAY",e5)],q),new A.zH(7,1),B.ed,!1),e5,e5,new A.bx(s,e5,e5,e5,e5,e5,B.D),o.a.b-100,e5,e5,p.a.a)],q),B.l,B.n,B.k),e5,e5,e5),new A.vz(A.c0(A.a([A.fU(A.S("Tap here for Session Info",e5,e5,e5,A.ap(e5,e5,B.f,e5,e5,e5,e5,e5,e5,e5,e5,30,e5,e5,e5,e5,e5,!0,e5,e5,e5,e5,e5,e5,e5,e5),e5,e5),new A.af3(e4)),A.bB(e5,e5,30),A.fU(A.S("Join Connect2You open from "+e4.x2+" to "+e4.xr,e5,e5,e5,A.ap(e5,e5,e5,e5,e5,e5,e5,e5,e5,e5,e5,30,e5,e5,e5,e5,e5,!0,e5,e5,e5,e5,e5,e5,e5,e5),e5,e5),new A.af4(e4))],q),B.l,e5,B.a8,B.k),e5),e5,e5)}}
 A.afh.prototype={
 $0(){var s=this.b,r=this.c
 s.k1=r==null?0:r
@@ -41248,7 +41248,7 @@ i=1.8}s=A.ad(e,A.c0(A.a([n,new A.bH(new A.ae(0,0,m,0),e,e),l,new A.bH(new A.ae(0
 r=A.bB(e,20,e)
 if(f.w)n=$.cL*5
 else{A.Y()
-n=1.8}return A.dV(A.bg(A.a([p,q,s,r,A.S(" ",e,e,e,A.ap(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],o),B.l,B.n,B.k),e,e,e)},
+n=1.8}return A.dV(A.bg(A.a([p,q,s,r,A.S("Due to staff training In2Trivia, In2Books and In2Sheds will not be running on Thursday 11/5/23",e,e,e,A.ap(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],o),B.l,B.n,B.k),e,e,e)},
 AF(a){return A.dt(B.ai,A.a([new A.vb(a,null),this.Ll()],t.t),B.a1,new A.le())},
 L(a){var s=this
 if(!s.w){new A.jz().eH(a)
