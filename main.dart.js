@@ -39766,7 +39766,7 @@ q=A.S("INCLUSEE INFO",f,f,f,f,f,f)
 A.Y()
 A.fO()
 p=t.t
-q=A.c0(A.a([r,new A.bH(new A.ad(0,0,40,0),f,f),q,new A.bH(new A.ad(0,0,40,0),f,f),A.S("Inclusee 2.0.7",f,f,f,f,f,f),A.bA(f,f,100)],p),B.l,f,B.n,B.k)
+q=A.c0(A.a([r,new A.bH(new A.ad(0,0,40,0),f,f),q,new A.bH(new A.ad(0,0,40,0),f,f),A.S("Inclusee 2.0.8",f,f,f,f,f,f),A.bA(f,f,100)],p),B.l,f,B.n,B.k)
 A.Y()
 q=A.qf(A.a([new A.o3(1.8*$.bS).q4(a)],p),!0,g.d,!0,q)
 r=g.c.H(s).f
@@ -41433,9 +41433,9 @@ o=t.it
 n=A.af(g,g,g,g,new A.bG(g,g,g,g,g,new A.ex(B.co,B.d7,B.au,A.a([B.K,A.ax(0,0,188,212)],o),g,g),B.D),g,g,g,g)
 m=$.cL
 l=h.a
-m=A.bA(g,m*(l.d?12:18),g)
+m=A.bA(g,m*(l.d?12:16.5),g)
 l=l.c.a
-l=A.S(l,g,g,g,A.ap(g,g,B.f,g,g,g,g,g,g,g,g,l.length<24?$.Tk():$.Tk()-2,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.aQ,g)
+l=A.S(l,g,g,g,A.ap(g,g,B.f,g,g,g,g,g,g,g,g,l.length<25?$.Tk():$.Tk()-2.5,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.aQ,g)
 k=h.a
 j=k.d?"Starts":""
 k=A.S(j+" "+f.f5(0,k.c.e),g,g,g,A.ap(g,g,B.f,g,g,g,g,g,g,g,g,$.Tk(),g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.aQ,g)
