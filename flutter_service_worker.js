@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "abc699bef3fd72b709090f37a032d52b",
+  "assets/AssetManifest.json": "bdeb48f44898d6627da81200c11ca18f",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -135,6 +135,7 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/pag.png": "d6ecb7fe9be0085e384f1de316eff3d1",
 "assets/assets/img/icons/interests/thirds/Connect2You.png": "75385a03a2e20404f2bdc40cb686fd2c",
 "assets/assets/img/icons/interests/thirds/ddi3rd.png": "c32f5070e06029a5bc4d5f03655acf81",
+"assets/assets/img/icons/interests/thirds/in2biblestudies.png": "01aee27b54b5f328ca9a72cf7d546874",
 "assets/assets/img/icons/interests/thirds/In2Craft.png": "5ce82e315fb9522a284ee243c692d9fd",
 "assets/assets/img/icons/interests/thirds/In2Sheds.png": "a78bb23034db9bee5a8002a71db8d847",
 "assets/assets/img/icons/interests/thirds/In2Travel.png": "8da4e765d3bb5a2d5e485cb6937b15e1",
@@ -224,10 +225,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "9165ba8c25af59188ee9c1faac408c92",
-"/": "9165ba8c25af59188ee9c1faac408c92",
+"index.html": "51a2d6fc8ff0f421245f10abee61b9ea",
+"/": "51a2d6fc8ff0f421245f10abee61b9ea",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "22dcb6f29031ef84ac52e60a2dcf9e41",
+"main.dart.js": "d9fd4a8ff7db56e53b504e54fa24dca7",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
