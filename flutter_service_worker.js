@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "bdeb48f44898d6627da81200c11ca18f",
+  "assets/AssetManifest.json": "d008e97080e63b395798a4cf9a83e0f7",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -90,6 +90,7 @@ const RESOURCES = {
 "assets/assets/img/icons/event/bdmetile.png": "68acf273adf08fe17dc3aa96b4e0122e",
 "assets/assets/img/icons/event/bdzicon.png": "dc001d64b8d4fcce5e40723032060648",
 "assets/assets/img/icons/event/Black%2520Divaz%2520Banner.png": "942111e2646ee4bbb6d06db049b62f24",
+"assets/assets/img/icons/event/Black%2520Divaz%2520Movie%2520Tile.png": "68acf273adf08fe17dc3aa96b4e0122e",
 "assets/assets/img/icons/event/blackdivasad.png": "87121b849be00dc0f159d042991045fa",
 "assets/assets/img/icons/event/EO_KeyArt_FINAL.jpg": "bbf0718f887be825024317b24cfa5d91",
 "assets/assets/img/icons/event/everybodyoma.png": "e23581b3669b0cd2edcdfe0b417acdc5",
@@ -100,6 +101,7 @@ const RESOURCES = {
 "assets/assets/img/icons/event/Mission%2520Joy%2520Event%2520tile%25201-3.png": "21bb810799333a026f35a06e5e2603ad",
 "assets/assets/img/icons/event/mjoyicon.png": "d1603bc65d69d002d8042d7d7516d4bb",
 "assets/assets/img/icons/event/nbnicon.png": "1602c7d426dec37c21efc4b994add149",
+"assets/assets/img/icons/event/NRW%2520Morning%2520Tea.png": "835769100fbb780bfe99034e230497ec",
 "assets/assets/img/icons/event/nurso.png": "a66272e62db1e14febce8e05c9e6e381",
 "assets/assets/img/icons/event/omaicon.png": "ca0ff1eeb87117b606674b71683a27c5",
 "assets/assets/img/icons/event/vowicon.png": "838c81c47f036fa08e83226bd975375f",
@@ -137,7 +139,9 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/thirds/ddi3rd.png": "c32f5070e06029a5bc4d5f03655acf81",
 "assets/assets/img/icons/interests/thirds/in2biblestudies.png": "01aee27b54b5f328ca9a72cf7d546874",
 "assets/assets/img/icons/interests/thirds/In2Craft.png": "5ce82e315fb9522a284ee243c692d9fd",
+"assets/assets/img/icons/interests/thirds/In2Pets.png": "02a8a19aaf0fa95cf6a9c18db2f74c93",
 "assets/assets/img/icons/interests/thirds/In2Sheds.png": "a78bb23034db9bee5a8002a71db8d847",
+"assets/assets/img/icons/interests/thirds/In2Singing%2520V2.png": "a772a31f8fc760361ee27c230d4dd96f",
 "assets/assets/img/icons/interests/thirds/In2Travel.png": "8da4e765d3bb5a2d5e485cb6937b15e1",
 "assets/assets/img/icons/interests/thirds/Lunch%2520Club.png": "443127b1ccd78163f5157bb7ce71be0a",
 "assets/assets/img/icons/rd/c2oapp.png": "8062094dfc68575f42cce7887bcd51cd",
@@ -225,10 +229,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "51a2d6fc8ff0f421245f10abee61b9ea",
-"/": "51a2d6fc8ff0f421245f10abee61b9ea",
+"index.html": "94de8edfcdee1b076fbaf4e342aad74d",
+"/": "94de8edfcdee1b076fbaf4e342aad74d",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "d9fd4a8ff7db56e53b504e54fa24dca7",
+"main.dart.js": "da3b3eea4dfc4defb1209e507a59cecd",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
