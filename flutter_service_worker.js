@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9ac9b585cea84b5f2d65f9968bbc2c00",
+  "assets/AssetManifest.json": "e2bdad1f8f478301ca8c31233d3913d4",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -141,6 +141,7 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/inclusee_tile_pale.png": "3637b1177784a5e534b55e91efc845d0",
 "assets/assets/img/icons/interests/inclusee_tile_white.png": "3897ebd804b69b5a40c43c7757f70e24",
 "assets/assets/img/icons/interests/l2simgtile.png": "2d9e5539e2dde0f4985f60d7aca821f3",
+"assets/assets/img/icons/interests/l2ukulele.png": "8965266ddf42b7b64d93f1fdb8874ea2",
 "assets/assets/img/icons/interests/lctext.png": "ae4979809e61ba7f77541d87a6bfa0f7",
 "assets/assets/img/icons/interests/Learn2Cook.png": "92a5db3d33934795e1b9f1d8cec4f92f",
 "assets/assets/img/icons/interests/Learn2GetStarted.png": "53e6174c0f9b1d46e7bdbf530ab511f3",
@@ -162,8 +163,11 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/thirds/In2Gardeningtextimg.png": "403b70e02420fb5b1eddb99816981e08",
 "assets/assets/img/icons/interests/thirds/In2Pets.png": "02a8a19aaf0fa95cf6a9c18db2f74c93",
 "assets/assets/img/icons/interests/thirds/In2Sheds.png": "a78bb23034db9bee5a8002a71db8d847",
+"assets/assets/img/icons/interests/thirds/In2Shedstxtimg.png": "ee6b1d3136aa1b3af68f54af3a145352",
 "assets/assets/img/icons/interests/thirds/In2Singing%2520V2.png": "a772a31f8fc760361ee27c230d4dd96f",
 "assets/assets/img/icons/interests/thirds/In2Travel.png": "8da4e765d3bb5a2d5e485cb6937b15e1",
+"assets/assets/img/icons/interests/thirds/learn2gmail.png": "aad9ceb601659b234de288d9a0151b75",
+"assets/assets/img/icons/interests/thirds/learn2shoptxtimg.png": "a7f3fc102a4cc48f2fb44f8baa7a4d0e",
 "assets/assets/img/icons/interests/thirds/Lunch%2520Club.png": "443127b1ccd78163f5157bb7ce71be0a",
 "assets/assets/img/icons/interests/txtimg/HappyHourtxtimg.png": "e48a82149f642d652ed391fc97b32e89",
 "assets/assets/img/icons/interests/txtimg/In2BibleStudiestxtimg.png": "48b2a24c5c15b0a22f333dfa9b237057",
@@ -259,10 +263,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "35c22a672a755e3a2545cd19a4713b3e",
-"/": "35c22a672a755e3a2545cd19a4713b3e",
+"index.html": "9427794b7c3dcc4edd49b66d217e1f3e",
+"/": "9427794b7c3dcc4edd49b66d217e1f3e",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "2708a6c590e936f8cf8a985651471a5b",
+"main.dart.js": "f53412ce4da54458a88684cdcfef851f",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
