@@ -41673,7 +41673,7 @@ case 3:return A.D(null,r)}})
 return A.E($async$nP,r)},
 cj(a,b,c,d,e){var s,r,q,p,o,n,m=this,l=null,k="Arial",j=t.w,i=a.I(j).f.a.b/(c-4)
 A.b9("tile: "+A.e(i))
-s=i/1.75
+s=i/2
 A.b9("text "+A.e(s))
 r=a.I(j).f
 q=A.em(b.w,B.m4,l,l)
