@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e2bdad1f8f478301ca8c31233d3913d4",
+  "assets/AssetManifest.json": "8363c315166b0942f05b7ecd842855ea",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -104,6 +104,10 @@ const RESOURCES = {
 "assets/assets/img/icons/event/NRW%2520Morning%2520Tea.png": "835769100fbb780bfe99034e230497ec",
 "assets/assets/img/icons/event/nurso.png": "a66272e62db1e14febce8e05c9e6e381",
 "assets/assets/img/icons/event/omaicon.png": "ca0ff1eeb87117b606674b71683a27c5",
+"assets/assets/img/icons/event/optus/cyberaware.png": "fcdf711ad157d6e233c4704259c2617b",
+"assets/assets/img/icons/event/optus/digitaldefence.png": "8052fce9e21f9909ddc7601e21a8d127",
+"assets/assets/img/icons/event/optus/platformsafety.png": "8314e8adc27a1971a69e7f8f34f51c6a",
+"assets/assets/img/icons/event/optus/protectidentity.png": "3550ba41ae421ad446fdd01c9ab8009e",
 "assets/assets/img/icons/event/vowicon.png": "838c81c47f036fa08e83226bd975375f",
 "assets/assets/img/icons/event/weaad.png": "e1b0ef254aa9e190c3003ff86dd3ab9c",
 "assets/assets/img/icons/inclusee/incluseeconnect.png": "3eaf56be1612a2da888b3c39f3d252ee",
@@ -263,10 +267,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "910aafcddf3287c6de7c5d2cbb3ec667",
-"/": "910aafcddf3287c6de7c5d2cbb3ec667",
+"index.html": "66f502a7d955ea57b7e1868844d5f1c0",
+"/": "66f502a7d955ea57b7e1868844d5f1c0",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "f3e30a596dde3d7e554d84f38973d8ed",
+"main.dart.js": "80a5e7ad5d1673643f2608db8b7cc7e7",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
