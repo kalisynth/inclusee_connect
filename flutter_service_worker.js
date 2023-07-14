@@ -225,10 +225,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "134afac998fcbc37de85ae97ba755702",
-"/": "134afac998fcbc37de85ae97ba755702",
+"index.html": "334843b47a76740e0a283b06bec5df95",
+"/": "334843b47a76740e0a283b06bec5df95",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "8f5cf836b7cd689c5739544fef2b4414",
+"main.dart.js": "08041e07ee99cace3b0c733e8b3ef148",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
