@@ -41343,7 +41343,7 @@ i=1.8}s=A.aD(e,A.c3(A.a([n,new A.bu(new A.ai(0,0,m,0),e,e),l,new A.bu(new A.ai(0
 r=A.c_(e,20,e)
 if(f.w)n=$.dL*5
 else{A.a_()
-n=1.8}return A.eg(A.bI(A.a([p,q,s,r,A.Y("Clubs will be closed on the 10th of August for staff training, 16th of August for Public Holiday and the 29th of August for E2E Training",e,e,e,A.aB(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],o),B.l,B.n,B.m),e,e,e)},
+n=1.8}return A.eg(A.bI(A.a([p,q,s,r,A.Y("Clubs will be closed on the 16th of August for Public Holiday and the 29th of August for E2E Training",e,e,e,A.aB(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],o),B.l,B.n,B.m),e,e,e)},
 AE(a){return A.eD(B.au,A.a([new A.vg(a,null),this.Li()],t.t),B.al,new A.lh())},
 M(a){var s=this
 if(!s.w){new A.jH().eE(a)
