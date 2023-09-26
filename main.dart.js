@@ -40888,7 +40888,7 @@ A.a_()
 r=t.t
 s=A.c1(A.a([s,new A.bq(new A.ah(0,0,40,0),i,i),A.X("Inclusee Enjoy",i,i,i,i,i,i),A.c5(i,i,100),A.X("ALL TIMES ARE IN "+j.k3,i,i,i,A.av(i,i,i,i,i,i,i,i,i,i,i,20,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.bc,i),A.c5(i,i,100)],r),B.l,i,B.o,B.m)
 q=j.ae0()
-p=A.c5(i,i,150)
+p=A.c5(i,i,15)
 A.a_()
 s=A.nJ(A.a([q,p,new A.on(1.8*$.bW).qi(a)],r),!0,j.at,!0,s)
 if(j.fx)r=A.If(A.a([A.X("Clubs are closed until OCTOBER 3RD, in the meantime please feel free to join Connect2You and see what events we have planned for october",i,i,i,A.av(i,i,A.a_().a,i,i,i,i,i,i,i,i,$.dr*3,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.bc,i),j.p1.dr($.kl().d),j.p1.dr($.kl().c),j.p1.dr($.kl().e),j.p1.dr($.kl().b),j.p1.dr($.kl().x),j.p1.dr($.kl().w),j.p1.dr($.kl().y),j.p1.dr($.kl().a),j.p1.dr($.kl().f),j.p1.dr($.kl().r),A.X("Get Online Week Events 16th - 20th",i,i,i,A.av(i,i,A.a_().a,i,i,i,i,i,i,i,i,$.dr*3,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.bc,i),j.p1.dr($.lS().c),j.p1.dr($.lS().b),j.p1.dr($.lS().f),j.p1.dr($.lS().a),j.p1.dr($.lS().d),j.p1.dr($.lS().e),j.p1.dr($.lS().x),j.p1.dr($.lS().r),j.p1.dr($.lS().w)],r),i)
