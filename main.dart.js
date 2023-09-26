@@ -40886,7 +40886,7 @@ new A.jP().eH(a)
 s=A.e2(u.U,B.cq,62,i)
 A.a_()
 r=t.t
-s=A.c1(A.a([s,new A.bq(new A.ah(0,0,40,0),i,i),A.X("Inclusee Enjoy",i,i,i,i,i,i),A.c5(i,i,100),A.X("ALL TIMES ARE IN "+j.k3,i,i,i,A.av(i,i,i,i,i,i,i,i,i,i,i,20,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.bc,i),A.c5(i,i,100)],r),B.l,i,B.o,B.m)
+s=A.c1(A.a([s,new A.bq(new A.ah(0,0,40,0),i,i),A.X("Inclusee Enjoy",i,i,i,i,i,i),A.c5(i,i,50),A.X("ALL TIMES ARE IN "+j.k3,i,i,i,A.av(i,i,i,i,i,i,i,i,i,i,i,20,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.bc,i),A.c5(i,i,100)],r),B.l,i,B.o,B.m)
 q=j.ae0()
 p=A.c5(i,i,15)
 A.a_()
