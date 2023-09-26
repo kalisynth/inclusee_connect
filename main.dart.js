@@ -40878,7 +40878,7 @@ a4.p4=s.f7(0,a3)}s=A.aEH(B.yo)
 s.nG(A.lq("https://inclusee.org.au/events/",0,null))
 a4.ry=s
 a4.aL()},
-ae0(){var s=this,r=null,q=A.a([A.X("This Week",r,r,r,r,r,r),A.X("October",r,r,r,r,r,r)],t.t),p=A.av(r,r,r,r,r,r,r,r,r,r,r,50,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
+ae0(){var s=this,r=null,q=A.a([A.X("This Week",r,r,r,r,r,r),A.X("October",r,r,r,r,r,r)],t.t),p=A.av(r,r,r,r,r,r,r,r,r,r,r,30,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
 return new A.M_(q,A.a([s.fr,s.fx],t.jf),new A.ags(s),p,B.f,s.as,s.at,r)},
 K(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="TODAY",g=t.w
 a.H(g).toString
