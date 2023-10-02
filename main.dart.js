@@ -40863,21 +40863,21 @@ break
 case 4:throw A.b("Could not launch "+q.i(0))
 case 3:return A.E(null,r)}})
 return A.F($async$oR,r)},
-Oy(a,b){var s,r=this,q=r.p1.Oz(b),p=q.length,o=A.kA("d").ew(0,A.kB($.j3(),1)),n=A.Ub(A.ag(A.kB($.j3(),1))),m=r.k4,l=r.c
+Oy(a,b){var s,r=this,q=r.p1.Oz(b),p=q.length,o=r.ay,n=o?"TODAY":"MONDAY  "+A.kA("d").ew(0,A.kB($.j3(),1))+A.Ub(A.ag(A.kB($.j3(),1))),m=r.k4,l=r.c
 l.toString
-s=m.pP(l,"MONDAY  "+o+n,8)
+s=m.pP(l,n,8)
 if(!b){B.b.kw(q,0,s)
 B.b.O(q,r.vm(a-p-2))
 p=r.p1
-o=p.p1
-n=o.e
-n.C(0,A.aK(0,p.a,0,0,0))
-m=o.f
+n=p.p1
+m=n.e
 m.C(0,A.aK(0,p.a,0,0,0))
-if(r.ay){$.kq().toString
-n=Date.now()>n.gdq()&&Date.now()<m.gdq()}else n=!1
-if(n){$.kq().toString
-p.p2=3}q.push(p.d.qq(p.c,o,p.b,p.p2," "))}return q},
+l=n.f
+l.C(0,A.aK(0,p.a,0,0,0))
+if(o){$.kq().toString
+o=Date.now()>m.gdq()&&Date.now()<l.gdq()}else o=!1
+if(o){$.kq().toString
+p.p2=3}q.push(p.d.qq(p.c,n,p.b,p.p2," "))}return q},
 PK(a,b){var s,r,q,p,o,n,m,l,k=this,j=k.p1
 j.toString
 s=t.t
@@ -40885,24 +40885,24 @@ r=A.a([j.cE($.bz().d),j.cE($.aqk().z),j.cE($.bz().e),j.cE($.bz().f),j.cE($.bz().
 q=A.a([j.bm($.bz().d),j.bm($.aqk().z),j.bm($.bz().e),j.bm($.bz().f),j.bm($.bz().r),j.bm($.bz().w)],s)
 p=b?q:r
 j=p.length
-s=A.kA("d").ew(0,A.kB($.j3(),2))
-o=A.Ub(A.ag(A.kB($.j3(),2)))
+s=k.ch
+o=s?"TODAY":"TUESDAY  "+A.kA("d").ew(0,A.kB($.j3(),2))+A.Ub(A.ag(A.kB($.j3(),2)))
 n=k.k4
 m=k.c
 m.toString
-l=n.pP(m,"TUESDAY  "+s+o,8)
+l=n.pP(m,o,8)
 if(!b){B.b.kw(p,0,l)
 B.b.O(p,k.vm(a-j-2))
 j=k.p1
-s=j.p4
-o=s.e
-o.C(0,A.aK(0,j.a,0,0,0))
-n=s.f
+o=j.p4
+n=o.e
 n.C(0,A.aK(0,j.a,0,0,0))
-if(k.ch){$.kq().toString
-o=Date.now()>o.gdq()&&Date.now()<n.gdq()}else o=!1
-if(o){$.kq().toString
-j.R8=3}p.push(j.d.qq(j.c,s,j.b,j.R8," "))}return p},
+m=o.f
+m.C(0,A.aK(0,j.a,0,0,0))
+if(s){$.kq().toString
+s=Date.now()>n.gdq()&&Date.now()<m.gdq()}else s=!1
+if(s){$.kq().toString
+j.R8=3}p.push(j.d.qq(j.c,o,j.b,j.R8," "))}return p},
 PV(a,b){var s,r,q,p,o,n,m,l,k=this,j=k.p1
 j.toString
 s=t.t
@@ -40910,47 +40910,47 @@ r=A.a([j.cE($.bz().x),j.cE($.bz().y),j.cE($.bz().z),j.cE($.bz().Q)],s)
 q=A.a([j.bm($.bz().x),j.bm($.bz().y),j.bm($.bz().z),j.bm($.bz().Q)],s)
 p=b?q:r
 j=p.length
-s=A.kA("d").ew(0,A.kB($.j3(),3))
-o=A.Ub(A.ag(A.kB($.j3(),3)))
+s=k.CW
+o=s?"TODAY":"WEDNESDAY  "+A.kA("d").ew(0,A.kB($.j3(),3))+A.Ub(A.ag(A.kB($.j3(),3)))
 n=k.k4
 m=k.c
 m.toString
-l=n.pP(m,"WEDNESDAY  "+s+o,8)
+l=n.pP(m,o,8)
 if(!b){B.b.kw(p,0,l)
 B.b.O(p,k.vm(a-j-2))
 j=k.p1
-s=j.rx
-o=s.e
-o.C(0,A.aK(0,j.a,0,0,0))
-n=s.f
+o=j.rx
+n=o.e
 n.C(0,A.aK(0,j.a,0,0,0))
-if(k.CW){$.kq().toString
-o=Date.now()>o.gdq()&&Date.now()<n.gdq()}else o=!1
-if(o){$.kq().toString
-j.ry=3}p.push(j.d.qq(j.c,s,j.b,j.ry," "))}return p},
-DX(a){var s,r,q,p,o,n,m,l=this,k=l.p1
-k.toString
+m=o.f
+m.C(0,A.aK(0,j.a,0,0,0))
+if(s){$.kq().toString
+s=Date.now()>n.gdq()&&Date.now()<m.gdq()}else s=!1
+if(s){$.kq().toString
+j.ry=3}p.push(j.d.qq(j.c,o,j.b,j.ry," "))}return p},
+DX(a){var s,r,q,p,o,n,m,l,k=this,j=k.p1
+j.toString
 s=t.t
-r=A.a([k.cE($.bz().as),k.cE($.bz().at),k.cE($.bz().ax),k.cE($.bz().ay),k.cE($.bz().ch),k.cE($.bz().CW)],s)
-q=A.a([k.bm($.bz().as),k.bm($.bz().at),k.bm($.bz().ax),k.bm($.bz().ay),k.bm($.bz().ch),k.bm($.bz().CW)],s)
+r=A.a([j.cE($.bz().as),j.cE($.bz().at),j.cE($.bz().ax),j.cE($.bz().ay),j.cE($.bz().ch),j.cE($.bz().CW)],s)
+q=A.a([j.bm($.bz().as),j.bm($.bz().at),j.bm($.bz().ax),j.bm($.bz().ay),j.bm($.bz().ch),j.bm($.bz().CW)],s)
 p=a?q:r
-k=A.kA("d").ew(0,A.kB($.j3(),4))
-s=A.Ub(A.ag(A.kB($.j3(),4)))
-o=l.k4
-n=l.c
+j=k.cx
+s=j?"TODAY":"THURSDAY "+A.kA("d").ew(0,A.kB($.j3(),4))+A.Ub(A.ag(A.kB($.j3(),4)))
+o=k.k4
+n=k.c
 n.toString
-m=o.pP(n,"THURSDAY "+k+s,8)
+m=o.pP(n,s,8)
 if(!a){B.b.kw(p,0,m)
-k=l.p1
-s=k.x1
-o=s.e
-o.C(0,A.aK(0,k.a,0,0,0))
-n=s.f
-n.C(0,A.aK(0,k.a,0,0,0))
-if(l.cx){$.kq().toString
-o=Date.now()>o.gdq()&&Date.now()<n.gdq()}else o=!1
-if(o){$.kq().toString
-k.x2=3}p.push(k.d.qq(k.c,s,k.b,k.x2," "))}return p},
+s=k.p1
+o=s.x1
+n=o.e
+n.C(0,A.aK(0,s.a,0,0,0))
+l=o.f
+l.C(0,A.aK(0,s.a,0,0,0))
+if(j){$.kq().toString
+j=Date.now()>n.gdq()&&Date.now()<l.gdq()}else j=!1
+if(j){$.kq().toString
+s.x2=3}p.push(s.d.qq(s.c,o,s.b,s.x2," "))}return p},
 Nq(a,b){var s,r,q,p,o,n,m,l,k=this,j=k.p1
 j.toString
 s=t.t
@@ -40958,24 +40958,24 @@ r=A.a([j.cE($.bz().cx),j.cE($.bz().cy),j.cE($.bz().db),j.cE($.bz().dx),j.cE($.bz
 q=A.a([j.bm($.bz().cx),j.bm($.bz().cy),j.bm($.bz().db),j.bm($.bz().dx),j.bm($.bz().dy)],s)
 p=b?q:r
 j=p.length
-s=A.kA("d").ew(0,A.kB($.j3(),5))
-o=A.Ub(A.ag(A.kB($.j3(),5)))
+s=k.cy
+o=s?"TODAY":"FRIDAY "+A.kA("d").ew(0,A.kB($.j3(),5))+A.Ub(A.ag(A.kB($.j3(),5)))
 n=k.k4
 m=k.c
 m.toString
-l=n.pP(m,"FRIDAY "+s+o,8)
+l=n.pP(m,o,8)
 if(!b){B.b.kw(p,0,l)
 B.b.O(p,k.vm(a-j-2))
 j=k.p1
-s=j.y1
-o=s.e
-o.C(0,A.aK(0,j.a,0,0,0))
-n=s.f
+o=j.y1
+n=o.e
 n.C(0,A.aK(0,j.a,0,0,0))
-if(k.cy){$.kq().toString
-o=Date.now()>o.gdq()&&Date.now()<n.gdq()}else o=!1
-if(o){$.kq().toString
-j.y2=3}p.push(j.d.qq(j.c,s,j.b,j.y2," "))}return p},
+m=o.f
+m.C(0,A.aK(0,j.a,0,0,0))
+if(s){$.kq().toString
+s=Date.now()>n.gdq()&&Date.now()<m.gdq()}else s=!1
+if(s){$.kq().toString
+j.y2=3}p.push(j.d.qq(j.c,o,j.b,j.y2," "))}return p},
 vm(a){var s,r,q,p,o,n,m=null,l=t.t,k=A.a([],l)
 for(s=t.w,r=t.it,q=0;q<a;++q){p=this.k4
 o=this.c
@@ -41071,7 +41071,7 @@ a5.p4=s.ew(0,a4)}s=A.aEM(B.yo)
 s.nI(A.lx("https://inclusee.org.au/events/",0,null))
 a5.ry=s
 a5.aL()},
-ae8(){var s=this,r=null,q=A.a([A.V("Today",r,r,r,r,r,r),A.V("This Week",r,r,r,r,r,r),A.V("October",r,r,r,r,r,r)],t.t),p=A.aw(r,r,r,r,r,r,r,r,r,r,r,30,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
+ae8(){var s=this,r=null,q=A.a([A.V("Today",r,r,r,r,r,r),A.V("This Week",r,r,r,r,r,r),A.V("October",r,r,r,r,r,r)],t.t),p=A.aw(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
 return new A.M4(q,A.a([s.dy,s.fr,s.fx],t.jf),new A.agw(s),p,B.f,s.as,s.at,r)},
 K(a){var s,r,q,p,o,n,m=this,l=null,k=t.w
 a.H(k).toString
@@ -41084,7 +41084,7 @@ q=m.ae8()
 p=A.c6(l,l,15)
 A.a2()
 s=A.nO(A.a([q,p,new A.or(1.8*$.bY).qk(a)],r),!0,m.at,!0,s)
-if(m.fx)r=A.yb(A.a([A.V("Clubs are closed until OCTOBER 3RD, in the meantime please feel free to join Connect2You and see what events we have planned for october",l,l,l,A.aw(l,l,A.a2().a,l,l,l,l,l,l,l,l,$.dt*3,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),B.bd,l),m.p1.bm($.kr().d),m.p1.bm($.kr().c),m.p1.bm($.kr().e),m.p1.bm($.kr().b),m.p1.bm($.kr().x),m.p1.bm($.kr().w),m.p1.bm($.kr().y),m.p1.bm($.kr().a),m.p1.bm($.kr().f),m.p1.bm($.kr().r),A.V("Get Online Week Events 16th - 20th",l,l,l,A.aw(l,l,A.a2().a,l,l,l,l,l,l,l,l,$.dt*3,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),B.bd,l),m.p1.bm($.lZ().c),m.p1.bm($.lZ().b),m.p1.bm($.lZ().f),m.p1.bm($.lZ().a),m.p1.bm($.lZ().d),m.p1.bm($.lZ().e),m.p1.bm($.lZ().x),m.p1.bm($.lZ().r),m.p1.bm($.lZ().w)],r),l)
+if(m.fx)r=A.yb(A.a([A.V("October Events",l,l,l,A.aw(l,l,A.a2().a,l,l,l,l,l,l,l,l,$.dt*3,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),B.bd,l),m.p1.bm($.kr().d),m.p1.bm($.kr().c),m.p1.bm($.kr().e),m.p1.bm($.kr().b),m.p1.bm($.kr().x),m.p1.bm($.kr().w),m.p1.bm($.kr().y),m.p1.bm($.kr().a),m.p1.bm($.kr().f),m.p1.bm($.kr().r),A.V("Get Online Week Events 16th - 20th",l,l,l,A.aw(l,l,A.a2().a,l,l,l,l,l,l,l,l,$.dt*3,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),B.bd,l),m.p1.bm($.lZ().c),m.p1.bm($.lZ().b),m.p1.bm($.lZ().f),m.p1.bm($.lZ().a),m.p1.bm($.lZ().d),m.p1.bm($.lZ().e),m.p1.bm($.lZ().x),m.p1.bm($.lZ().r),m.p1.bm($.lZ().w)],r),l)
 else if(m.dy){q=Date.now()
 o=m.LI()
 A.ax(l,l,l,l,l,l,l,l,l)
@@ -82933,17 +82933,17 @@ $.dQ().toString
 j=A.a1(A.a0(A.n()),A.Y(A.n()),2,13,30,0,0)
 j=A.ci(A.a1(A.a0(A.n()),A.Y(A.n()),2,14,30,0,0),u.N,!1,!0,"Gmail",a8,j,!0,a7,a7)
 $.dQ().toString
-i=A.a1(A.a0(A.n()),A.Y(A.n()),2,16,0,0,0)
-i=A.ci(A.a1(A.a0(A.n()),A.Y(A.n()),2,16,30,0,0),u.d,!0,!1,"Singing",a8,i,!0,a7,a7)
+i=A.a1(A.a0(A.n()),A.Y(A.n()),2,15,0,0,0)
+i=A.ci(A.a1(A.a0(A.n()),A.Y(A.n()),2,16,0,0,0),u.d,!0,!1,"Singing",a8,i,!0,a7,a7)
 $.dQ().toString
 h=A.a1(A.a0(A.n()),A.Y(A.n()),3,10,0,0,0)
 h=A.ci(A.a1(A.a0(A.n()),A.Y(A.n()),3,11,0,0,0),b2,!0,!1,"Books",a8,h,!0,a7,a7)
 $.dQ().toString
-g=A.a1(A.a0(A.n()),A.Y(A.n()),3,13,30,0,0)
-g=A.ci(A.a1(A.a0(A.n()),A.Y(A.n()),3,14,30,0,0),b1,!0,!1,"Travel",a8,g,!0,a7,a7)
+g=A.a1(A.a0(A.n()),A.Y(A.n()),3,11,0,0,0)
+g=A.ci(A.a1(A.a0(A.n()),A.Y(A.n()),3,12,0,0,0),b1,!0,!1,"Travel",a8,g,!0,a7,a7)
 $.dQ().toString
-f=A.a1(A.a0(A.n()),A.Y(A.n()),3,13,30,0,0)
-f=A.ci(A.a1(A.a0(A.n()),A.Y(A.n()),3,14,30,0,0),u.O,!0,!1,"Gardening",a8,f,!0,a7,a7)
+f=A.a1(A.a0(A.n()),A.Y(A.n()),3,13,0,0,0)
+f=A.ci(A.a1(A.a0(A.n()),A.Y(A.n()),3,14,0,0,0),u.O,!0,!1,"Gardening",a8,f,!0,a7,a7)
 $.dQ().toString
 e=A.a1(A.a0(A.n()),A.Y(A.n()),3,15,0,0,0)
 e=A.ci(A.a1(A.a0(A.n()),A.Y(A.n()),3,16,30,0,0),u.v,!0,!1,"Games",a8,e,!0,a7,a7)
