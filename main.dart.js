@@ -8358,9 +8358,9 @@ d=A.am(a7,10,12,10,0,0,0,!1)
 if(!A.aa(d))A.p(A.a2(d))
 c=A.am(a7,10,12,11,0,0,0,!1)
 if(!A.aa(c))A.p(A.a2(c))
-b=A.am(a7,10,12,10,0,0,0,!1)
+b=A.am(a7,10,12,14,0,0,0,!1)
 if(!A.aa(b))A.p(A.a2(b))
-a=A.am(a7,10,12,11,0,0,0,!1)
+a=A.am(a7,10,12,15,0,0,0,!1)
 if(!A.aa(a))A.p(A.a2(a))
 a0=A.am(a7,10,24,11,0,0,0,!1)
 if(!A.aa(a0))A.p(A.a2(a0))
@@ -9201,11 +9201,11 @@ _.k3="AEST"
 _.p1=_.k4=null
 _.p2=i
 _.p4=_.p3=" "
-_.RG=j
-_.ry=null
-_.to=k
-_.x1=l
-_.x2=m
+_.rx=j
+_.to=null
+_.x1=k
+_.x2=l
+_.xr=m
 _.a=null
 _.b=n
 _.c=null},
@@ -40874,7 +40874,7 @@ cd(){return this.abN()},
 abN(){var s=0,r=A.G(t.z),q=this,p,o,n
 var $async$cd=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:n={}
-A.aW(q.RG+" loading preferences")
+A.aW(q.rx+" loading preferences")
 s=2
 return A.O(A.n7(),$async$cd)
 case 2:p=b
@@ -40886,7 +40886,7 @@ case 1:n.a="AEDT"
 break}q.N(new A.agw(n,q,o))
 return A.E(null,r)}})
 return A.F($async$cd,r)},
-lN(){var s,r=this,q=r.RG
+lN(){var s,r=this,q=r.rx
 A.aW(q+" TEXT TO SPEECH INIT")
 s=new A.ol()
 B.bm.i9(s.gwC())
@@ -41065,7 +41065,7 @@ k=$.Un().e
 j=$.nJ()
 j=A.a([k,j.d,A.nW().a,j.f],n)
 k=$.nJ()
-k=A.a([k.x,$.Un().y,k.y,k.z,k.Q],n)
+k=A.a([k.x,k.y,k.z,$.Un().y,k.Q],n)
 i=A.a([A.nW().d,A.nW().e,A.nW().x,$.nJ().Q],n)
 h=$.nJ()
 h=A.a([h.as,h.at,$.Un().x,h.ax,h.ay,h.ch,h.CW],n)
@@ -41093,7 +41093,7 @@ a6.c=s
 a7=a6.b=8
 a6.d=q
 b3.p1=a6
-if(A.jL(new A.n(Date.now(),!1))<6){A.aW(b3.RG+" SET C2Y TIME "+A.jL(new A.n(Date.now(),!1)))
+if(A.jL(new A.n(Date.now(),!1))<6){A.aW(b3.rx+" SET C2Y TIME "+A.jL(new A.n(Date.now(),!1)))
 switch(A.jL(new A.n(Date.now(),!1))){case 1:a7=9
 a8=17
 a9=0
@@ -41133,11 +41133,11 @@ new A.n(Date.now(),!1).C(0,A.aM(0,1,0,0,0))
 b0=A.aM(0,b3.go,0,0,0)
 b1=new A.n(s,!1).C(0,b0)
 b2=new A.n(r,!1).C(0,b0)
-s=b3.x2
+s=b3.xr
 b3.p3=s.ew(0,b1)
 b3.p4=s.ew(0,b2)}s=A.aEN(B.yo)
-s.nH(A.lv("https://inclusee.org.au/events/",0,null))
-b3.ry=s
+s.nH(A.lv("https://timetableinclu.wpengine.com/",0,null))
+b3.to=s
 b3.aL()},
 ae8(){var s=this,r=null,q=A.a([A.V("Today",r,r,r,r,r,r),A.V("This Week",r,r,r,r,r,r),A.V("October",r,r,r,r,r,r)],t.t),p=A.ay(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
 return new A.M7(q,A.a([s.dy,s.fr,s.fx],t.jf),new A.agy(s),p,B.f,s.as,s.at,r)},
@@ -42112,7 +42112,7 @@ i=1.8}s=A.ax(e,A.c1(A.a([n,new A.bn(new A.aj(0,0,m,0),e,e),l,new A.bn(new A.aj(0
 r=A.c6(e,20,e)
 if(f.w)n=$.ds*5
 else{A.a3()
-n=1.8}return A.e3(A.bE(A.a([p,q,s,r,A.V("7th of November Connect2you will be open but Clubs will be closed for Staff Training \n 24th of November closed from 12 noon for christmas party",e,e,e,A.ay(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],o),B.l,B.o,B.m,B.v),e,e,e)},
+n=1.8}return A.e3(A.bE(A.a([p,q,s,r,A.V("ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time, \n 7th of November Connect2you will be open but Clubs will be closed for Staff Training \n 24th of November closed from 12 noon for christmas party",e,e,e,A.ay(e,e,B.f,e,e,e,e,e,e,e,e,n,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],o),B.l,B.o,B.m,B.v),e,e,e)},
 B3(a){return A.ea(B.av,A.a([new A.vJ(a,null),this.LM()],t.t),B.ab,new A.k3())},
 K(a){var s=this
 if(!s.w){new A.jU().eJ(a)
