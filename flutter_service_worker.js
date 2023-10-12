@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4462ea5b1efc7c39f4d5bac499992388",
+  "assets/AssetManifest.json": "d14015507245f635fd85b3beb237d284",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -109,6 +109,7 @@ const RESOURCES = {
 "assets/assets/img/icons/event/Learn2QRCode.png": "a0fb5120fde0f6fbe0d2dde36d822b2a",
 "assets/assets/img/icons/event/Live%2520Up.png": "23bdf4b23ac9785a487e8ea3ba7d2fa8",
 "assets/assets/img/icons/event/Lunch%2520Club%2520(Laughter%2520Yoga).png": "11c5d2b80ca09d1a3f4005941b2591bb",
+"assets/assets/img/icons/event/Lunch%2520Club%2520Laughter%2520Yoga.png": "294cb3dac9b9a56eb1d87b24699dfcde",
 "assets/assets/img/icons/event/NBN%2520DIGITAL%2520Legacy.png": "bf3fa01f54b6da72841f6fa6af1f6029",
 "assets/assets/img/icons/event/NBN%2520Special%2520In2eSaftety.png": "c1cc22b0109400681ab65735656218a6",
 "assets/assets/img/icons/event/nurso.png": "a66272e62db1e14febce8e05c9e6e381",
@@ -258,10 +259,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "8a3205aa9523007b143a97197de8d782",
-"/": "8a3205aa9523007b143a97197de8d782",
+"index.html": "96400a85b2887c77f05962bd160b267e",
+"/": "96400a85b2887c77f05962bd160b267e",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "c6cc7ed887ca2a2104c77726a9b14bc8",
+"main.dart.js": "bf259be753e0a8c2158a21c6390213da",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
