@@ -8460,12 +8460,12 @@ new A.k(Date.now(),!1).B(0,A.aI(0,1,0,0,0))
 r=Date.now()
 q=Date.now()
 p=Date.now()
-r=A.am(A.a0(new A.k(r,!1)),A.Y(new A.k(q,!1)),A.a1(new A.k(p,!1)),9,0,0,0,!1)
+r=A.am(A.a0(new A.k(r,!1)),A.Y(new A.k(q,!1)),A.a1(new A.k(p,!1)),11,0,0,0,!1)
 if(!A.aa(r))A.p(A.a3(r))
 q=Date.now()
 p=Date.now()
 o=Date.now()
-q=A.am(A.a0(new A.k(q,!1)),A.Y(new A.k(p,!1)),A.a1(new A.k(o,!1)),16,0,0,0,!1)
+q=A.am(A.a0(new A.k(q,!1)),A.Y(new A.k(p,!1)),A.a1(new A.k(o,!1)),17,0,0,0,!1)
 if(!A.aa(q))A.p(A.a3(q))
 Date.now()
 new A.k(Date.now(),!1).B(0,A.aI(0,1,0,0,0))
@@ -41137,7 +41137,7 @@ n=t.vB
 o=A.a([o.a,o.c],n)
 m=$.ax4().ay
 l=$.Ew()
-l=A.a([m,l.d,l.e,l.f,l.r,l.w],n)
+l=A.a([m,l.d,l.e,l.f,l.w],n)
 m=$.Ew()
 m=A.a([m.x,m.y,m.z,m.Q],n)
 k=$.Ew()
@@ -41931,7 +41931,7 @@ return A.ay(q,A.dV(q,A.ay(q,A.bE(A.a([A.eZ(B.CG,B.f,o),A.V("RELOAD",q,q,q,A.ax(q
 a6G(){var s,r=null
 if(this.w)s=$.ds*5
 else{A.a2()
-s=1.8}return A.dV(r,A.V("Tap here to vote for us in the QLD Achievement Awards Peoples Choice \n ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n 24th of November closed from 12 noon for christmas party",r,r,r,A.ax(r,r,B.f,r,r,r,r,r,r,r,r,s,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.O,!1,r,r,r,r,r,r,r,r,r,r,new A.afp(this),r,r,r,r,r,r)},
+s=1.8}return A.dV(r,A.V("ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Connect2You starts at 11AM on Wednesdays \n 24th of November closed from 12 noon for christmas party \n and will also be closed during the Christmas Public holidays 25th and 26th of December and the 1st of Jan",r,r,r,A.ax(r,r,B.f,r,r,r,r,r,r,r,r,s,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.O,!1,r,r,r,r,r,r,r,r,r,r,new A.afp(this),r,r,r,r,r,r)},
 ao(){var s=this
 s.cd()
 s.F7()
@@ -42224,7 +42224,7 @@ s.toString
 A.bT(s,!1).DE("/homeScreen",t._)},
 $S:1}
 A.afp.prototype={
-$0(){return this.a.k6("https://awardsaustralia.app.do/2023-qld-community-achievement-awards-people-s-choice-award")},
+$0(){return this.a.k6("https://inclusee.org.au/events-list/")},
 $S:0}
 A.afr.prototype={
 $0(){var s=this.a.c
