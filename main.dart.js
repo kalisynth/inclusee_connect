@@ -41865,7 +41865,7 @@ return A.aw(q,A.dU(q,A.aw(q,A.bF(A.a([A.eY(B.CG,B.f,o),A.W("RELOAD",q,q,q,A.av(q
 a6G(){var s,r=null
 if(this.w)s=$.ds*5
 else{A.a3()
-s=1.8}return A.dU(r,A.W("ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Connect2You starts at 11AM on Wednesdays \n 24th of November closed from 12 noon for christmas party \n and will also be closed during the Christmas Public holidays 25th and 26th of December and the 1st of Jan",r,r,r,A.av(r,r,B.f,r,r,r,r,r,r,r,r,s,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.O,!1,r,r,r,r,r,r,r,r,r,r,new A.afp(this),r,r,r,r,r,r)},
+s=1.8}return A.dU(r,A.W("Connect2You will be closed Wednesday 22nd from 11AM to 2PM \n ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Connect2You starts at 11AM on Wednesdays \n 24th of November closed from 12 noon for christmas party \n and will also be closed during the Christmas Public holidays 25th and 26th of December and the 1st of Jan",r,r,r,A.av(r,r,B.f,r,r,r,r,r,r,r,r,s,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.O,!1,r,r,r,r,r,r,r,r,r,r,new A.afp(this),r,r,r,r,r,r)},
 ao(){var s=this
 s.cd()
 s.F7()
