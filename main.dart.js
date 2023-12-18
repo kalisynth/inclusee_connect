@@ -46772,7 +46772,7 @@ s=A.aG(r,q,s).w
 return A.bs(q,A.h5(q,A.bs(q,A.h8($.aDe(),q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a6,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aiA(this),q,q,q),B.j,q,q,q,q,q,q,q)},
 adE(){var s=null,r=this.c
 r.toString
-return A.h5(s,A.a6("ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Join us for Morning tea December 11th \n Closures: December 25th and 26th,January 1st 26th, March 12th and 29th",s,s,s,A.b8(s,s,B.i,s,s,s,s,s,s,s,s,A.aG(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiz(this),s,s,s)},
+return A.h5(s,A.a6("ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Join us for Morning tea December 19th or Afternoon Tea on the 22nd \n Closures: December 25th and 26th,January 1st 26th, March 12th and 29th",s,s,s,A.b8(s,s,B.i,s,s,s,s,s,s,s,s,A.aG(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiz(this),s,s,s)},
 vf(){var s=0,r=A.I(t.z),q
 var $async$vf=A.J(function(a,b){if(a===1)return A.F(b,r)
 while(true)switch(s){case 0:A.br("prefs loading")
