@@ -46612,7 +46612,7 @@ s=A.aD(r,q,s).w
 return A.bt(q,A.h2(q,A.bt(q,A.h5("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a6,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aiF(this),q,q,q),B.j,q,q,q,q,q,q,q)},
 adF(){var s=null,r=this.c
 r.toString
-return A.h2(s,A.a4("VCC Closed 10:50am to 1PM on Wednesday \n ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Inclusee App Tutorials have been cancelled, Closures: January 26th, March 12th and 29th",s,s,s,A.b8(s,s,B.i,s,s,s,s,s,s,s,s,A.aD(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiE(this),s,s,s)},
+return A.h2(s,A.a4("Connect2You Closed 10:50am to 1PM on Wednesday \n ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Inclusee App Tutorials have been cancelled, Closures: January 26th, March 12th and 29th",s,s,s,A.b8(s,s,B.i,s,s,s,s,s,s,s,s,A.aD(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiE(this),s,s,s)},
 vf(){var s=0,r=A.G(t.z),q
 var $async$vf=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:A.bs("prefs loading")
