@@ -1,2 +1,7 @@
 Updated App Text
 Restored Friday to normal from Public Holiday
+
+30/01/24
+Tile added for Guest Speaker
+Public holiday text removed from Friday Tile
+Tile removed for RSPCA Wacol
