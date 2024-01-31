@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "71701827747863f2f1e8b3b4de0db05b",
-"assets/AssetManifest.bin.json": "ca586a55a87c88a95acf96468a3a3412",
-"assets/AssetManifest.json": "ec9329cc6de8eaf5fc0bbf5aa21dd57d",
+const RESOURCES = {"assets/AssetManifest.bin": "1a15ef0e7bfdd03be577ecca0300a080",
+"assets/AssetManifest.bin.json": "4a74a368f0b5eb4c8cad1d952697b883",
+"assets/AssetManifest.json": "d0d1d049258903d617386f923e5e5a31",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -380,6 +380,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "71701827747863f2f1e8b3b4de0db05b
 "assets/assets/img/timetable/inclusee_tile.png": "a058fd363ec12814e2269442a4f2f5e8",
 "assets/assets/img/timetable/inclusee_tile_white.png": "3897ebd804b69b5a40c43c7757f70e24",
 "assets/assets/img/timetable/specialevents/Beyond%2520Blue%2520Webinar.png": "e588e51575778acf0be3c0cef446afc8",
+"assets/assets/img/timetable/specialevents/esafety_scam.png": "3a106987a59bb5b072f7d9887e5336f9",
 "assets/assets/img/timetable/specialevents/The%2520English%2520Teacher%2520Event.png": "b6a5e9308a4d566825d6cbe57a3e29e7",
 "assets/assets/img/timetable/specialevents/The%2520Office%2520of%2520Fair%2520Trading%2520Scam%2520awareness.png": "194c8e9e9a5b1b4a46a7ad2e6c4316ef",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520RSPCA%2520Wacol.png": "53f3e1fccd78c361663466bccaedb02a",
@@ -407,7 +408,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "71701827747863f2f1e8b3b4de0db05b
 "assets/assets/img/timetable/weekly/wellnesstxt.png": "f9d53d194daa6eb3d0ec145bcbe8a7c7",
 "assets/assets/img/VirtualOpenWeekTimetable.png": "8cc0998d4f1d0582070846db9cb21eb4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "d19479bb6de461193558fdf28d917198",
+"assets/fonts/MaterialIcons-Regular.otf": "6d31b55f28d2264d0d8582763ade8d30",
 "assets/NOTICES": "3d696768fe2078f5063c8a1b6938fb07",
 "assets/packages/awesome_notifications/test/assets/images/test_image.png": "c27a71ab4008c83eba9b554775aa12ca",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
@@ -450,10 +451,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "71701827747863f2f1e8b3b4de0db05b
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "f211519b2a5f4bc3bfc021f7663328a5",
-"/": "f211519b2a5f4bc3bfc021f7663328a5",
+"index.html": "61bbe6d79219ed6c72345a31ed87bd7a",
+"/": "61bbe6d79219ed6c72345a31ed87bd7a",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "ff92bc92e5b82b55e3585791122189b1",
+"main.dart.js": "3a8b5da9e33844c27ab86565a1140ddc",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can

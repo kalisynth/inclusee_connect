@@ -1,8 +1,17 @@
+## Change log
+
+# 29/01/24
 Updated App Text
 Restored Friday to normal from Public Holiday
 
-30/01/24
+# 30/01/24
 Tile added for Guest Speaker
 Public holiday text removed from Friday Tile
 Tile removed for RSPCA Wacol
 Ad Text updated
+Moved Club Page and Club Tile to Archived files
+general app clean up, removing unused stuff
+
+# 31/01/24
+TIle added for esafety Scams
+
