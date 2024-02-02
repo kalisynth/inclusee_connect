@@ -15,3 +15,6 @@ general app clean up, removing unused stuff
 # 31/01/24
 TIle added for esafety Scams
 
+# 01/02/24
+VCC Closure for 8th
+
