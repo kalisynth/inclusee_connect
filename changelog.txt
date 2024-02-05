@@ -18,3 +18,6 @@ TIle added for esafety Scams
 # 01/02/24
 VCC Closure for 8th
 
+# 05/02/24
+Gradle Updated
+in2paint time updated
