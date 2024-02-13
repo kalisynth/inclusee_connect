@@ -45780,7 +45780,7 @@ r.toString
 s=j.p1
 q=$.G3()
 p=t.Us
-q=A.a([q.a,q.c,q.b,$.apR().a],p)
+q=A.a([q.a,$.apR().e,q.c,q.b],p)
 o=$.G3()
 o=A.a([o.d,o.f,o.r,o.w],p)
 n=$.G3()
@@ -46062,7 +46062,7 @@ s=A.aB(r,q,s).w
 return A.by(q,A.h0(q,A.by(q,A.hv("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a6,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.air(this),q,q,q),B.j,q,q,q,q,q,q,q)},
 adv(){var s=null,r=this.c
 r.toString
-return A.h0(s,A.ai("ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Closures: The Virtual Community Centre is closed February 8th",s,s,s,A.bd(s,s,B.i,s,s,s,s,s,s,s,s,A.aB(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiq(this),s,s,s)},
+return A.h0(s,A.ai("ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time",s,s,s,A.bd(s,s,B.i,s,s,s,s,s,s,s,s,A.aB(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiq(this),s,s,s)},
 v5(){var s=0,r=A.H(t.z),q
 var $async$v5=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:A.bL("prefs loading")
@@ -91591,8 +91591,8 @@ p=A.bc($.kb(),$.ka(),15,16,30,0,0)
 p=A.cN(A.bc($.kb(),$.ka(),15,17,30,0,0),j,!1,!1,l,k,p,!1,m,m)
 o=A.bc($.kb(),$.ka(),5,10,0,0,0)
 o=A.cN(A.bc($.kb(),$.ka(),5,11,0,0,0),"assets/img/timetable/specialevents/esafety_scam.png",!1,!1,"Can you Spot a Scam",k,o,!1,m,m)
-n=A.bc($.kb(),$.ka(),22,11,0,0,0)
-return new A.YP(i,q,p,o,A.cN(A.bc($.kb(),$.ka(),22,12,0,0,0),"assets/img/timetable/specialevents/The English Teacher Event.png",!1,!0,"The English Teacher","Green / Magenta Room",n,!1,m,m))})
+n=A.bc($.kb(),$.ka(),19,11,0,0,0)
+return new A.YP(i,q,p,o,A.cN(A.bc($.kb(),$.ka(),19,12,0,0,0),"assets/img/timetable/specialevents/Nights in Rodanthe Event.png",!1,!0,"Nights in Rodanthe","Green / Magenta Room",n,!1,m,m))})
 s($,"aUj","aDr",()=>A.fj("https://listen.samcloud.com/v2/114157?page=page-overview",0,null))
 s($,"aUs","aDu",()=>A.fj(u.Y,0,null))
 s($,"aUb","au_",()=>A.fj("https://drive.google.com/file/d/135yMXTWnEG7ZlbPNzj96ulKpURu2joST/view?usp=sharing",0,null))
