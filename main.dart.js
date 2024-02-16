@@ -9258,11 +9258,11 @@ _.e=c
 _.f=d
 _.a=e},
 Pb:function Pb(a,b,c){var _=this
-_.e=a
-_.f=b
-_.r="assets/img/avatars/default_avatar.png"
-_.w=$
-_.x=!1
+_.d=a
+_.e=b
+_.f="assets/img/avatars/default_avatar.png"
+_.r=$
+_.w=!1
 _.a=null
 _.b=c
 _.c=null},
@@ -45238,25 +45238,25 @@ A.Pb.prototype={
 aI(){var s=this
 s.b1()
 A.bL("Client: "+s.a.c.c)
-if(A.aAe(s.a.c.c,"zoom"))s.r="assets/img/defaults/default_avatar_zoom.png"
-else if(A.aAe(s.a.c.c,"meet"))s.r="assets/img/defaults/default_avatar_meet.png"},
-ae7(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=i.w=A.aB(a,h,t.w).w.a
-i.x=g.b<481&&g.a<801
+if(A.aAe(s.a.c.c,"zoom"))s.f="assets/img/defaults/default_avatar_zoom.png"
+else if(A.aAe(s.a.c.c,"meet"))s.f="assets/img/defaults/default_avatar_meet.png"},
+ae7(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=i.r=A.aB(a,h,t.w).w.a
+i.w=g.b<481&&g.a<801
 new A.pR().i9(a)
 g=$.arE*2
-s=A.hv(i.r,h,150,150)
+s=A.hv(i.f,h,150,150)
 r=$.u0
 s=A.h0(h,A.h5(B.S,!0,h,s,B.b7,h,r*2,h,h,new A.dI(0,B.q),h,h,B.ce),B.a6,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,new A.agV(i),h,h,h)
 q=$.arD
-p=i.f
+p=i.e
 o=A.qP(new A.al(20,20))
 n=A.bd(h,h,h,h,h,h,h,h,h,h,h,70,h,h,B.dN,h,h,!0,h,h,h,h,h,h,h,h)
 m=A.cn(h,A.bd(h,h,B.i8,h,h,h,h,h,h,h,h,100,h,h,B.dN,h,h,!0,h,h,h,h,h,h,h,h),"2")
 l=i.a.c.a
-if(l.length>12)k=i.x?35:70
-else k=i.x?37.5:75
+if(l.length>12)k=i.w?35:70
+else k=i.w?37.5:75
 j=t.p
-return A.aqm(A.cX(A.a([A.bt(h,A.dl(A.a([s,new A.bE(new A.aq(q,0,0,r),h,h),A.aqO(A.h0(h,A.bt(new A.dF(0,0),A.cX(A.a([new A.bE(new A.aq(10,0,0,0),h,h),A.dl(A.a([new A.bE(new A.aq(10,0,0,0),h,h),A.a9I(h,h,B.bE,h,h,!0,h,A.cn(A.a([m,A.cn(h,A.bd(h,h,i.e,h,h,h,h,h,h,h,h,k,h,h,B.dN,h,h,!0,h,h,h,h,h,h,h,h),l)],t.Ne),n,"Connect"),B.b3,h,h,B.aD,B.aQ)],j),B.r,B.C,B.x)],j),B.r,B.aG,B.x,B.I),B.j,h,h,new A.fc(p,h,h,h,new A.cL(o,new A.aX(p,q,B.u,-1))),r*30,h,h,h),B.a6,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,new A.agW(i),h,h,h),1)],j),B.r,B.C,B.x),B.j,h,h,h,h,h,new A.aq(g,0,g,0),h),A.c8(h,15,h),A.dl(A.a([A.c8(h,h,50),A.awb(A.dl(A.a([A.ai("SPEAK NAME",h,h,h,h,h,h),A.kQ(B.DJ,B.i8,h,20)],j),B.r,B.C,B.x),new A.agX(i)),A.c8(h,h,500),A.awb(A.dl(A.a([A.ai("DELETE",h,h,h,h,h,h),A.kQ(B.DC,B.i8,h,20)],j),B.r,B.C,B.x),new A.agY(i))],j),B.r,B.C,B.x)],j),B.r,B.C,B.x,B.I),B.lw)},
+return A.aqm(A.cX(A.a([A.bt(h,A.dl(A.a([s,new A.bE(new A.aq(q,0,0,r),h,h),A.aqO(A.h0(h,A.bt(new A.dF(0,0),A.cX(A.a([new A.bE(new A.aq(10,0,0,0),h,h),A.dl(A.a([new A.bE(new A.aq(10,0,0,0),h,h),A.a9I(h,h,B.bE,h,h,!0,h,A.cn(A.a([m,A.cn(h,A.bd(h,h,i.d,h,h,h,h,h,h,h,h,k,h,h,B.dN,h,h,!0,h,h,h,h,h,h,h,h),l)],t.Ne),n,"Connect"),B.b3,h,h,B.aD,B.aQ)],j),B.r,B.C,B.x)],j),B.r,B.aG,B.x,B.I),B.j,h,h,new A.fc(p,h,h,h,new A.cL(o,new A.aX(p,q,B.u,-1))),r*30,h,h,h),B.a6,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,new A.agW(i),h,h,h),1)],j),B.r,B.C,B.x),B.j,h,h,h,h,h,new A.aq(g,0,g,0),h),A.c8(h,15,h),A.dl(A.a([A.c8(h,h,50),A.awb(A.dl(A.a([A.ai("SPEAK NAME",h,h,h,h,h,h),A.kQ(B.DJ,B.i8,h,20)],j),B.r,B.C,B.x),new A.agX(i)),A.c8(h,h,500),A.awb(A.dl(A.a([A.ai("DELETE",h,h,h,h,h,h),A.kQ(B.DC,B.i8,h,20)],j),B.r,B.C,B.x),new A.agY(i))],j),B.r,B.C,B.x)],j),B.r,B.C,B.x,B.I),B.lw)},
 K(a){return this.ae7(a)}}
 A.agV.prototype={
 $0(){this.a.a.TB()},
@@ -45782,11 +45782,11 @@ q=$.G3()
 p=t.Us
 q=A.a([q.a,$.atl().e,q.c,q.b],p)
 o=$.G3()
-o=A.a([o.d,o.f,o.r,o.w],p)
+o=A.a([o.d,$.atl().d,o.f,o.r,o.w],p)
 n=$.G3()
 n=A.a([n.x,n.y,n.z,n.Q,n.as],p)
 m=$.G3()
-m=A.a([m.ax,m.at,m.ay,m.ch,$.atl().c],p)
+m=A.a([m.ax,m.at,m.ay,m.ch,m.CW],p)
 l=$.G3()
 l=A.a([l.cx,l.cy,l.db,l.dx,l.dy],p)
 p=A.a([],p)
@@ -91590,8 +91590,8 @@ q=A.bc($.kb(),$.ka(),14,10,0,0,0)
 q=A.cN(A.bc($.kb(),$.ka(),14,11,30,0,0),j,!1,!1,l,k,q,!1,m,m)
 p=A.bc($.kb(),$.ka(),15,16,30,0,0)
 p=A.cN(A.bc($.kb(),$.ka(),15,17,30,0,0),j,!1,!1,l,k,p,!1,m,m)
-o=A.bc($.kb(),$.ka(),5,10,0,0,0)
-o=A.cN(A.bc($.kb(),$.ka(),5,11,0,0,0),"assets/img/timetable/specialevents/esafety_scam.png",!1,!1,"Can you Spot a Scam",k,o,!1,m,m)
+o=A.bc($.kb(),$.ka(),20,10,0,0,0)
+o=A.cN(A.bc($.kb(),$.ka(),20,11,0,0,0),"assets/img/timetable/specialevents/In2eSafety - eSafety Commissioner 1-3 Websites.jpg",!1,!1,"How to Use Government Websites",k,o,!1,m,m)
 n=A.bc($.kb(),$.ka(),19,11,0,0,0)
 return new A.YP(i,q,p,o,A.cN(A.bc($.kb(),$.ka(),19,12,0,0,0),"assets/img/timetable/specialevents/Nights in Rodanthe Event.jpg",!1,!0,"Closing the ring","Green / Magenta Room",n,!1,m,m))})
 s($,"aUj","aDr",()=>A.fj("https://listen.samcloud.com/v2/114157?page=page-overview",0,null))
