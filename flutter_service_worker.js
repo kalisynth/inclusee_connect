@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "059ca3325362ca211e428f4df4666719",
-"assets/AssetManifest.bin.json": "e5a0871b66294ccb24e606a010e4e80e",
-"assets/AssetManifest.json": "a916c45a68cdc95e08c8b38501c4e030",
+const RESOURCES = {"assets/AssetManifest.bin": "d99824cbaa316ed626355e78740ce837",
+"assets/AssetManifest.bin.json": "715c2d47e908932c2567bb3091ae94b4",
+"assets/AssetManifest.json": "e8ae852ce28efae19c6706800e16bde5",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -383,6 +383,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "059ca3325362ca211e428f4df4666719
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3%2520Websites.jpg": "eb996f7a3990deae417d5f94cd1e9bb2",
 "assets/assets/img/timetable/specialevents/Nights%2520in%2520Rodanthe%2520Event.jpg": "5024eb794b1504a4e426794d0fa6ca0d",
 "assets/assets/img/timetable/specialevents/Nights%2520in%2520Rodanthe%2520Event.png": "68b3f073d48e727ccdbedb0ee4d6649b",
+"assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Bribie%2520Butterfly%2520House.png": "2ffb68bef7ef1792feb921341f8f8b39",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520RSPCA%2520Wacol.png": "53f3e1fccd78c361663466bccaedb02a",
 "assets/assets/img/timetable/weekly/arttherapytile.png": "d2fee86b373a8071568b8866ae657f2e",
 "assets/assets/img/timetable/weekly/b2/In2Theatre.png": "ff34080bff0287904388c07d41cb8cca",
@@ -453,10 +454,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "059ca3325362ca211e428f4df4666719
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "ba3167e2bc102ffee4332bd0f6d09cda",
-"/": "ba3167e2bc102ffee4332bd0f6d09cda",
+"index.html": "089a8c3936823d7d63864454af98ae81",
+"/": "089a8c3936823d7d63864454af98ae81",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "acd4817cdae015e82be4a5ee55bfa12f",
+"main.dart.js": "235106239315cdf00ae4a97efaa76da8",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
