@@ -64,3 +64,7 @@ in2generations added
 # 04/03/24
 Mardi gras removed
 e2safety removed
+
+# 05/03/24
+removed old e2safety class
+added VFT - redcliffe
