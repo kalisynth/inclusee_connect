@@ -68,3 +68,6 @@ e2safety removed
 # 05/03/24
 removed old e2safety class
 added VFT - redcliffe
+
+# 06/03/24
+VCC closed for next tuesday
