@@ -45628,7 +45628,7 @@ Tw(a,b){var s,r,q,p,o,n,m,l=this
 l.amy()
 s=l.p4
 s===$&&A.b()
-r=s.tc(b,s.f.a)
+r=s.tc(b,s.r.a)
 s=r.length
 q=l.ay
 p=q?"TODAY":"MONDAY  "+A.kA("d").h5(A.kB($.j8(),1))+A.XD(A.aL(A.kB($.j8(),1)))
