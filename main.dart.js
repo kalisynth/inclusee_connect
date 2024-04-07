@@ -8966,7 +8966,7 @@ _.CW=j
 _.cx=k
 _.db=l
 _.dx=m},
-o2(){return new A.Yw("Inclusee 2.0.21 INCLUSEEAPP STATUS UPDATE: ",new A.r_("Connect","2","One"),new A.r_("Connect","2","You"),new A.r_("Interests","2","Enjoy"),new A.r_("Learn","2","Tech"))},
+o2(){return new A.Yw("Inclusee 2.1 INCLUSEEAPP STATUS UPDATE: ",new A.r_("Connect","2","One"),new A.r_("Connect","2","You"),new A.r_("Interests","2","Enjoy"),new A.r_("Learn","2","Tech"))},
 r_:function r_(a,b,c){this.b=a
 this.c=b
 this.d=c},
@@ -45428,7 +45428,7 @@ A.cF()
 s=A.aj("INCLUSEE INFO",h,h,h,h,h,h)
 A.cF()
 q=t.p
-s=A.dp(A.a([r,new A.bE(new A.as(0,0,40,0),h,h),s,new A.bE(new A.as(0,0,40,0),h,h),A.aj("Inclusee 2.0.21",h,h,h,h,h,h),A.c9(h,h,100)],q),B.r,B.C,B.x)
+s=A.dp(A.a([r,new A.bE(new A.as(0,0,40,0),h,h),s,new A.bE(new A.as(0,0,40,0),h,h),A.aj("Inclusee 2.1",h,h,h,h,h,h),A.c9(h,h,100)],q),B.r,B.C,B.x)
 A.cF()
 s=A.Yq(A.a([new A.xT(1.8*$.ng).GD(a)],q),!0,i.d,!0,s)
 r=i.lV("Participant \n Advocacy Group",i.gakx(),"assets/img/tiles/pag_tile.png")
