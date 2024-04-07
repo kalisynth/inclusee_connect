@@ -46272,7 +46272,7 @@ m=t.p
 return A.bY(k,k,A.ya(!1,!0,new A.bE(B.f0,A.hU(B.dr,A.a([r,A.d_(A.a([new A.bE(new A.ey(0,s+h*0.025,0,0),k,k),q,p,A.bt(k,A.aj(o,k,k,k,A.bd(k,B.c4,B.i,k,k,k,k,k,j,k,k,A.aD(n,k,i).w.a.b/30,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k),B.j,k,k,k,k,k,k,k)],m),B.r,B.aG,B.x,B.I)],m),B.a_,B.b2),k),k,!0,k,k,k,k,k,k,k,k,k,new A.apv(l),k,k,k,k),!1,k,k,!1,k,k,k,k,b.a,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k)},
 adE(a,b,c){var s,r,q,p,o,n,m,l=null,k=t.w,j=A.aD(a,l,k).w.a.b/(c-4)
 A.bJ("tile: "+A.h(j))
-s=j/2
+s=j/4
 A.bJ("text "+A.h(s))
 r=b.x
 q=Date.now()>r.a&&Date.now()<b.y.a
