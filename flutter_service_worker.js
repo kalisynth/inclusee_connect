@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f5d0fc388dfb417047c438006b631303",
-"assets/AssetManifest.bin.json": "84ebab43648fcc0d5ccb44f7f95e7401",
-"assets/AssetManifest.json": "a5769ba88b39245a9acc6423c0fe06ae",
+const RESOURCES = {"assets/AssetManifest.bin": "a630c7550aec7d4bd4f602bc9fa4c4f5",
+"assets/AssetManifest.bin.json": "e00b25344148da7eac67f789a044c45c",
+"assets/AssetManifest.json": "b56253f114d89bc6f96020874fc473a1",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -411,10 +411,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "f5d0fc388dfb417047c438006b631303
 "assets/assets/img/timetable/weekly/In2Genealogy.png": "91b7af084dc80cae0a49c5d179885687",
 "assets/assets/img/timetable/weekly/in2painttile.png": "8a42b71f79e9d681c0ba2ba3a30d6169",
 "assets/assets/img/timetable/weekly/lunchandlearntile.png": "52892395dba8b5449eadc424f6d94518",
+"assets/assets/img/timetable/weekly/meditiation.png": "b03b9a1ca837d888603c702ae9a2e249",
+"assets/assets/img/timetable/weekly/menhour.png": "b9ace4e725f78c4bec2a40ed81c43d88",
+"assets/assets/img/timetable/weekly/minecraft.png": "7060002c30f4c6f4c1d01bf3ba306058",
 "assets/assets/img/timetable/weekly/receipes.png": "83a035f11ce01220220b5d218bbe53eb",
 "assets/assets/img/timetable/weekly/shedstxt.png": "17b53e086963751e80d9b23a6ddc06f8",
 "assets/assets/img/timetable/weekly/singingtxt.png": "563f422449ffc598a5b11c1f6d75078a",
 "assets/assets/img/timetable/weekly/startedtxt.png": "dd3cf704bf1dffba3ac675788ecb0c30",
+"assets/assets/img/timetable/weekly/theatre.png": "c84352889b7843253bf419dd853dfa01",
 "assets/assets/img/timetable/weekly/traveltile.png": "6964ff1ad4749167785b477891810606",
 "assets/assets/img/timetable/weekly/triviatxt.png": "ff38a1436d21ad28ca65c959db9f1038",
 "assets/assets/img/timetable/weekly/ukulele.png": "60c8b94d61771f03df2912c93aeb16ba",
@@ -465,10 +469,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "f5d0fc388dfb417047c438006b631303
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "0c618992e72fe69d1958b2c7e98cd591",
-"/": "0c618992e72fe69d1958b2c7e98cd591",
+"index.html": "59e4748ce4d0492a4dbe2a3fc7623afb",
+"/": "59e4748ce4d0492a4dbe2a3fc7623afb",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "d3262ff021c5c50a62e44adb1f51efab",
+"main.dart.js": "b84a5915964bcee539c84990a8989652",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
