@@ -46255,7 +46255,7 @@ break
 default:s=B.m}return s},
 tY(a,b,c,d,e){var s,r,q,p,o,n,m,l=this,k=null,j="Arial",i=t.w,h=A.aD(a,k,i).w.a.b,g=h/(c-4)
 A.bJ("tile: "+A.h(g))
-s=g/2
+s=g/4
 A.bJ("text "+A.h(s))
 r=A.aD(a,k,i).w
 r=A.bt(k,A.hA(b.w,B.hX,k,k),B.j,k,k,new A.cE(l.adR(d),k,k,new A.bS(new A.am(15,15),new A.am(15,15),new A.am(15,15),new A.am(15,15)),k,k,B.am),g,k,k,r.a.a/c)
