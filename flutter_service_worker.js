@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a630c7550aec7d4bd4f602bc9fa4c4f5",
-"assets/AssetManifest.bin.json": "e00b25344148da7eac67f789a044c45c",
-"assets/AssetManifest.json": "b56253f114d89bc6f96020874fc473a1",
+const RESOURCES = {"assets/AssetManifest.bin": "c53e6118d2e3c17f3a4441d208214e1b",
+"assets/AssetManifest.bin.json": "7880936aa979f3db8561ddeb42fdae69",
+"assets/AssetManifest.json": "d692d7a11c4971dadc02a1e91e4b169d",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -379,7 +379,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "a630c7550aec7d4bd4f602bc9fa4c4f5
 "assets/assets/img/tiles/pi_tile.png": "56b5e43283b3651edc1ad53eb1cfde05",
 "assets/assets/img/timetable/inclusee_tile.png": "a058fd363ec12814e2269442a4f2f5e8",
 "assets/assets/img/timetable/inclusee_tile_white.png": "3897ebd804b69b5a40c43c7757f70e24",
+"assets/assets/img/timetable/specialevents/Beyond%2520Blue%2520Webinar.png": "e588e51575778acf0be3c0cef446afc8",
 "assets/assets/img/timetable/specialevents/datawifi.png": "e5ea8ca27c4f162cb1f869e9f22f6375",
+"assets/assets/img/timetable/specialevents/esafeandroid.png": "a59457a3142c5f164c2702366594323e",
+"assets/assets/img/timetable/specialevents/esafeonlineshopbank.png": "e4f5cd35acde80ebfe838ba44c0822bf",
 "assets/assets/img/timetable/specialevents/HEALTHANDTECH.png": "cab296ad49b503c2a99cb23dc7b850f8",
 "assets/assets/img/timetable/specialevents/In2Books%2520(T.M%2520Clark).png": "23e67ab2f915aa95da68013ac8697136",
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3.png": "4c9e98a915f7c91d78135d776fb7f189",
@@ -469,10 +472,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "a630c7550aec7d4bd4f602bc9fa4c4f5
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "87676b576127ff0410e6726e3c97c295",
-"/": "87676b576127ff0410e6726e3c97c295",
+"index.html": "0511f57546bbec02e952f5dbeb722923",
+"/": "0511f57546bbec02e952f5dbeb722923",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "a3936fcb84ce10c5d3ac68f808ba8a3e",
+"main.dart.js": "55200dec552b44009524e96f49828344",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
