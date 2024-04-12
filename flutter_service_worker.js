@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c53e6118d2e3c17f3a4441d208214e1b",
-"assets/AssetManifest.bin.json": "7880936aa979f3db8561ddeb42fdae69",
-"assets/AssetManifest.json": "d692d7a11c4971dadc02a1e91e4b169d",
+const RESOURCES = {"assets/AssetManifest.bin": "2b4a0701090abcd91ff0af62d4372fb5",
+"assets/AssetManifest.bin.json": "afad9e9fc5afb5f3958515e86039f5e6",
+"assets/AssetManifest.json": "5d37346504eda0a07022000ac71c648c",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -383,6 +383,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c53e6118d2e3c17f3a4441d208214e1b
 "assets/assets/img/timetable/specialevents/datawifi.png": "e5ea8ca27c4f162cb1f869e9f22f6375",
 "assets/assets/img/timetable/specialevents/esafeandroid.png": "a59457a3142c5f164c2702366594323e",
 "assets/assets/img/timetable/specialevents/esafeonlineshopbank.png": "e4f5cd35acde80ebfe838ba44c0822bf",
+"assets/assets/img/timetable/specialevents/esafetyspotascam.png": "65e0971b325e843c5c3884b29f274684",
 "assets/assets/img/timetable/specialevents/HEALTHANDTECH.png": "cab296ad49b503c2a99cb23dc7b850f8",
 "assets/assets/img/timetable/specialevents/In2Books%2520(T.M%2520Clark).png": "23e67ab2f915aa95da68013ac8697136",
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3.png": "4c9e98a915f7c91d78135d776fb7f189",
@@ -397,6 +398,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c53e6118d2e3c17f3a4441d208214e1b
 "assets/assets/img/timetable/specialevents/Seed%2520Event.png": "68429aaf458cee510da9f1bb40f5b583",
 "assets/assets/img/timetable/specialevents/sellingsafely.png": "5fe181a3a03872eef86a4733784c0a13",
 "assets/assets/img/timetable/specialevents/Stroke%2520Foundation%2520Guest%2520Speaker.png": "666c4dd66e9f6815a76bbe902d00fb0c",
+"assets/assets/img/timetable/specialevents/vftjoey.png": "a63e8a1c27346484bc2a771a78126914",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Redcliffe%2520Botcanical%2520Gardens.png": "3dca4d3bbf7f985cfda6dac040766875",
 "assets/assets/img/timetable/weekly/arttherapytile.png": "d2fee86b373a8071568b8866ae657f2e",
 "assets/assets/img/timetable/weekly/b2/In2Theatre.png": "ff34080bff0287904388c07d41cb8cca",
@@ -472,10 +474,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "c53e6118d2e3c17f3a4441d208214e1b
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "0511f57546bbec02e952f5dbeb722923",
-"/": "0511f57546bbec02e952f5dbeb722923",
+"index.html": "fadd177b08d04365358ae8bc32b78324",
+"/": "fadd177b08d04365358ae8bc32b78324",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "55200dec552b44009524e96f49828344",
+"main.dart.js": "20cc23f59ec0df809a8385774f9e2c62",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
