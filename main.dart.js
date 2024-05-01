@@ -45984,7 +45984,7 @@ p=q.d
 p===$&&A.b()
 o=q.c
 o===$&&A.b()
-n=A.a([p.oZ(o,"VCC CLOSED \n May 6st \n Public Holiday",q.gqj())],r)
+n=A.a([p.oZ(o,"VCC CLOSED \n May 6th \n Public Holiday",q.gqj())],r)
 B.b.N(n,m.tm(10-n.length))
 r=A.aj(n,!0,t.l7)
 B.b.N(r,m.V5(10,!1))
