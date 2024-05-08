@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0aa1b11b9a48e273bd6a32e2ea2a4bb1",
-"assets/AssetManifest.bin.json": "a1e2a983ae78f3834615cb65187ec649",
-"assets/AssetManifest.json": "1a29c61fdb25b6ee0c77d1260523756a",
+const RESOURCES = {"assets/AssetManifest.bin": "10f8a3a06040d52b04715131d86dcca9",
+"assets/AssetManifest.bin.json": "31e6a77b1b6fc2f4344d896890fd4879",
+"assets/AssetManifest.json": "57b6583b4defcb8bf49f797d8e2d3430",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -30,6 +30,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0aa1b11b9a48e273bd6a32e2ea2a4bb1
 "assets/assets/img/tiles/pi_tile.png": "56b5e43283b3651edc1ad53eb1cfde05",
 "assets/assets/img/timetable/inclusee_tile.png": "a058fd363ec12814e2269442a4f2f5e8",
 "assets/assets/img/timetable/inclusee_tile_white.png": "3897ebd804b69b5a40c43c7757f70e24",
+"assets/assets/img/timetable/specialevents/52bc6955-30f5-447a-ad7c-77e7f7a65f7f.png": "41a98eda41dece0867d52dcc0e0c63a8",
 "assets/assets/img/timetable/specialevents/Beyond%2520Blue%2520Webinar.png": "e588e51575778acf0be3c0cef446afc8",
 "assets/assets/img/timetable/specialevents/Birthday%2520Celebration%2520Club%2520Tile.png": "7d2972e5c2432800166fa09054c01a9e",
 "assets/assets/img/timetable/specialevents/datawifi.png": "e5ea8ca27c4f162cb1f869e9f22f6375",
@@ -38,6 +39,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0aa1b11b9a48e273bd6a32e2ea2a4bb1
 "assets/assets/img/timetable/specialevents/esafetyspotascam.png": "65e0971b325e843c5c3884b29f274684",
 "assets/assets/img/timetable/specialevents/HEALTHANDTECH.png": "cab296ad49b503c2a99cb23dc7b850f8",
 "assets/assets/img/timetable/specialevents/In2Books%2520(T.M%2520Clark).png": "23e67ab2f915aa95da68013ac8697136",
+"assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520apps.png": "4c340ee6b1b2882118b3922aca394d08",
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3.png": "4c9e98a915f7c91d78135d776fb7f189",
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520facebook.png": "9b6765676588a61a4bf94cd3de924958",
 "assets/assets/img/timetable/specialevents/In2Movies%2520(Darling%2520Companion).png": "54033ab85c31f1f1ed4c4b573da56b3b",
@@ -56,6 +58,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0aa1b11b9a48e273bd6a32e2ea2a4bb1
 "assets/assets/img/timetable/specialevents/Stroke%2520Foundation%2520Guest%2520Speaker.png": "666c4dd66e9f6815a76bbe902d00fb0c",
 "assets/assets/img/timetable/specialevents/VFT%2520Caves%2520and%2520Caverns.png": "01b86315ea97d2db018546c610144361",
 "assets/assets/img/timetable/specialevents/vftjoey.png": "a63e8a1c27346484bc2a771a78126914",
+"assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Bribie%2520Butterfly%2520House.png": "2ffb68bef7ef1792feb921341f8f8b39",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Redcliffe%2520Botcanical%2520Gardens.png": "3dca4d3bbf7f985cfda6dac040766875",
 "assets/assets/img/timetable/weekly/arttherapytile.png": "d2fee86b373a8071568b8866ae657f2e",
 "assets/assets/img/timetable/weekly/b2/In2Theatre.png": "ff34080bff0287904388c07d41cb8cca",
@@ -128,10 +131,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "0aa1b11b9a48e273bd6a32e2ea2a4bb1
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "ad7f2e45415547aa1baebd05750bf12d",
-"/": "ad7f2e45415547aa1baebd05750bf12d",
+"index.html": "251b944b99553ea713e80a9cc2e4b60f",
+"/": "251b944b99553ea713e80a9cc2e4b60f",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "22fed6ad3e74d715f04fb583c82e0934",
+"main.dart.js": "dd85570a18efc9ff5ef6eddb3dbc4ba8",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
