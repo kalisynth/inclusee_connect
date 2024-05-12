@@ -46275,7 +46275,7 @@ s=A.aE(r,q,s).w
 return A.bq(q,A.h9(q,A.bq(q,A.hE("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a6,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aiO(this),q,q,q),B.j,q,q,q,q,q,q,q)},
 adE(){var s=null,r=this.c
 r.toString
-return A.h9(s,A.a8("NEXT WEEK IS VIRTUAL OPEN WEEK ",s,s,s,A.bd(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
+return A.h9(s,A.a8("VIRTUAL OPEN WEEK PLEASE JOIN US FOR THE MANY FUN EVENTS THIS WEEK",s,s,s,A.bd(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
 v5(){var s=0,r=A.H(t.z),q
 var $async$v5=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:A.bK("prefs loading")
