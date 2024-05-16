@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "91e1cfb4307ecdf02609df59ebfad78f",
-"assets/AssetManifest.bin.json": "ddb2302ecff6ec4127963b8805bac97d",
-"assets/AssetManifest.json": "91c7201af335810354f43646b6f87eda",
+const RESOURCES = {"assets/AssetManifest.bin": "eb829e2d39c95429becaea31a11b7678",
+"assets/AssetManifest.bin.json": "cf5033e5a03d3c82af7cad6c1515ecbc",
+"assets/AssetManifest.json": "5f7606c38e9eb79143aa88ddfb9a2fff",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -45,8 +45,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "91e1cfb4307ecdf02609df59ebfad78f
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520apps.png": "4c340ee6b1b2882118b3922aca394d08",
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3.png": "4c9e98a915f7c91d78135d776fb7f189",
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520facebook.png": "9b6765676588a61a4bf94cd3de924958",
-"assets/assets/img/timetable/specialevents/In2Movies%2520(Darling%2520Companion).png": "54033ab85c31f1f1ed4c4b573da56b3b",
-"assets/assets/img/timetable/specialevents/In2Movies%2520(Gallipoli).png": "fbc169e8ad22e96cc9876777b2f44399",
+"assets/assets/img/timetable/specialevents/In2Movies%2520(Loves%2520Kitchen).png": "79979d5b7a0cadcd884b695c6ac3a874",
 "assets/assets/img/timetable/specialevents/In2Travel_%2520Samoa.png": "67e77fc7b5f8d13b9cdf60d2a187e80a",
 "assets/assets/img/timetable/specialevents/In2Trivia%2520(Mardi%2520Gras).png": "fd962fa7dc77ec85d18de727238296d4",
 "assets/assets/img/timetable/specialevents/In2Trivia%2520-%2520Drag%2520Trivia.png": "ce283b2bdde4902cad6b1e20d3bb5dd9",
@@ -57,11 +56,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "91e1cfb4307ecdf02609df59ebfad78f
 "assets/assets/img/timetable/specialevents/Liveup%2520Guest%2520Speaker.png": "cf67ad9bb8f10e9ae3740a31b219ba8a",
 "assets/assets/img/timetable/specialevents/memoirworkshop.png": "4133fd6d961de4cdf1aaea5f213106c9",
 "assets/assets/img/timetable/specialevents/NBN%2520In2eSafety.png": "65eeb089ed1a88f2b9d7bac2a39031b1",
-"assets/assets/img/timetable/specialevents/Nights%2520in%2520Rodanthe%2520Event.jpg": "5024eb794b1504a4e426794d0fa6ca0d",
-"assets/assets/img/timetable/specialevents/Nights%2520in%2520Rodanthe%2520Event.png": "68b3f073d48e727ccdbedb0ee4d6649b",
 "assets/assets/img/timetable/specialevents/officeftcr.png": "44d471ed80f866d8a5381e484975d138",
 "assets/assets/img/timetable/specialevents/scams.png": "126e8e8f3c2ee06e820379f9b96d2816",
-"assets/assets/img/timetable/specialevents/Seed%2520Event.png": "68429aaf458cee510da9f1bb40f5b583",
 "assets/assets/img/timetable/specialevents/sellingsafely.png": "5fe181a3a03872eef86a4733784c0a13",
 "assets/assets/img/timetable/specialevents/Stroke%2520Foundation%2520Guest%2520Speaker.png": "666c4dd66e9f6815a76bbe902d00fb0c",
 "assets/assets/img/timetable/specialevents/The%2520Office%2520of%2520Fair%2520Trading%2520Guest%2520Speaker%2520App%2520tile.png": "af9fd70ab91cc1f5f60771c7080d6712",
@@ -140,10 +136,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "91e1cfb4307ecdf02609df59ebfad78f
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "d99375f33995cb1d814956fb9f60eb08",
-"/": "d99375f33995cb1d814956fb9f60eb08",
+"index.html": "5abeea1503eb4ed967b047e97a3b213d",
+"/": "5abeea1503eb4ed967b047e97a3b213d",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "8e8b7f74a6511bae59a3dba9939d65b2",
+"main.dart.js": "1d3d1d441671f5c009ebcc5089f9e2f0",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
