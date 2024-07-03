@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "e63a4477a17ee496a513a65be1fa484d",
-"assets/AssetManifest.bin.json": "55aae033ebb6bbb64885f9b72b1773ba",
-"assets/AssetManifest.json": "9023bd7ddb3667c34d2ccae8eda8b5f7",
+const RESOURCES = {"assets/AssetManifest.bin": "90df985886fed83b9e58091315ff448a",
+"assets/AssetManifest.bin.json": "9edb66b9a938c5deed09e61b0a8d3e65",
+"assets/AssetManifest.json": "99e4fe44b53a4ef4ef863657d8a7b7df",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -51,6 +51,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "e63a4477a17ee496a513a65be1fa484d
 "assets/assets/img/timetable/specialevents/In2Gardening%2520(Nurso).png": "e9d263746675ee75563937e5af381c97",
 "assets/assets/img/timetable/specialevents/In2Movies%2520(A%2520Late%2520Quartet).png": "c15564ed461d9d7191ab8f06d709ddfe",
 "assets/assets/img/timetable/specialevents/In2Movies%2520(Loves%2520Kitchen).png": "79979d5b7a0cadcd884b695c6ac3a874",
+"assets/assets/img/timetable/specialevents/In2Movies%252090sclub.png": "48c5e3b7dd44999fee24156cce1f3fda",
 "assets/assets/img/timetable/specialevents/in2movies%2520last%2520daughter.png": "d543c172458df0d227bce33b40c1c7c8",
 "assets/assets/img/timetable/specialevents/In2Travel_%2520Samoa.png": "67e77fc7b5f8d13b9cdf60d2a187e80a",
 "assets/assets/img/timetable/specialevents/In2Trivia%2520(Mardi%2520Gras).png": "fd962fa7dc77ec85d18de727238296d4",
@@ -73,6 +74,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "e63a4477a17ee496a513a65be1fa484d
 "assets/assets/img/timetable/specialevents/VFT%2520Caves%2520and%2520Caverns.png": "01b86315ea97d2db018546c610144361",
 "assets/assets/img/timetable/specialevents/vft%2520wonders.png": "03a61aa18aa01633e5ac43211cc56d24",
 "assets/assets/img/timetable/specialevents/vftjoey.png": "a63e8a1c27346484bc2a771a78126914",
+"assets/assets/img/timetable/specialevents/vftnorway.png": "d47fa29b5b9830ba928447b3eb0ff2e5",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Bribie%2520Butterfly%2520House.png": "2ffb68bef7ef1792feb921341f8f8b39",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Redcliffe%2520Botcanical%2520Gardens.png": "3dca4d3bbf7f985cfda6dac040766875",
 "assets/assets/img/timetable/weekly/arttherapytile.png": "d2fee86b373a8071568b8866ae657f2e",
@@ -146,10 +148,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "e63a4477a17ee496a513a65be1fa484d
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "4eefc05148496582306704b50816ac35",
-"/": "4eefc05148496582306704b50816ac35",
+"index.html": "db066750f00712056e06c22c61334061",
+"/": "db066750f00712056e06c22c61334061",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "318e6dae7a5bd3c59ce6a344b320c7b5",
+"main.dart.js": "3dd2362998fbce8613a6ff63cfbdcf2e",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
