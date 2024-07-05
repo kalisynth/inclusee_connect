@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "90df985886fed83b9e58091315ff448a",
-"assets/AssetManifest.bin.json": "9edb66b9a938c5deed09e61b0a8d3e65",
-"assets/AssetManifest.json": "99e4fe44b53a4ef4ef863657d8a7b7df",
+const RESOURCES = {"assets/AssetManifest.bin": "0538c7792b35508b9244976368722a00",
+"assets/AssetManifest.bin.json": "79c4b221d88484bde170e016472de07a",
+"assets/AssetManifest.json": "482ccc4daf843f34166ff7a14002921c",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -38,6 +38,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "90df985886fed83b9e58091315ff448a
 "assets/assets/img/timetable/specialevents/Digital%2520Escape%2520Room%2520-%2520Spy%2520Apprentice.png": "606e99b470ef7e4e85798a37cf7698bb",
 "assets/assets/img/timetable/specialevents/esafeandroid.png": "a59457a3142c5f164c2702366594323e",
 "assets/assets/img/timetable/specialevents/esafeonlineshopbank.png": "e4f5cd35acde80ebfe838ba44c0822bf",
+"assets/assets/img/timetable/specialevents/esafety-gov.png": "ef5ef6cd8a5e4491d9a88353a30027f5",
 "assets/assets/img/timetable/specialevents/esafetyspotascam.png": "65e0971b325e843c5c3884b29f274684",
 "assets/assets/img/timetable/specialevents/guest%2520rachel%2520armstrng.png": "fe9c459513c4cbcc265ce5367502a0d7",
 "assets/assets/img/timetable/specialevents/Guest%2520Speaker%2520-%2520In2Books%2520Amanda%2520O%2520Callaghan.png": "acdfdeae3af8ab2541e640f831414360",
@@ -82,6 +83,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "90df985886fed83b9e58091315ff448a
 "assets/assets/img/timetable/weekly/b2/Learn2Minecraft.png": "aca8e903e27402de11511c57243d055a",
 "assets/assets/img/timetable/weekly/bibletxt.png": "af90f8622cefdd2c152f7dcba970599b",
 "assets/assets/img/timetable/weekly/bookstxt.png": "9eece3a074165f0f57b26a8750db0269",
+"assets/assets/img/timetable/weekly/Brain%2520Teasers%2520Club%2520Tile.png": "a1c32680aa61d56ab351dea5b554657f",
 "assets/assets/img/timetable/weekly/c2ytxt.png": "0052e03e96f92692724c23f845bf0bd2",
 "assets/assets/img/timetable/weekly/crafttile.png": "e052385ecac212a0ac6885e5194b1ba7",
 "assets/assets/img/timetable/weekly/digitalhelptile.png": "199fdebaec7a201bab482a1d197542b5",
@@ -148,10 +150,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "90df985886fed83b9e58091315ff448a
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "db066750f00712056e06c22c61334061",
-"/": "db066750f00712056e06c22c61334061",
+"index.html": "e44576539158d2aa6bf1be7c0dc4ee73",
+"/": "e44576539158d2aa6bf1be7c0dc4ee73",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "3dd2362998fbce8613a6ff63cfbdcf2e",
+"main.dart.js": "f2629429c1e9e82133a5b0addd89ef70",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
