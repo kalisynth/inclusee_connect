@@ -46298,7 +46298,7 @@ s=A.aE(r,q,s).w
 return A.br(q,A.h8(q,A.br(q,A.hD("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a6,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aiO(this),q,q,q),B.j,q,q,q,q,q,q,q)},
 adE(){var s=null,r=this.c
 r.toString
-return A.h8(s,A.aa("Clubs Closed Tuesday 16th due to Staff Training",s,s,s,A.b5(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
+return A.h8(s,A.aa(" ",s,s,s,A.b5(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
 v5(){var s=0,r=A.H(t.z),q
 var $async$v5=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:A.bK("prefs loading")
@@ -91992,7 +91992,7 @@ a2=A.Y($.bM(),$.bL(),$.w5(),14,0,0,0)
 return new A.a2e(b1,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,A.bo(A.Y($.bM(),$.bL(),$.w5(),15,0,0,0),"assets/img/timetable/specialevents/Digital Escape Room - Spy Apprentice.png",!1,!1,"Escape Room - Spy Apprentice",a7,a2,!1,a3,a3))})
 s($,"aYh","aFz",()=>A.f1("https://listen.samcloud.com/v2/114157?page=page-overview",0,null))
 s($,"aYr","aFD",()=>A.f1(u.Y,0,null))
-s($,"aY9","aFv",()=>A.f1("https://inclusee.org.au/wp-content/uploads/2024/05/Newsletter-June-2024.pdf",0,null))
+s($,"aY9","aFv",()=>A.f1("https://inclusee.org.au/wp-content/uploads/2024/07/Newsletter-June-2024.pdf",0,null))
 s($,"aYq","aFC",()=>A.f1("https://www.youtube.com/@Inclusee",0,null))
 r($,"aUL","aDy",()=>A.arB())
 r($,"aUP","fv",()=>new A.a57())
