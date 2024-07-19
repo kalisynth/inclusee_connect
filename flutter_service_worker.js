@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f5c842d7293a95660f197749de6900ff",
-"assets/AssetManifest.bin.json": "565ff55a59a79f88d1cc620414c2dc2f",
-"assets/AssetManifest.json": "a9df5337bffcaa0a1937e5ef498bd395",
+const RESOURCES = {"assets/AssetManifest.bin": "f4269e91189f33ba38dcce23aa59a6a1",
+"assets/AssetManifest.bin.json": "50c043452c9ec44738cde231290bbbc7",
+"assets/AssetManifest.json": "fac048c622c3a520cc0432b376236ce3",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -46,6 +46,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f5c842d7293a95660f197749de6900ff
 "assets/assets/img/timetable/specialevents/Guest%2520Speaker%2520Caxton%2520Legal.png": "465209ae413498419a47e7f84f4ed804",
 "assets/assets/img/timetable/specialevents/HEALTHANDTECH.png": "cab296ad49b503c2a99cb23dc7b850f8",
 "assets/assets/img/timetable/specialevents/In%2520Movies%2520Blind.png": "dd590943347b5b6f4bc3f9ece0054d25",
+"assets/assets/img/timetable/specialevents/In%2520Movies%2520VBlue%2520bird.png": "4f1e0a1b70c9f16c59f699a0a35ddb94",
 "assets/assets/img/timetable/specialevents/In2Books%2520(T.M%2520Clark).png": "23e67ab2f915aa95da68013ac8697136",
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520apps.png": "4c340ee6b1b2882118b3922aca394d08",
 "assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3.png": "4c9e98a915f7c91d78135d776fb7f189",
@@ -98,6 +99,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f5c842d7293a95660f197749de6900ff
 "assets/assets/img/timetable/weekly/in2painttile.png": "8a42b71f79e9d681c0ba2ba3a30d6169",
 "assets/assets/img/timetable/weekly/in2story.png": "b69dc2959556d2ba656a07e474b53ee6",
 "assets/assets/img/timetable/weekly/In2Storytelling.png": "4bbc0c6ce322315ba7c82b198042a912",
+"assets/assets/img/timetable/weekly/Learn2Kahoot.png": "dae7e9ea781664ba7f7b7394778dd5a4",
 "assets/assets/img/timetable/weekly/lunchandlearntile.png": "52892395dba8b5449eadc424f6d94518",
 "assets/assets/img/timetable/weekly/meditiation.png": "b03b9a1ca837d888603c702ae9a2e249",
 "assets/assets/img/timetable/weekly/menhour.png": "b9ace4e725f78c4bec2a40ed81c43d88",
@@ -155,10 +157,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "f5c842d7293a95660f197749de6900ff
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "31f3b9ae55cc9a2886ff733267dd0973",
-"/": "31f3b9ae55cc9a2886ff733267dd0973",
+"index.html": "047963283c5dba2f878270967a859d50",
+"/": "047963283c5dba2f878270967a859d50",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "0e759011f5dcc8c61b2ac217204bfb47",
+"main.dart.js": "19b1b383242e43b6f9256a81d79ee577",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
