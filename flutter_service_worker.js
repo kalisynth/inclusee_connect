@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f4269e91189f33ba38dcce23aa59a6a1",
-"assets/AssetManifest.bin.json": "50c043452c9ec44738cde231290bbbc7",
-"assets/AssetManifest.json": "fac048c622c3a520cc0432b376236ce3",
+const RESOURCES = {"assets/AssetManifest.bin": "706d00d75983225f828021cd8e89139c",
+"assets/AssetManifest.bin.json": "748aa97873f289afd8e82c9a84914cc4",
+"assets/AssetManifest.json": "97ed965ce21e5c19e2abc42109fcd432",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -55,6 +55,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f4269e91189f33ba38dcce23aa59a6a1
 "assets/assets/img/timetable/specialevents/In2Gardening%2520(Nurso).png": "e9d263746675ee75563937e5af381c97",
 "assets/assets/img/timetable/specialevents/In2Movies%2520(A%2520Late%2520Quartet).png": "c15564ed461d9d7191ab8f06d709ddfe",
 "assets/assets/img/timetable/specialevents/In2Movies%2520(Loves%2520Kitchen).png": "79979d5b7a0cadcd884b695c6ac3a874",
+"assets/assets/img/timetable/specialevents/In2Movies%2520-%2520The%2520Blue%2520Bird.png": "594af235c55d726f3b90447cf5c7beb6",
 "assets/assets/img/timetable/specialevents/In2Movies%252090sclub.png": "48c5e3b7dd44999fee24156cce1f3fda",
 "assets/assets/img/timetable/specialevents/in2movies%2520last%2520daughter.png": "d543c172458df0d227bce33b40c1c7c8",
 "assets/assets/img/timetable/specialevents/In2Travel_%2520Samoa.png": "67e77fc7b5f8d13b9cdf60d2a187e80a",
@@ -157,10 +158,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "f4269e91189f33ba38dcce23aa59a6a1
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "047963283c5dba2f878270967a859d50",
-"/": "047963283c5dba2f878270967a859d50",
+"index.html": "13cb1e9acc9a7e1b8e2dd061d0131c9b",
+"/": "13cb1e9acc9a7e1b8e2dd061d0131c9b",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "19b1b383242e43b6f9256a81d79ee577",
+"main.dart.js": "20a54787513634e89800263f2f6127eb",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
