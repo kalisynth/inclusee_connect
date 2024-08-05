@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "bc05f6033719045d42c1e19a012c504b",
-"assets/AssetManifest.bin.json": "5071eb21eeae76f17026143ba4652006",
-"assets/AssetManifest.json": "525970b2461189d34096163582ae25d2",
+const RESOURCES = {"assets/AssetManifest.bin": "cd460301fa91bd4ccb844d1abaa5ca3d",
+"assets/AssetManifest.bin.json": "62edb0ea187ae39a725d2953130ab409",
+"assets/AssetManifest.json": "3bbd5d2c571bce32ae9ec31620154539",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -28,6 +28,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "bc05f6033719045d42c1e19a012c504b
 "assets/assets/img/tiles/ol_tile.png": "eda629a626c4e06477c7fd188a13152e",
 "assets/assets/img/tiles/pag_tile.png": "d6ecb7fe9be0085e384f1de316eff3d1",
 "assets/assets/img/tiles/pi_tile.png": "56b5e43283b3651edc1ad53eb1cfde05",
+"assets/assets/img/timetable/guests/in2booksJA.png": "f0546455f74d76e3c43cc9f9dfdf6cc1",
 "assets/assets/img/timetable/inclusee_tile.png": "a058fd363ec12814e2269442a4f2f5e8",
 "assets/assets/img/timetable/inclusee_tile_white.png": "3897ebd804b69b5a40c43c7757f70e24",
 "assets/assets/img/timetable/specialevents/52bc6955-30f5-447a-ad7c-77e7f7a65f7f.png": "41a98eda41dece0867d52dcc0e0c63a8",
@@ -62,6 +63,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "bc05f6033719045d42c1e19a012c504b
 "assets/assets/img/timetable/specialevents/In2Travel_%2520Samoa.png": "67e77fc7b5f8d13b9cdf60d2a187e80a",
 "assets/assets/img/timetable/specialevents/In2Trivia%2520(Mardi%2520Gras).png": "fd962fa7dc77ec85d18de727238296d4",
 "assets/assets/img/timetable/specialevents/In2Trivia%2520-%2520Drag%2520Trivia.png": "ce283b2bdde4902cad6b1e20d3bb5dd9",
+"assets/assets/img/timetable/specialevents/in2wellnes%2520mini.png": "a749a6fd4200ade6855a743ea47bbcb9",
 "assets/assets/img/timetable/specialevents/iphone.png": "fb530eb3f28a16f5869de2018f4b3049",
 "assets/assets/img/timetable/specialevents/Laughter%2520Yoga%2520txt.png": "96c4fc129665557dc84481f463ba92bf",
 "assets/assets/img/timetable/specialevents/Laughter%2520Yoga.png": "97b542480c31b90c8d7a2596b785bca7",
@@ -83,6 +85,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "bc05f6033719045d42c1e19a012c504b
 "assets/assets/img/timetable/specialevents/vftnorway.png": "d47fa29b5b9830ba928447b3eb0ff2e5",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Bribie%2520Butterfly%2520House.png": "2ffb68bef7ef1792feb921341f8f8b39",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Redcliffe%2520Botcanical%2520Gardens.png": "3dca4d3bbf7f985cfda6dac040766875",
+"assets/assets/img/timetable/specialevents/Wellness%2520Mini%2520Series%2520(Website).png": "ecaec98ff2da1e5a2ea30f1289b6d425",
 "assets/assets/img/timetable/weekly/arttherapytile.png": "d2fee86b373a8071568b8866ae657f2e",
 "assets/assets/img/timetable/weekly/b2/In2Theatre.png": "ff34080bff0287904388c07d41cb8cca",
 "assets/assets/img/timetable/weekly/b2/Learn2Minecraft.png": "aca8e903e27402de11511c57243d055a",
@@ -159,10 +162,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "bc05f6033719045d42c1e19a012c504b
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "d99db7d3fff0db96e4766e39301ea9a6",
-"/": "d99db7d3fff0db96e4766e39301ea9a6",
+"index.html": "1669805e7e6c58c6979478e381b7d131",
+"/": "1669805e7e6c58c6979478e381b7d131",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "65d6808b7432827682ece64cef2afa93",
+"main.dart.js": "fec3c3f4cad9d9c2f329312d2c28526e",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
