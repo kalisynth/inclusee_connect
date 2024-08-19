@@ -45946,15 +45946,15 @@ n=A.aqY(new A.B3(B.bX,B.b2,B.a_,A.a([A.br(m,m,B.j,m,m,new A.cI(m,A.avV(B.l_,new 
 k.push(A.br(m,new A.q1(new A.MW(m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,"blank",m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m),!1,!1,!1,!1,n,m),B.j,m,m,m,p.a.b/8,m,m,o.a.a/8))}return k},
 amo(){var s,r=this,q=null,p=Date.now()
 A.br(q,q,B.j,q,q,q,q,q,q,q)
-switch(A.hk(new A.p(p,!1))){case 1:s=r.TE(10,!0)
+switch(A.hk(new A.p(p,!1))){case 1:s=r.TE(11,!0)
 break
-case 2:s=r.V6(10,!0)
+case 2:s=r.V6(11,!0)
 break
-case 3:s=r.Vp(10,!0)
+case 3:s=r.Vp(11,!0)
 break
-case 4:s=r.UT(10,!0)
+case 4:s=r.UT(11,!0)
 break
-case 5:s=r.St(10,!0)
+case 5:s=r.St(11,!0)
 break
 default:s=A.a([A.br(q,q,B.j,q,q,q,q,q,q,q)],t.p)}return A.axb(s,q)},
 aI(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5=this
@@ -45997,12 +45997,12 @@ d=A.a([e.a,e.d,e.x,d.x,e.e,e.w,d.w],p)
 e=$.mh()
 e=A.a([e.y,e.z,e.Q,e.fy,e.p1,$.o5().a,e.at],p)
 c=$.mh()
-c=A.a([c.b,$.o5().ay,c.CW,c.f,c.cy,c.dy],p)
+c=A.a([c.b,c.ay,c.CW,c.f,c.cy,c.dy],p)
 b=$.mh()
 a=$.o5()
-b=A.a([b.k1,b.fr,a.f,a.db,b.fx,b.cx,b.k2,b.ch],p)
+b=A.a([b.k1,b.fr,a.f,a.db,b.fx,b.cx,a.dy,b.k2,b.ch],p)
 a=$.mh()
-a=A.a([a.c,a.k3,a.go,a.r,a.k4,a.id,a.ok],p)
+a=A.a([a.c,a.k3,$.o5().Q,a.go,a.r,a.k4,a.id,a.ok],p)
 a0=$.mh()
 a1=$.o5()
 a1=A.a([a0.a,a0.d,a1.as,a0.e,a0.w,a1.at,a0.x,a1.w],p)
@@ -46048,16 +46048,16 @@ p=A.cf(n,n,15)
 A.c3()
 s=A.Yz(A.a([q,p,new A.y4(1.8*$.np).GE(a)],r),!0,o.at,!0,s)
 if(o.dy)r=o.amo()
-else{r=A.aj(o.TE(10,!1),!0,t.l7)
-B.b.N(r,o.V6(10,!1))
-B.b.N(r,o.Vp(10,!1))
-B.b.N(r,o.UT(10,!1))
-B.b.N(r,o.St(10,!1))
+else{r=A.aj(o.TE(11,!1),!0,t.l7)
+B.b.N(r,o.V6(11,!1))
+B.b.N(r,o.Vp(11,!1))
+B.b.N(r,o.UT(11,!1))
+B.b.N(r,o.St(11,!1))
 q=A.asj(r,!0,!0,!0)
 r=r.length
 p=!0
 p=p?B.kS:n
-r=new A.y6(new A.N9(10,0,0,1),q,n,B.aK,!1,n,n,p,!1,n,r,B.a6,B.jR,n,B.a_,n)}q=A.aE(a,n,m).w
+r=new A.y6(new A.N9(11,0,0,1),q,n,B.aK,!1,n,n,p,!1,n,r,B.a6,B.jR,n,B.a_,n)}q=A.aE(a,n,m).w
 return A.MC(s,r,new A.wG(A.eB(A.aa("Tap here to Join in Now \n Connect2You is open from "+o.RG+" to "+o.rx,n,n,n,A.b5(n,n,n,n,n,n,n,n,n,n,n,A.aE(a,n,m).w.a.b/15,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.dj,n),new A.ajU(o)),q.a.b/8,n),n)}}
 A.ak3.prototype={
 $0(){var s=this.a
@@ -91997,7 +91997,7 @@ a2=A.bg(A.X($.bw(),$.bv(),$.f8(),13,30,0,0),"assets/img/timetable/weekly/Learn2K
 a3=A.X($.bw(),$.bv(),$.f8(),10,0,0,0)
 a3=A.bg(A.X($.bw(),$.bv(),$.f8(),11,0,0,0),"assets/img/timetable/specialevents/Guest Speaker - Tenants QLD.png",!1,!1,"Tennant QLD",b0,a3,!1,a6,a6)
 a4=A.X($.bw(),$.bv(),$.f8(),15,0,0,0)
-a4=A.bg(A.X($.bw(),$.bv(),$.f8(),16,0,0,0),"assets/img/timetable/specialevents/NBN In2eSafety.png",!1,!1,"NBN Scams",b0,a4,!1,a6,a6)
+a4=A.bg(A.X($.bw(),$.bv(),$.f8(),16,0,0,0),"assets/img/timetable/specialevents/esafeonlineshopbank.png",!1,!1,"Safer Online shopping",b0,a4,!1,a6,a6)
 a5=A.X($.bw(),$.bv(),$.w5(),14,0,0,0)
 return new A.a2e(b6,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,A.bg(A.X($.bw(),$.bv(),$.w5(),15,0,0,0),"assets/img/timetable/specialevents/Digital Escape Room - Spy Apprentice.png",!1,!1,"Escape Room - Spy Apprentice",b0,a5,!1,a6,a6))})
 s($,"aYh","aFz",()=>A.f1("https://listen.samcloud.com/v2/114157?page=page-overview",0,null))
