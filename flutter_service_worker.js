@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "04cfd5e41df3d7851d5ce780a583aa07",
-"assets/AssetManifest.bin.json": "00c8f3a9fbbc8748b3cbdfaa72035a47",
-"assets/AssetManifest.json": "9b29b6ff65f3aa321f086500e42c59b9",
+const RESOURCES = {"assets/AssetManifest.bin": "44cf83378eff9d8ae3be6c7ebc416e21",
+"assets/AssetManifest.bin.json": "99b27c3d6926f85b4310fc0398215835",
+"assets/AssetManifest.json": "30eab5d880eb9c7a74d6a8421aa0c1e6",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -89,6 +89,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "04cfd5e41df3d7851d5ce780a583aa07
 "assets/assets/img/timetable/specialevents/vftnorway.png": "d47fa29b5b9830ba928447b3eb0ff2e5",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Bribie%2520Butterfly%2520House.png": "2ffb68bef7ef1792feb921341f8f8b39",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520Redcliffe%2520Botcanical%2520Gardens.png": "3dca4d3bbf7f985cfda6dac040766875",
+"assets/assets/img/timetable/specialevents/wellnesmibi.png": "4039cf35bed866f275f8b9149c2f2164",
 "assets/assets/img/timetable/specialevents/Wellness%2520Mini%2520Series%2520(Website).png": "ecaec98ff2da1e5a2ea30f1289b6d425",
 "assets/assets/img/timetable/weekly/arttherapytile.png": "d2fee86b373a8071568b8866ae657f2e",
 "assets/assets/img/timetable/weekly/b2/In2Theatre.png": "ff34080bff0287904388c07d41cb8cca",
@@ -166,10 +167,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "04cfd5e41df3d7851d5ce780a583aa07
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "80672541b55e7c6454b73cf3fd1a1e0a",
-"/": "80672541b55e7c6454b73cf3fd1a1e0a",
+"index.html": "14ffcf16bedf74a1a41d50e94f97cd6c",
+"/": "14ffcf16bedf74a1a41d50e94f97cd6c",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "4d8aa45918b27d7485c308b562db1eef",
+"main.dart.js": "f931be4e0d60b71f27df0b7ca13e6a90",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
