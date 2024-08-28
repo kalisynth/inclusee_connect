@@ -45836,7 +45836,7 @@ o===$&&A.b()
 q.push(r.tY(o,p,s.gqj(),s.y," "))}return q},
 V6(a,b){var s,r,q,p,o,n,m=this,l=m.p4
 l===$&&A.b()
-s=l.oZ(b,l.w.c)
+s=l.oZ(b,l.w.d)
 l=s.length
 r=m.ch
 q=r?"TODAY":"TUESDAY  "+A.kP("d").h6(A.kQ($.jm(),2))+A.XV(A.az(A.kQ($.jm(),2)))
