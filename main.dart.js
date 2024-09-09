@@ -45811,7 +45811,7 @@ r=l.p4
 r===$&&A.b()
 q=r.p_(b,r.w.a)
 if(Date.now()>s){s=l.p4
-q=s.p_(b,s.w.b)}s=q.length
+q=s.p_(b,s.w.a)}s=q.length
 r=l.ay
 p=r?"TODAY":"MONDAY  "+A.kO("d").h6(A.kP($.jm(),1))+A.XV(A.az(A.kP($.jm(),1)))
 o=l.p2
@@ -45926,7 +45926,7 @@ n=A.aqY(new A.B3(B.bX,B.b2,B.a_,A.a([A.bt(m,m,B.j,m,m,new A.cI(m,A.avV(B.l_,new 
 k.push(A.bt(m,new A.q2(new A.MW(m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,"blank",m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m),!1,!1,!1,!1,n,m),B.j,m,m,m,p.a.b/8,m,m,o.a.a/8))}return k},
 amn(){var s,r,q,p,o=this,n=null,m=Date.now()
 A.bt(n,n,B.j,n,n,n,n,n,n,n)
-switch(A.hk(new A.p(m,!1))){case 1:s=o.TE(11,!0)
+switch(A.hk(new A.p(m,!1))){case 1:s=o.TE(10,!0)
 break
 case 2:m=o.p4
 m===$&&A.b()
@@ -45939,11 +45939,11 @@ p.toString
 q.oZ(p,m,8)
 s=r
 break
-case 3:s=o.Vo(11,!0)
+case 3:s=o.Vo(10,!0)
 break
-case 4:s=o.UT(11,!0)
+case 4:s=o.UT(10,!0)
 break
-case 5:s=o.St(11,!0)
+case 5:s=o.St(10,!0)
 break
 default:s=A.a([A.bt(n,n,B.j,n,n,n,n,n,n,n)],t.p)}return A.axb(s,n)},
 aI(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7=this
@@ -45993,7 +45993,7 @@ a=$.jk()
 a=A.a([a.b,a.ay,a.CW,a.f,a.cy,a.dy],p)
 a0=$.jk()
 a1=$.mh()
-a0=A.a([a0.k1,a0.fr,a1.f,a1.dy,a0.fx,a0.cx,a1.r,a0.k2,a0.ch],p)
+a0=A.a([a0.k1,a0.fr,a1.f,a1.dy,a0.fx,a0.cx,a0.k2,a0.ch],p)
 a1=$.jk()
 a1=A.a([a1.c,a1.k3,a1.go,a1.r,a1.k4,a1.id,a1.ok],p)
 a2=$.jk()
@@ -46041,7 +46041,7 @@ p=A.cf(k,k,15)
 A.c3()
 s=A.Yz(A.a([q,p,new A.y4(1.8*$.np).GE(a)],r),!0,l.at,!0,s)
 if(l.dy)r=l.amn()
-else{q=A.aj(l.TE(11,!1),!0,t.l7)
+else{q=A.aj(l.TE(10,!1),!0,t.l7)
 p=l.p4
 p===$&&A.b()
 o=p.d
@@ -46049,16 +46049,16 @@ o===$&&A.b()
 n=p.c
 n===$&&A.b()
 m=A.a([o.oZ(n,"VCC CLOSED \n Tuesday 10th \n Staff Training ",p.gqk())],r)
-B.b.N(m,l.tm(11-m.length))
+B.b.N(m,l.tm(10-m.length))
 B.b.N(q,m)
-B.b.N(q,l.Vo(11,!1))
-B.b.N(q,l.UT(11,!1))
-B.b.N(q,l.St(11,!1))
+B.b.N(q,l.Vo(10,!1))
+B.b.N(q,l.UT(10,!1))
+B.b.N(q,l.St(10,!1))
 r=A.asj(q,!0,!0,!0)
 q=q.length
 p=!0
 p=p?B.kS:k
-q=new A.y6(new A.N9(11,0,0,1),r,k,B.aK,!1,k,k,p,!1,k,q,B.a6,B.jR,k,B.a_,k)
+q=new A.y6(new A.N9(10,0,0,1),r,k,B.aK,!1,k,k,p,!1,k,q,B.a6,B.jR,k,B.a_,k)
 r=q}q=A.aE(a,k,j).w
 return A.MC(s,r,new A.wG(A.eC(A.aa("Tap here to Join in Now \n Connect2You is open from "+l.RG+" to "+l.rx,k,k,k,A.b5(k,k,k,k,k,k,k,k,k,k,k,A.aE(a,k,j).w.a.b/15,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),B.dj,k),new A.ajU(l)),q.a.b/8,k),k)}}
 A.ak3.prototype={
