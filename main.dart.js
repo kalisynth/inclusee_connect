@@ -45887,7 +45887,7 @@ o===$&&A.b()
 q.push(r.tY(o,p,s.gqj(),s.y," "))}return q},
 V6(a,b){var s,r,q,p,o,n,m=this,l=m.p4
 l===$&&A.b()
-s=l.oZ(b,l.w.c)
+s=l.oZ(b,l.w.b)
 l=s.length
 r=m.ch
 q=r?"TODAY":"TUESDAY  "+A.kP("d").h6(A.kQ($.jl(),2))+A.XV(A.az(A.kQ($.jl(),2)))
@@ -46360,7 +46360,7 @@ s=A.aE(r,q,s).w
 return A.bt(q,A.h9(q,A.bt(q,A.hE("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a6,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aiO(this),q,q,q),B.j,q,q,q,q,q,q,q)},
 adE(){var s=null,r=this.c
 r.toString
-return A.h9(s,A.aa("VCC CLOSED TUESDAY DUE TO STAFF TRAINING",s,s,s,A.b5(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
+return A.h9(s,A.aa(" ",s,s,s,A.b5(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
 v5(){var s=0,r=A.I(t.z),q
 var $async$v5=A.J(function(a,b){if(a===1)return A.F(b,r)
 while(true)switch(s){case 0:A.bM("prefs loading")
