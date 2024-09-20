@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "e781efc77cb6da78eb58dd0537d5d2af",
-"assets/AssetManifest.bin.json": "0f51ba3449da86f0f8a474d0b91caa8e",
-"assets/AssetManifest.json": "79c2edbb8111bb10950171b29d4de17f",
+const RESOURCES = {"assets/AssetManifest.bin": "2d68d04ad65e0da71d0b8aa94a4786ae",
+"assets/AssetManifest.bin.json": "d24ee850d887d1eaadd3119941c9ddd7",
+"assets/AssetManifest.json": "98016e13da314e388b2313c7e533e051",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -36,6 +36,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "e781efc77cb6da78eb58dd0537d5d2af
 "assets/assets/img/timetable/esafety/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3.png": "4c9e98a915f7c91d78135d776fb7f189",
 "assets/assets/img/timetable/esafety/In2eSafety%2520-%2520eSafety%2520Commissioner%2520home.png": "99a915b98604361b861fb0b9bae5abc8",
 "assets/assets/img/timetable/esafety/In2eSafety%2520-%2520facebook.png": "9b6765676588a61a4bf94cd3de924958",
+"assets/assets/img/timetable/esafety/In2eSafety-email.png": "d1e8d39705305139009df15d750501d5",
 "assets/assets/img/timetable/esafety/protectpersonal.png": "6269083604b68c53cd1dc64e22c329ff",
 "assets/assets/img/timetable/guests/American%2520Politics%2520with%2520James%2520Cahill.png": "188ebca84bf466a9ab4b9830881b6272",
 "assets/assets/img/timetable/guests/Guest%2520Speaker%2520-%2520The%2520Session.png": "1b1979fac78d101111d1e70ceb3e9a5f",
@@ -114,6 +115,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "e781efc77cb6da78eb58dd0537d5d2af
 "assets/assets/img/timetable/weekly/in2story.png": "b69dc2959556d2ba656a07e474b53ee6",
 "assets/assets/img/timetable/weekly/In2Storytelling.png": "4bbc0c6ce322315ba7c82b198042a912",
 "assets/assets/img/timetable/weekly/Learn2Kahoot.png": "dae7e9ea781664ba7f7b7394778dd5a4",
+"assets/assets/img/timetable/weekly/Lunch%2520and%2520Laugh.png": "e98ec67457db99bd9678e4a70b13d0ef",
 "assets/assets/img/timetable/weekly/lunchandlearntile.png": "52892395dba8b5449eadc424f6d94518",
 "assets/assets/img/timetable/weekly/meditiation.png": "b03b9a1ca837d888603c702ae9a2e249",
 "assets/assets/img/timetable/weekly/menhour.png": "b9ace4e725f78c4bec2a40ed81c43d88",
@@ -171,10 +173,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "e781efc77cb6da78eb58dd0537d5d2af
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "7f99f8fafe25bb9b0f7ea270925d9936",
-"/": "7f99f8fafe25bb9b0f7ea270925d9936",
+"index.html": "958dbd730c59d374dce56dbfdac95a40",
+"/": "958dbd730c59d374dce56dbfdac95a40",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "d3e85da8012ac47435d4d80d60cf3084",
+"main.dart.js": "3e6500045d7383b75b8e943de8e95333",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
