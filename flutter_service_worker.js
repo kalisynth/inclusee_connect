@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "2d68d04ad65e0da71d0b8aa94a4786ae",
-"assets/AssetManifest.bin.json": "d24ee850d887d1eaadd3119941c9ddd7",
-"assets/AssetManifest.json": "98016e13da314e388b2313c7e533e051",
+const RESOURCES = {"assets/AssetManifest.bin": "23d8267c15d47b19cefdd06732c544df",
+"assets/AssetManifest.bin.json": "16e99ae1880f75bb3b7d60998ebb7511",
+"assets/AssetManifest.json": "54f1bfe6b8361bd057df03014331c731",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -32,6 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2d68d04ad65e0da71d0b8aa94a4786ae
 "assets/assets/img/timetable/esafety/esafeonlineshopbank.png": "e4f5cd35acde80ebfe838ba44c0822bf",
 "assets/assets/img/timetable/esafety/esafety-gov.png": "ef5ef6cd8a5e4491d9a88353a30027f5",
 "assets/assets/img/timetable/esafety/esafetyspotascam.png": "65e0971b325e843c5c3884b29f274684",
+"assets/assets/img/timetable/esafety/HEALTHANDTECH.png": "cab296ad49b503c2a99cb23dc7b850f8",
 "assets/assets/img/timetable/esafety/In2eSafety%2520-%2520apps.png": "4c340ee6b1b2882118b3922aca394d08",
 "assets/assets/img/timetable/esafety/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3.png": "4c9e98a915f7c91d78135d776fb7f189",
 "assets/assets/img/timetable/esafety/In2eSafety%2520-%2520eSafety%2520Commissioner%2520home.png": "99a915b98604361b861fb0b9bae5abc8",
@@ -57,7 +58,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "2d68d04ad65e0da71d0b8aa94a4786ae
 "assets/assets/img/timetable/specialevents/Guest%2520Speaker%2520-%2520Tenants%2520QLD.png": "77d90b6aac43ac7e6a4cd87fd2a7391e",
 "assets/assets/img/timetable/specialevents/Guest%2520Speaker%2520-%2520The%2520Session.png": "1b1979fac78d101111d1e70ceb3e9a5f",
 "assets/assets/img/timetable/specialevents/Guest%2520Speaker%2520Caxton%2520Legal.png": "465209ae413498419a47e7f84f4ed804",
-"assets/assets/img/timetable/specialevents/HEALTHANDTECH.png": "cab296ad49b503c2a99cb23dc7b850f8",
 "assets/assets/img/timetable/specialevents/In%2520Movies%2520Blind.png": "dd590943347b5b6f4bc3f9ece0054d25",
 "assets/assets/img/timetable/specialevents/In%2520Movies%2520VBlue%2520bird.png": "4f1e0a1b70c9f16c59f699a0a35ddb94",
 "assets/assets/img/timetable/specialevents/In2Books%2520(T.M%2520Clark).png": "23e67ab2f915aa95da68013ac8697136",
@@ -83,6 +83,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2d68d04ad65e0da71d0b8aa94a4786ae
 "assets/assets/img/timetable/specialevents/Public%2520Trustee%2520Wills.png": "784570c69b53ec7f5471e7cc729ada01",
 "assets/assets/img/timetable/specialevents/scams.png": "126e8e8f3c2ee06e820379f9b96d2816",
 "assets/assets/img/timetable/specialevents/sellingsafely.png": "5fe181a3a03872eef86a4733784c0a13",
+"assets/assets/img/timetable/specialevents/specialEventTile.png": "e53b6f5e2db147f973c9af4805ce3040",
 "assets/assets/img/timetable/specialevents/Stroke%2520Foundation%2520Guest%2520Speaker.png": "666c4dd66e9f6815a76bbe902d00fb0c",
 "assets/assets/img/timetable/specialevents/The%2520Office%2520of%2520Fair%2520Trading%2520Guest%2520Speaker%2520App%2520tile.png": "af9fd70ab91cc1f5f60771c7080d6712",
 "assets/assets/img/timetable/specialevents/vccclosed_tile.png": "b02201e31db381f93474012da1c95072",
@@ -173,10 +174,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "2d68d04ad65e0da71d0b8aa94a4786ae
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "958dbd730c59d374dce56dbfdac95a40",
-"/": "958dbd730c59d374dce56dbfdac95a40",
+"index.html": "9d34971a82fc42bd117c6a31d5776b7f",
+"/": "9d34971a82fc42bd117c6a31d5776b7f",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "3e6500045d7383b75b8e943de8e95333",
+"main.dart.js": "13169148111915db5f99c81e2ad29c36",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
