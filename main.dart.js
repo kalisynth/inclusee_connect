@@ -47039,7 +47039,7 @@ k===$&&A.b()
 i=o.c
 i===$&&A.b()
 j.push(k.aj8(i,l,o.gB_(),o.z," "))
-return A.MP(s,q,new A.wU(A.dZ(A.dc(A.a([A.ca(A.axf(A.an(j,!0,t.l7),5),200,600),A.cv(A.a([A.a6("Morning Meditation 9AM",g,g,g,g,g,g),A.a6("Coffee Club 930AM",g,g,g,g,g,g),A.a6("Happy Hour 4PM",g,g,g,g,g,g),A.a6("Connect2You open from "+h.RG,g,g,g,g,g,g)],r),B.p,B.B,B.q,B.D),A.a6("Tap here to Join in Now",g,g,g,A.aT(g,g,g,g,g,g,g,g,g,g,g,A.aG(a,g,f).w.a.b/15,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.dl,g)],r),B.p,B.B,B.q),new A.akf(h)),p.a.b/8,g),g)}}
+return A.MP(s,q,new A.wU(A.dZ(A.dc(A.a([A.ca(A.axf(A.an(j,!0,t.l7),5),200,600),A.cv(A.a([A.a6("Morning Meditation 9AM",g,g,g,g,g,g),A.a6("Coffee Club 930AM",g,g,g,g,g,g),A.a6("Happy Hour 4PM",g,g,g,g,g,g),A.a6("Connect2You open from "+h.RG,g,g,g,g,g,g)],r),B.p,B.B,B.q,B.D),A.a6("Tap here to Join in",g,g,g,A.aT(g,g,g,g,g,g,g,g,g,g,g,A.aG(a,g,f).w.a.b/15,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.dl,g)],r),B.p,B.B,B.q),new A.akf(h)),p.a.b/8,g),g)}}
 A.akp.prototype={
 $0(){var s=this.a
 s.a5(new A.ako(s))},
