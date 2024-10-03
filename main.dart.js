@@ -10208,7 +10208,7 @@ _.fr=!0
 _.go=_.fy=!1
 _.p4=_.p2=_.p1=$
 _.R8=i
-_.rx=_.RG=" "
+_.RG=" "
 _.x1=j
 _.x2=!0
 _.y2=$
@@ -46399,7 +46399,7 @@ p=r.e.B(0,q)
 o=r.f.B(0,q)
 s=n.aw
 n.RG=s.fH(p)
-n.rx=s.fH(o)}},
+s.fH(o)}},
 Vz(){this.a5(new A.akB(this))},
 VF(a,b){var s,r,q,p,o,n=this,m=n.p4
 m===$&&A.b()
@@ -47024,7 +47024,7 @@ o=h.p2
 o===$&&A.b()
 l=h.c
 l.toString
-B.b.ih(j,0,o.lG(l,"DAILY",8))
+B.b.ih(j,0,o.lG(l,"DAILY \n",8))
 o=h.p4
 l=o.y
 k=l.e
@@ -47039,7 +47039,7 @@ k===$&&A.b()
 i=o.c
 i===$&&A.b()
 j.push(k.aj8(i,l,o.gB_(),o.z," "))
-return A.MP(s,q,new A.wU(A.dZ(A.dc(A.a([A.ca(A.axf(A.an(j,!0,t.l7),5),200,600),A.cv(A.a([A.a6("Morning Meditation 9AM",g,g,g,g,g,g),A.a6("Coffee Club 930AM",g,g,g,g,g,g),A.a6("Happy Hour 4PM",g,g,g,g,g,g),A.a6("Connect2You open from "+h.RG,g,g,g,g,g,g)],r),B.p,B.B,B.q,B.D),A.a6("Tap here to Join in Now \n Connect2You is open from "+h.RG+" to "+h.rx,g,g,g,A.aT(g,g,g,g,g,g,g,g,g,g,g,A.aG(a,g,f).w.a.b/15,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.dl,g)],r),B.p,B.B,B.q),new A.akf(h)),p.a.b/8,g),g)}}
+return A.MP(s,q,new A.wU(A.dZ(A.dc(A.a([A.ca(A.axf(A.an(j,!0,t.l7),5),200,600),A.cv(A.a([A.a6("Morning Meditation 9AM",g,g,g,g,g,g),A.a6("Coffee Club 930AM",g,g,g,g,g,g),A.a6("Happy Hour 4PM",g,g,g,g,g,g),A.a6("Connect2You open from "+h.RG,g,g,g,g,g,g)],r),B.p,B.B,B.q,B.D),A.a6("Tap here to Join in Now",g,g,g,A.aT(g,g,g,g,g,g,g,g,g,g,g,A.aG(a,g,f).w.a.b/15,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.dl,g)],r),B.p,B.B,B.q),new A.akf(h)),p.a.b/8,g),g)}}
 A.akp.prototype={
 $0(){var s=this.a
 s.a5(new A.ako(s))},
