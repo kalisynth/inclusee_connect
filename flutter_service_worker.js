@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7e0ff2d16ce8a1563e1f5b93a12e1482",
-"assets/AssetManifest.bin.json": "eba3e88c152215c8778097edafa31993",
-"assets/AssetManifest.json": "f1fb2912176bf26925f20002f8416f2e",
+const RESOURCES = {"assets/AssetManifest.bin": "ce3bf1563f18ad7f3b1a7657c5a32983",
+"assets/AssetManifest.bin.json": "dfbed513c4898c93184ec10ad01f6b19",
+"assets/AssetManifest.json": "a327688958e13b503012af285e7dc3c5",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -72,6 +72,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e0ff2d16ce8a1563e1f5b93a12e1482
 "assets/assets/img/timetable/specialevents/In%2520Movies%2520VBlue%2520bird.png": "4f1e0a1b70c9f16c59f699a0a35ddb94",
 "assets/assets/img/timetable/specialevents/In2Books%2520(T.M%2520Clark).png": "23e67ab2f915aa95da68013ac8697136",
 "assets/assets/img/timetable/specialevents/In2Gardening%2520(Nurso).png": "e9d263746675ee75563937e5af381c97",
+"assets/assets/img/timetable/specialevents/In2Me.png": "a6defe555599840e2f3def07fa43a04c",
 "assets/assets/img/timetable/specialevents/In2Movies%2520(A%2520Late%2520Quartet).png": "c15564ed461d9d7191ab8f06d709ddfe",
 "assets/assets/img/timetable/specialevents/In2Movies%2520(Loves%2520Kitchen).png": "79979d5b7a0cadcd884b695c6ac3a874",
 "assets/assets/img/timetable/specialevents/In2Movies%2520-%2520The%2520Blue%2520Bird.png": "594af235c55d726f3b90447cf5c7beb6",
@@ -130,6 +131,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e0ff2d16ce8a1563e1f5b93a12e1482
 "assets/assets/img/timetable/weekly/In2Gardening.png": "947d6e241e9957442b79781f7dfed289",
 "assets/assets/img/timetable/weekly/In2Genealogy.png": "91b7af084dc80cae0a49c5d179885687",
 "assets/assets/img/timetable/weekly/In2Generations.png": "16e44c345d28ec9a7ba95d8c0472469a",
+"assets/assets/img/timetable/weekly/In2Paint.png": "92c0e2d0ff67337a2ed65b2d6b61d08c",
 "assets/assets/img/timetable/weekly/in2painttile.png": "8a42b71f79e9d681c0ba2ba3a30d6169",
 "assets/assets/img/timetable/weekly/In2Politics%2520U.S.%2520Election%2520Watch.png": "2395cc8bb68ff4238c9ad49bc7ecc120",
 "assets/assets/img/timetable/weekly/In2Recipes%2520app%2520tile.png": "bcef8dda25cc8e3656de7e7e7dc89b4d",
@@ -137,6 +139,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e0ff2d16ce8a1563e1f5b93a12e1482
 "assets/assets/img/timetable/weekly/In2Stories%2520app%2520tile.png": "18bbcd53f9d69595c7a7dc37a8ca7183",
 "assets/assets/img/timetable/weekly/in2story.png": "b69dc2959556d2ba656a07e474b53ee6",
 "assets/assets/img/timetable/weekly/In2Storytelling.png": "4bbc0c6ce322315ba7c82b198042a912",
+"assets/assets/img/timetable/weekly/In2Theatre%2520(1).png": "ff34080bff0287904388c07d41cb8cca",
 "assets/assets/img/timetable/weekly/In2Travel.png": "450c11a890ba31815b1d3eda173280b5",
 "assets/assets/img/timetable/weekly/In2Trivia.png": "ec2baa325f9a25c2d56a27b75dbf27e9",
 "assets/assets/img/timetable/weekly/In2Wellness.png": "35bdda855ff85878aacf06b63e783493",
@@ -205,10 +208,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e0ff2d16ce8a1563e1f5b93a12e1482
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "610bbb67981407dafd2c66d1d7cceeda",
-"/": "610bbb67981407dafd2c66d1d7cceeda",
+"index.html": "e6b943fa9eec994fb454fe4d3de0c066",
+"/": "e6b943fa9eec994fb454fe4d3de0c066",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "b2d1d2bd192775a2d90e6ff00bdb0b0b",
+"main.dart.js": "bf87e478e6254a175d9a60d5bff68f17",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
