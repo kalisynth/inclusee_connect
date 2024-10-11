@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b7b29f1adb829156d5c03358847bb1b9",
-"assets/AssetManifest.bin.json": "a4e8326f4abbd0135a69f0c9ffc3a42c",
-"assets/AssetManifest.json": "6fdec211565465c27d2071b02d54aa50",
+const RESOURCES = {"assets/AssetManifest.bin": "9a9fee0cbe59e793b975faef03ccee5f",
+"assets/AssetManifest.bin.json": "1435ab13442031797b13f126801215b7",
+"assets/AssetManifest.json": "155a265b25962e8e664de1c4828d74d5",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -80,6 +80,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b7b29f1adb829156d5c03358847bb1b9
 "assets/assets/img/timetable/specialevents/In2Movies%2520-%2520Three%2520Chords%2520and%2520the%2520Truth.png": "ad1f2d5c167dd7850164312d60f0f008",
 "assets/assets/img/timetable/specialevents/In2Movies%252090sclub.png": "48c5e3b7dd44999fee24156cce1f3fda",
 "assets/assets/img/timetable/specialevents/in2movies%2520last%2520daughter.png": "d543c172458df0d227bce33b40c1c7c8",
+"assets/assets/img/timetable/specialevents/In2Travel%2520Coromandel%2520NZ.png": "d563666264ea3b71b1d5f6410ead5a2d",
 "assets/assets/img/timetable/specialevents/In2Travel_%2520Samoa.png": "67e77fc7b5f8d13b9cdf60d2a187e80a",
 "assets/assets/img/timetable/specialevents/In2Trivia%2520(Mardi%2520Gras).png": "fd962fa7dc77ec85d18de727238296d4",
 "assets/assets/img/timetable/specialevents/In2Trivia%2520-%2520Drag%2520Trivia.png": "ce283b2bdde4902cad6b1e20d3bb5dd9",
@@ -209,10 +210,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "b7b29f1adb829156d5c03358847bb1b9
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "78c2064ca7981863dbfbd5974bf7f096",
-"/": "78c2064ca7981863dbfbd5974bf7f096",
+"index.html": "8708f235452afb24664799931076803d",
+"/": "8708f235452afb24664799931076803d",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "61cb580366174b5b5e6117a4ad05d37c",
+"main.dart.js": "77135402f889a431590fa7e5fac2244a",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
