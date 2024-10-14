@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "9a9fee0cbe59e793b975faef03ccee5f",
-"assets/AssetManifest.bin.json": "1435ab13442031797b13f126801215b7",
-"assets/AssetManifest.json": "155a265b25962e8e664de1c4828d74d5",
+const RESOURCES = {"assets/AssetManifest.bin": "c3ba93b4c24955c271170b2acd0c0921",
+"assets/AssetManifest.bin.json": "f2381afc655d99b6ff1e7c09bf25a54f",
+"assets/AssetManifest.json": "8acbd4c5e954d859dbdf8eca423b1db7",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -51,6 +51,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9a9fee0cbe59e793b975faef03ccee5f
 "assets/assets/img/timetable/guests/In2Books%2520with%2520Jo%2520Skinner.png": "ec163d2915715ed366323e4748422cb7",
 "assets/assets/img/timetable/guests/in2booksJA.png": "f0546455f74d76e3c43cc9f9dfdf6cc1",
 "assets/assets/img/timetable/guests/Mindful%2520Psychology%2520Guest%2520Speaker.png": "102dfd78d15ffd2f344d0580a4e3c9cc",
+"assets/assets/img/timetable/guests/Nutrition%2520Australia%2520txt.png": "27685a32d82acbd60262f8d1320eade4",
 "assets/assets/img/timetable/guests/Nutrition%2520Australia.png": "3d5d9cd2b466eaa88f6a9f06311b352c",
 "assets/assets/img/timetable/guests/OSM%2520Physio%2520with%2520Emily%2520Moore.png": "6bd6654c194280feb3a8611f508cc33d",
 "assets/assets/img/timetable/guests/Poetry%2520workshop%2520with%2520Tess%2520Rowley.png": "bb2a8a7137de5ffc66cad2aab5995d78",
@@ -210,10 +211,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "9a9fee0cbe59e793b975faef03ccee5f
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "8708f235452afb24664799931076803d",
-"/": "8708f235452afb24664799931076803d",
+"index.html": "ae90b7dace442a430016cdfa32f072b5",
+"/": "ae90b7dace442a430016cdfa32f072b5",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "77135402f889a431590fa7e5fac2244a",
+"main.dart.js": "e8412874097d48b7a1cdf1d3cbf13c97",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
