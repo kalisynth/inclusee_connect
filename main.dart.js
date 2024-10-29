@@ -9107,10 +9107,12 @@ b3=A.a([b3,b4,b5,b6,b7,b8,b9,c0.zn($.aV()===4?A.C(new A.f(Date.now(),!1)):A.C(A.
 b4=$.ix()
 $.aZ()
 $.b_()
-b4=A.a([b4.IS("Mindful Psychology",u.W,$.aV()===4?A.C(new A.f(Date.now(),!1)):A.C(A.aW($.aP(),4)),11,0),$.ix().p1],d0)
-b5=$.aZ()
+b4=b4.IS("Mindful Psychology",u.W,$.aV()===4?A.C(new A.f(Date.now(),!1)):A.C(A.aW($.aP(),4)),11,0)
+b5=$.ix()
+b5=A.a([b4,b5.a,b5.p1],d0)
+b4=$.aZ()
 $.b_()
-b5=A.a([b5.yN($.aV()===5?A.C(new A.f(Date.now(),!1)):A.C(A.aW($.aP(),5)),10,0,11,0),$.aZ().TY(),$.aZ().Tl(),$.ix().w,$.aZ().Kd(),$.aZ().QW(),$.aZ().Te()],d0)
+b4=A.a([b4.yN($.aV()===5?A.C(new A.f(Date.now(),!1)):A.C(A.aW($.aP(),5)),10,0,11,0),$.aZ().TY(),$.aZ().Tl(),$.ix().w,$.aZ().Kd(),$.aZ().QW(),$.aZ().Te()],d0)
 b6=$.aZ().VV()
 b7=$.aZ().Tk()
 b8=$.aZ().zE()
@@ -9164,7 +9166,7 @@ c0=$.aZ()
 $.b_()
 d0=A.a([c0.yN($.aV()===5?A.C(new A.f(Date.now(),!1)):A.C(A.aW($.aP(),5)),10,0,11,0),$.aZ().TY(),$.aZ().Tl(),$.ix().w,$.aZ().Kd(),$.aZ().QW(),$.aZ().Te()],d0)
 c0=$.aE1()
-c0=new A.a4V(new A.Zt(c9,s,r,q,p,o),new A.a9i(n,m,l,k,j),new A.Zr(h,i,g,f,e,d,c,b,a,a0,a1,a2,a3,a5,a6,a4,a7),new A.Zs(a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,d0),c0.a,0,c0.b,0,c0.c,0,c0.d,0,c0.e,0)
+c0=new A.a4V(new A.Zt(c9,s,r,q,p,o),new A.a9i(n,m,l,k,j),new A.Zr(h,i,g,f,e,d,c,b,a,a0,a1,a2,a3,a5,a6,a4,a7),new A.Zs(a8,a9,b0,b1,b2,b3,b5,b4,b6,b7,b8,b9,d0),c0.a,0,c0.b,0,c0.c,0,c0.d,0,c0.e,0)
 c0.a=d1
 c0.c=d2
 c0.b=d3
@@ -47397,7 +47399,7 @@ A.aja.prototype={
 $0(){this.a.on("https://inclusee.org.au/")},
 $S:0}
 A.aj9.prototype={
-$0(){return this.a.on("https://inclusee.org.au/events-list/")},
+$0(){return this.a.on("https://inclusee.org.au/")},
 $S:0}
 A.yh.prototype={
 GL(a){var s,r,q,p=null
