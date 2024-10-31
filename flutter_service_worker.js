@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0cdab12934dd99fb5bbf9ba568d5803e",
-"assets/AssetManifest.bin.json": "e170d00b0828b27a0a43c037d393a7fd",
-"assets/AssetManifest.json": "31703b2c4669b22b0681b123d84b8621",
+const RESOURCES = {"assets/AssetManifest.bin": "0555f40a35d9d0f549040ed26a75d0a1",
+"assets/AssetManifest.bin.json": "1530f22bf94d35b9687a703a2c0f18c7",
+"assets/AssetManifest.json": "50523e16f4497c178da17c2576141a36",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -57,6 +57,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0cdab12934dd99fb5bbf9ba568d5803e
 "assets/assets/img/timetable/guests/Poetry%2520workshop%2520with%2520Tess%2520Rowley.png": "bb2a8a7137de5ffc66cad2aab5995d78",
 "assets/assets/img/timetable/inclusee_tile.png": "a058fd363ec12814e2269442a4f2f5e8",
 "assets/assets/img/timetable/inclusee_tile_white.png": "3897ebd804b69b5a40c43c7757f70e24",
+"assets/assets/img/timetable/movies/In2Movies%2520-%25205%2520Weddings.png": "d99331cc867e2e83250793d7d548d021",
 "assets/assets/img/timetable/movies/In2Movies%2520-%2520A%2520Chance%2520in%2520the%2520world.png": "5b6276096c4710b54180f70e732e8437",
 "assets/assets/img/timetable/movies/In2Movies%2520-%2520Prayers%2520for%2520Bobby.png": "59f65925ac82f552024b38a3f3c4558a",
 "assets/assets/img/timetable/movies/In2Movies%2520-%2520Rich%2520and%2520Strange%2520(PG).png": "3c56a8b62fb225dafa20b302995ce0fe",
@@ -215,10 +216,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "0cdab12934dd99fb5bbf9ba568d5803e
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "453a2088e58f228da64b552bb7dec0e6",
-"/": "453a2088e58f228da64b552bb7dec0e6",
+"index.html": "e65cab97ac997d3d06d8f5f5435fc380",
+"/": "e65cab97ac997d3d06d8f5f5435fc380",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "7ae5cbd4ede098eb0dc505571e3121a9",
+"main.dart.js": "a991b609ec1bafb9b24f923c5fefa386",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
