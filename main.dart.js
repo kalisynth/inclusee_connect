@@ -47991,7 +47991,7 @@ r=this.c
 r.toString
 s=A.az(r,q,s).w
 return A.bc(q,A.fS(q,A.bc(q,A.fr("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a0,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.ajQ(this),q,q,q),B.j,q,q,q,q,q,q,q)},
-aeS(){var s=null,r="Please tap on newsletter button above to read the latest September Edition",q=this.c
+aeS(){var s=null,r="VCC, Connect2You and in2Wellness will be closed Thursday 10:30 to 12PM due to staff training",q=this.c
 q.toString
 return A.fS(s,A.bR(s,s,A.a2(r,s,s,s,A.aP(s,s,B.h,s,s,s,s,s,s,s,s,A.az(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.a0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ajP(this),s,s,s)},
 vi(){var s=0,r=A.M(t.z),q
