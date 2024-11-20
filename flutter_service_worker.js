@@ -178,7 +178,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6c8518a6d6c990d9def1f50410ba53f9
 "assets/assets/img/timetable/weekly/wellnesstxt.png": "f9d53d194daa6eb3d0ec145bcbe8a7c7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "ab295326299defdd958949d7e941dfce",
-"assets/NOTICES": "a942760c6e779b325b50298a982ab0c6",
+"assets/NOTICES": "30402bad8bc5ac5dd20653d7d98515f5",
 "assets/packages/awesome_notifications/test/assets/images/test_image.png": "c27a71ab4008c83eba9b554775aa12ca",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
@@ -218,10 +218,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "6c8518a6d6c990d9def1f50410ba53f9
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "a31a1a861bfda5fa8077d3c45509ecf1",
-"/": "a31a1a861bfda5fa8077d3c45509ecf1",
+"index.html": "0ee14ff80842c5e4fb5cdd49ff47d481",
+"/": "0ee14ff80842c5e4fb5cdd49ff47d481",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "5b8c464bb412ecf9a85369952301957e",
+"main.dart.js": "5053a293980863fcf7034b3a1cd29921",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
