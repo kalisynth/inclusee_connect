@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7a6ff8bfa50f36478204f7aae87b5fcf",
-"assets/AssetManifest.bin.json": "31d5c39ac201df8f3f3aa14e7bf7c68d",
-"assets/AssetManifest.json": "59518f52f76b6e0fec80e17c9e74aa72",
+const RESOURCES = {"assets/AssetManifest.bin": "6565ed983fa477c2f0c77ebeca03c9f6",
+"assets/AssetManifest.bin.json": "5aa25be3a1545fe135a800b7484bf4cd",
+"assets/AssetManifest.json": "0af31ad23ad6f19a6abae8d06ae478c4",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -141,6 +141,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7a6ff8bfa50f36478204f7aae87b5fcf
 "assets/assets/img/timetable/weekly/In2Gardening.png": "947d6e241e9957442b79781f7dfed289",
 "assets/assets/img/timetable/weekly/In2Genealogy.png": "91b7af084dc80cae0a49c5d179885687",
 "assets/assets/img/timetable/weekly/In2Generations.png": "16e44c345d28ec9a7ba95d8c0472469a",
+"assets/assets/img/timetable/weekly/In2Music.png": "6c9ae66dd78b64023a54c1c705e3f2c6",
 "assets/assets/img/timetable/weekly/In2Paint.png": "92c0e2d0ff67337a2ed65b2d6b61d08c",
 "assets/assets/img/timetable/weekly/in2painttile.png": "8a42b71f79e9d681c0ba2ba3a30d6169",
 "assets/assets/img/timetable/weekly/In2Politics%2520U.S.%2520Election%2520Watch.png": "2395cc8bb68ff4238c9ad49bc7ecc120",
@@ -178,7 +179,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7a6ff8bfa50f36478204f7aae87b5fcf
 "assets/assets/img/timetable/weekly/Virtual%2520Field%2520Trip%2520-%2520App%2520Tile.png": "92ad4bbb21f464b4369092b459cb66bc",
 "assets/assets/img/timetable/weekly/wellnesstxt.png": "f9d53d194daa6eb3d0ec145bcbe8a7c7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "ab295326299defdd958949d7e941dfce",
+"assets/fonts/MaterialIcons-Regular.otf": "c0c19b038f6c6fa5504973eaba107f5f",
 "assets/NOTICES": "30402bad8bc5ac5dd20653d7d98515f5",
 "assets/packages/awesome_notifications/test/assets/images/test_image.png": "c27a71ab4008c83eba9b554775aa12ca",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
@@ -219,10 +220,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "7a6ff8bfa50f36478204f7aae87b5fcf
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "8d2e4ea473bfc5ad04a4e3d5673d040d",
-"/": "8d2e4ea473bfc5ad04a4e3d5673d040d",
+"index.html": "526af1e8e671d572bd09693328904731",
+"/": "526af1e8e671d572bd09693328904731",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "648553c632e695685e830676b09a0cfa",
+"main.dart.js": "f36caa028baeb3d74a55346731301d42",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
