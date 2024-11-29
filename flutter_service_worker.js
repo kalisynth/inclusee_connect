@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "6565ed983fa477c2f0c77ebeca03c9f6",
-"assets/AssetManifest.bin.json": "5aa25be3a1545fe135a800b7484bf4cd",
-"assets/AssetManifest.json": "0af31ad23ad6f19a6abae8d06ae478c4",
+const RESOURCES = {"assets/AssetManifest.bin": "34fe81ab4b382ccf75deaa71cbe3ea89",
+"assets/AssetManifest.bin.json": "b72c7c5f51b58f7ca151632172bfef1c",
+"assets/AssetManifest.json": "45b55ecce3f94dcff409f303e2d632b2",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -40,6 +40,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6565ed983fa477c2f0c77ebeca03c9f6
 "assets/assets/img/timetable/esafety/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3.png": "4c9e98a915f7c91d78135d776fb7f189",
 "assets/assets/img/timetable/esafety/In2eSafety%2520-%2520eSafety%2520Commissioner%2520home.png": "99a915b98604361b861fb0b9bae5abc8",
 "assets/assets/img/timetable/esafety/In2eSafety%2520-%2520facebook.png": "9b6765676588a61a4bf94cd3de924958",
+"assets/assets/img/timetable/esafety/In2eSafety-connect.png": "e9aaea050e65d4c2afb247961c4edc37",
 "assets/assets/img/timetable/esafety/In2eSafety-email.png": "d1e8d39705305139009df15d750501d5",
 "assets/assets/img/timetable/esafety/protectpersonal.png": "6269083604b68c53cd1dc64e22c329ff",
 "assets/assets/img/timetable/guests/American%2520Politics%2520with%2520James%2520Cahill.png": "188ebca84bf466a9ab4b9830881b6272",
@@ -108,6 +109,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6565ed983fa477c2f0c77ebeca03c9f6
 "assets/assets/img/timetable/specialevents/The%2520Office%2520of%2520Fair%2520Trading%2520Guest%2520Speaker%2520App%2520tile.png": "af9fd70ab91cc1f5f60771c7080d6712",
 "assets/assets/img/timetable/specialevents/vccclosed_tile.png": "b02201e31db381f93474012da1c95072",
 "assets/assets/img/timetable/specialevents/vccclosed_tile2.png": "addc3ea45e808fb0bb6b4ee0a0acb1dd",
+"assets/assets/img/timetable/specialevents/vccclosed_tile3.png": "833cdbae45c6630373874d882fcb5a9d",
 "assets/assets/img/timetable/specialevents/vft%2520angkor.png": "2904fb2f72f8480e3eab01ff41737c37",
 "assets/assets/img/timetable/specialevents/VFT%2520Caves%2520and%2520Caverns.png": "01b86315ea97d2db018546c610144361",
 "assets/assets/img/timetable/specialevents/vft%2520wonders.png": "03a61aa18aa01633e5ac43211cc56d24",
@@ -220,10 +222,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "6565ed983fa477c2f0c77ebeca03c9f6
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "526af1e8e671d572bd09693328904731",
-"/": "526af1e8e671d572bd09693328904731",
+"index.html": "166f1168b4640d52a2ade477cbc5102a",
+"/": "166f1168b4640d52a2ade477cbc5102a",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "f36caa028baeb3d74a55346731301d42",
+"main.dart.js": "78ac978df9cd4b72f1ccb7b22653200b",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
