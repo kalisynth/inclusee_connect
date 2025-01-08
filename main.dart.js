@@ -48100,9 +48100,9 @@ r=this.c
 r.toString
 s=A.ax(r,q,s).w
 return A.b7(q,A.fS(q,A.b7(q,A.f1("assets/img/logos/logo_sml.png",q,q,q),B.e,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a0,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.ajQ(this),q,q,q),B.e,q,q,q,q,q,q,q)},
-aeN(){var s=null,r="Reduced Timetable as we are getting ready for the new year",q=this.c
-q.toString
-return A.fS(s,A.bR(s,s,A.a1(r,s,s,s,A.aI(s,s,B.h,s,s,s,s,s,s,s,s,A.ax(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.a0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ajP(this),s,s,s)},
+aeN(){var s=null,r=this.c
+r.toString
+return A.fS(s,A.bR(s,s,A.a1("",s,s,s,A.aI(s,s,B.h,s,s,s,s,s,s,s,s,A.ax(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),!1,s,s,!1,s,s,s,s,"",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.a0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ajP(this),s,s,s)},
 vq(){var s=0,r=A.M(t.z),q
 var $async$vq=A.N(function(a,b){if(a===1)return A.J(b,r)
 while(true)switch(s){case 0:A.bE("prefs loading")
