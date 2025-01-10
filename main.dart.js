@@ -48146,7 +48146,7 @@ s=A.ax(s,k,h).w.a.b/12
 i=A.bR(k,k,k,!1,k,k,!1,k,k,k,k,"This Row Contains Newsletter, Information",k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k)
 p=l.c
 p.toString
-p=A.aD3(p,6,"assets/img/icons/app_icons/news_icon.png",A.fb("https://www.canva.com/design/DAGWbrScFTc/mFQgEvgWEUxnOVEDldzuew/view?utlId=ha00588ee00",0,k),"Newsletter")
+p=A.aD3(p,6,"assets/img/icons/app_icons/new news_icon.png",A.fb("https://www.canva.com/design/DAGWbrScFTc/mFQgEvgWEUxnOVEDldzuew/view?utlId=ha00588ee00",0,k),"Newsletter")
 o=l.c
 o.toString
 o=A.cf(A.a([i,p,A.auX(o,6,"assets/img/icons/app_icons/info_icon.png","/supportScreen","Information")],q),B.m,B.ck,B.n)
