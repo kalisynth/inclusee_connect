@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "061dad8d74d283196f86be7ddeeb1419",
-"assets/AssetManifest.bin.json": "2ef97bcbbe7015f135be9fcb38bd99f4",
-"assets/AssetManifest.json": "0fc9aa2a6b911f9ff889454dcddcebff",
+const RESOURCES = {"assets/AssetManifest.bin": "ae92adfe4ca15b412b6cd1a2c72339ef",
+"assets/AssetManifest.bin.json": "2bbffa6bae9548e0815ddee4b958d699",
+"assets/AssetManifest.json": "b82af7251c0a3f879bc0eb73e3f716c3",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
@@ -41,6 +41,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "061dad8d74d283196f86be7ddeeb1419
 "assets/assets/img/timetable/b2/Discovery%2520Hub.jpg": "e3addc6ce64352abd40a04fa5b56601f",
 "assets/assets/img/timetable/b2/Drawing%2520Club.png": "53e42dbe0277354469a5f846aebb5d20",
 "assets/assets/img/timetable/b2/event/Aged%2520Care%2520Information%2520Series.png": "067302e51267a8c5ba15c55ba02c1b3c",
+"assets/assets/img/timetable/b2/event/Art%2520Week%2520Finale%2520Paint%2520&%2520Sip.png": "9ef69d4868dd12b771f7ea13891e6ecf",
+"assets/assets/img/timetable/b2/event/Art%2520Week%2520Finale.png": "476401d3388b857276157ed0cd13b9db",
 "assets/assets/img/timetable/b2/event/Art%2520Week_%2520Virtual%2520Art%2520Gallery%2520Tour.png": "739b70445ed561fc3310abaf64f3500b",
 "assets/assets/img/timetable/b2/event/Be%2520Happier%2520at%2520any%2520Age%2520Bob%2520Pfifferling%2520.png": "c1a26a831d97bb9a652e6d9c97665db2",
 "assets/assets/img/timetable/b2/event/Book%2520Club%2520with%2520Author%2520Jo%2520Skinner.png": "bbabeb856e465522ebeb1c4499522539",
@@ -51,6 +53,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "061dad8d74d283196f86be7ddeeb1419
 "assets/assets/img/timetable/b2/event/In2Movies%2520-%2520The%2520Quietman%2520(PG).png": "89bcd615c7e20ef90e6c95c151a0d04c",
 "assets/assets/img/timetable/b2/event/Interior%2520Decorating%2520Mini%2520Series.png": "1e5b29012deceda97da6be0c9893bf25",
 "assets/assets/img/timetable/b2/event/Mens%2520Health%2520Week.png": "4e3ec8991d929ae76a354f4953065931",
+"assets/assets/img/timetable/b2/event/Paint%2520&%2520Sip.png": "9d37321447fe7caaf5a78245b19a4663",
 "assets/assets/img/timetable/b2/event/Special%2520Event%2520Musical%2520Bingo.png": "3243866c7d3bb962e0da7077f4ec5099",
 "assets/assets/img/timetable/b2/event/The%2520Art%2520of%2520Pickling%2520&%2520Fermenting_%2520Bev%2520Dobson.png": "0e694889bd99449e8c0e37dca2fef882",
 "assets/assets/img/timetable/b2/event/Virtual%2520Garden%2520Tour%2520Ranger%2520Stacey.png": "ce27a64ab17f28082f94deaf774d4558",
@@ -287,10 +290,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "061dad8d74d283196f86be7ddeeb1419
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "d12b667421725dddc21ce5563a6d8f2c",
-"/": "d12b667421725dddc21ce5563a6d8f2c",
+"index.html": "c11664192cc58dd8df0bd1cb0ca471ba",
+"/": "c11664192cc58dd8df0bd1cb0ca471ba",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "8cc4b05688d69a5ac4c3b181714e595d",
+"main.dart.js": "dbdf404d44457b8c714c50956d6cdcb8",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
