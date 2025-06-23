@@ -48614,7 +48614,7 @@ s=A.aTu(s,6,"assets/img/icons/app_icons/c2y_icon.png",$.aI_().l(0),"Join in Now"
 r=l.c
 r.toString
 q=t.p
-r=A.c_(A.a([i,h,s,A.aw5(r,6,"assets/img/icons/app_icons/i2e_icon.png","/interestsScreen","Timetable")],q),B.m,B.d8,B.n)
+r=A.c_(A.a([i,h,s,A.aw5(r,6,"assets/img/icons/app_icons/i2e_icon.png","/timetableScreen","Timetable")],q),B.m,B.d8,B.n)
 s=l.c
 s.toString
 h=t.w
