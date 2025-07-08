@@ -48575,9 +48575,9 @@ r=this.c
 r.toString
 s=A.at(r,q,s).w
 return A.bb(q,A.eX(q,A.bb(q,A.h0("assets/img/logos/logo_sml.png",q,q,q),B.e,q,q,q,s.a.b/7,q,q,p.a.b/7),B.X,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.akC(this),q,q,q,q,q,q),B.e,q,q,q,q,q,q,q)},
-agm(){var s=null,r=this.c
-r.toString
-return A.eX(s,A.c0(s,s,A.Z(" ",s,s,s,A.ao(s,s,B.h,s,s,s,s,s,s,s,s,A.at(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),!1,s,s,!1,s,s,s,s," ",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akB(this),s,s,s,s,s,s)},
+agm(){var s=null,r=" Join us for NAIDOC week",q=this.c
+q.toString
+return A.eX(s,A.c0(s,s,A.Z(r,s,s,s,A.ao(s,s,B.h,s,s,s,s,s,s,s,s,A.at(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akB(this),s,s,s,s,s,s)},
 vJ(){var s=0,r=A.L(t.z),q
 var $async$vJ=A.M(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:A.bV("prefs loading")
