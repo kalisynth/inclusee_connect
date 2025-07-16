@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c6b456ead5d22de19e2a002754c35db5",
-"assets/AssetManifest.bin.json": "c9b9a3f355786534248464574ded55c2",
-"assets/AssetManifest.json": "61d11c430455c14c0edaecb431ce864f",
+const RESOURCES = {"assets/AssetManifest.bin": "23242590f472a337ee7a29a428254e06",
+"assets/AssetManifest.bin.json": "4547bb4c903a3ecd29e173cc2df2c069",
+"assets/AssetManifest.json": "e6a11a51430773c11bacfd779972ee44",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
+"assets/assets/config/vcc_program_table.json": "426dab18817a81962a0b11f8e5df21b5",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
 "assets/assets/img/defaults/default_avatar_meet.png": "bf8fdae57c026b35f5494989eef39eb2",
@@ -297,10 +298,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "c6b456ead5d22de19e2a002754c35db5
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "ac05d2a8b8beca50d9067e308fc08028",
-"/": "ac05d2a8b8beca50d9067e308fc08028",
+"index.html": "fb2d08dcf9a777a67f949b7559a0e379",
+"/": "fb2d08dcf9a777a67f949b7559a0e379",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "b365299666fe41e7ee8665ecba50e434",
+"main.dart.js": "ae8f2ce58b6364bae2eb10897b0c6324",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
