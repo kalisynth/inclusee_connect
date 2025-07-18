@@ -16,15 +16,8 @@
   {
     "Club Name": "Discovery Hub",
     "Brief": "Unlock a treasure trove of knowledge from\nrenowned experts, organisations, documentaries,\npodcasts, TED talks and recorded webinars during these sessions and learn something new.",
-    "Date/Time": "Monday 12.00pm",
-    "Facilitator(s)": "Volunteer - Megan",
-	"Active": "True"
-  },
-  {
-    "Club Name": "Discovery Hub",
-    "Brief": "Unlock a treasure trove of knowledge from\nrenowned experts, organisations, documentaries,\npodcasts, TED talks and recorded webinars during these sessions and learn something new.",
-    "Date/Time": "Thursday 12.00pm",
-    "Facilitator(s)": "Volunteer – Bree",
+    "Date/Time": "Monday 12.00pm & Thursday 12.00pm",
+    "Facilitator(s)": "Volunteer - Bree & Megan",
 	"Active": "True"
   },
   {
@@ -44,14 +37,7 @@
   {
     "Club Name": "Digital Help Desk",
     "Brief": "Drop in during this dedicated time—no appointment needed—to chat with our tech guru about any tech questions or issues you might have. It’s a relaxed, open space to get the help you need.",
-    "Date/Time": "Monday 2.00pm",
-    "Facilitator(s)": "Inclusee Staff -Maui",
-	"Active": "True"
-  },
-  {
-    "Club Name": "Digital Help Desk",
-    "Brief": "Drop in during this dedicated time—no appointment needed—to chat with our tech guru about any tech questions or issues you might have. It’s a relaxed, open space to get the help you need.",
-    "Date/Time": "Friday 10.00am",
+    "Date/Time": "Monday 2.00pm & Friday 10.00am",
     "Facilitator(s)": "Inclusee Staff -Maui",
 	"Active": "True"
   },
@@ -79,22 +65,8 @@
   {
     "Club Name": "Travel Club",
     "Brief": "Be whisked away in the comfort of your seat at home to destinations & landmarks around the world.  Visit them through the eyes of travellers to see the sights, history, culture & food.",
-    "Date/Time": "Tuesday 9.30am",
-    "Facilitator(s)": "Volunteer – Megan",
-	"Active": "True"
-  },
-  {
-    "Club Name": "Travel Club",
-    "Brief": "Be whisked away in the comfort of your seat at home to destinations & landmarks around the world.  Visit them through the eyes of travellers to see the sights, history, culture & food.",
-    "Date/Time": "Wednesday 11.00am",
-    "Facilitator(s)": "Volunteer – Libby/Behi\n(alternating weeks)",
-	"Active": "True"
-  },
-  {
-    "Club Name": "Travel Club",
-    "Brief": "Be whisked away in the comfort of your seat at home to destinations & landmarks around the world.  Visit them through the eyes of travellers to see the sights, history, culture & food.",
-    "Date/Time": "Thursday 2.00pm",
-    "Facilitator(s)": "Volunteer - Sasha",
+    "Date/Time": "Tuesday 9.30am & Wednesday 11.00am & Thursday 2.00pm",
+    "Facilitator(s)": "Volunteer - Megan & Volunteer - Libby/Behi & Volunteer - Sasha",
 	"Active": "True"
   },
   {
@@ -156,15 +128,8 @@
   {
     "Club Name": "Book Club",
     "Brief": "The Inclusee book club is a place where you can share what you are reading or a list of books that you have recently read in a social environment.  We do have Guest Author appearances at least 4 times in the year with opportunities to receive a free copy of their book with the compliments of Inclusee.  At the end of each session you may opt in to receive the list of books that were discussed for your reference.",
-    "Date/Time": "Wednesday 10.00am",
-    "Facilitator(s)": "Volunteer – Laura",
-	"Active": "True"
-  },
-  {
-    "Club Name": "Book Club",
-    "Brief": "The Inclusee book club is a place where you can share what you are reading or a list of books that you have recently read in a social environment.  We do have Guest Author appearances at least 4 times in the year with opportunities to receive a free copy of their book with the compliments of Inclusee.  At the end of each session you may opt in to receive the list of books that were discussed for your reference.",
-    "Date/Time": "Thursday 4.30pm",
-    "Facilitator(s)": "Volunteer – Elana",
+    "Date/Time": "Wednesday 10.00am & Thursday 4.30pm",
+    "Facilitator(s)": "Volunteer - Laura & Volunteer - Elana",
 	"Active": "True"
   },
   {
