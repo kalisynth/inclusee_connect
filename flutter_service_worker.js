@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ee81cf2c55aeea97e0596e0ece4a33fa
 "assets/AssetManifest.bin.json": "b8dd4a2613f8bb7cc085c88ff39aec84",
 "assets/AssetManifest.json": "da38be55dc05e739ce896a00ed903ef9",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
-"assets/assets/config/vcc_program_table.json": "84f940bdf2a7adc080222dd67957c5a5",
+"assets/assets/config/vcc_program_table.json": "9fc8cbc54b633800a9fe0f78ad191037",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
 "assets/assets/img/defaults/default_avatar.png": "d96c2c91caa2043e1da4b89e9031423d",
 "assets/assets/img/defaults/default_avatar_meet.png": "bf8fdae57c026b35f5494989eef39eb2",
@@ -338,10 +338,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "ee81cf2c55aeea97e0596e0ece4a33fa
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "c64149797e4d95dbe4c021cdb6b08762",
-"/": "c64149797e4d95dbe4c021cdb6b08762",
+"index.html": "3757f9a4000c4b696e61698b3ab0f447",
+"/": "3757f9a4000c4b696e61698b3ab0f447",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "3b46fa66677aab7f3ff47066061006ee",
+"main.dart.js": "4da0b2c4a1c963c40dd25b093eb5c3aa",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
