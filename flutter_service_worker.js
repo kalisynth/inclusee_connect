@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0766fae96b0cac06f30dc3480a761583",
-"assets/AssetManifest.bin.json": "4f87daa556883d0b135be2a002acc3a8",
-"assets/AssetManifest.json": "fa511e99360fa789993c087848d7c7e6",
+const RESOURCES = {"assets/AssetManifest.bin": "32831bc9086e99c661b5855ce36f43e8",
+"assets/AssetManifest.bin.json": "88ea3d8695ecd02fc960a8ebe08cfabc",
+"assets/AssetManifest.json": "17b84bd58c7724ced4ac03d3e7698c57",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/config/vcc_program_table.json": "d6a327651e5160085cb1060e6ec3c950",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
@@ -295,6 +295,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0766fae96b0cac06f30dc3480a761583
 "assets/assets/img/timetable/weekly/receipes.png": "83a035f11ce01220220b5d218bbe53eb",
 "assets/assets/img/timetable/weekly/shedstxt.png": "17b53e086963751e80d9b23a6ddc06f8",
 "assets/assets/img/timetable/weekly/singingtxt.png": "563f422449ffc598a5b11c1f6d75078a",
+"assets/assets/img/timetable/weekly/Stand-up%2520Comedy%2520Club.png": "f215a928c6f37b79bc5e7daf65ec0bbe",
 "assets/assets/img/timetable/weekly/startedtxt.png": "dd3cf704bf1dffba3ac675788ecb0c30",
 "assets/assets/img/timetable/weekly/Sustainability%2520Club.png": "599b718b63493ad8719ff1f38bd0e02d",
 "assets/assets/img/timetable/weekly/theatre.png": "c84352889b7843253bf419dd853dfa01",
@@ -348,10 +349,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "0766fae96b0cac06f30dc3480a761583
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "eacdfec481f93c3aaabd856a87b5b204",
-"/": "eacdfec481f93c3aaabd856a87b5b204",
+"index.html": "1f83d140e5a4c584dfb3bf3707546940",
+"/": "1f83d140e5a4c584dfb3bf3707546940",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "531abd1d08f201a143c157800cc61da8",
+"main.dart.js": "65d08dd98ef7e04fcc837de026dabc38",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
